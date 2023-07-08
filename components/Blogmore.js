@@ -24,14 +24,14 @@ function Blogmore({ data }) {
           </div>
           <div
             dangerouslySetInnerHTML={{
-              __html: data.description
+              __html: data.description,
             }}
           />
         </div>
         {/* ))} */}
 
         <div>
-          <span >Tags: - </span>{' '}
+          <span>Tags: - </span>{' '}
           {data.tags?.map((item, index) => (
             <span key={`tag-${index}-${item}`}>{item}, </span>
           ))}

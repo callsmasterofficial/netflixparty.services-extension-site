@@ -15,8 +15,8 @@ function MyApp({ Component, pageProps }) {
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
  
-  gtag('config', 'UA-${siteConfig.gtagId}');`;
-  const gtagUrl=`https://www.googletagmanager.com/gtag/js?id=UA-${siteConfig.gtagId}`;
+  gtag('config', 'UA-${siteConfig.gtagId}');`
+  const gtagUrl = `https://www.googletagmanager.com/gtag/js?id=UA-${siteConfig.gtagId}`
   return (
     <>
       <Head>
@@ -25,7 +25,9 @@ function MyApp({ Component, pageProps }) {
             ? pageProps.meta.title
             : 'Netflix Party - Stream Netflix with Your Friends | Install the Extension'}
         </title>
-        {pageProps.meta && <meta property="og:image" content={pageProps.meta.featuredImage} />}
+        {pageProps.meta && (
+          <meta property="og:image" content={pageProps.meta.featuredImage} />
+        )}
         {pageProps.meta && <Seotags meta={pageProps.meta} />}
         <link rel="icon" href="/favicon.ico" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -40,10 +42,7 @@ function MyApp({ Component, pageProps }) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: mySchema }}
         />
-        <script
-          async
-          src={gtagUrl}
-        ></script>
+        <script async src={gtagUrl}></script>
         <script dangerouslySetInnerHTML={{ __html: gtagCode }} />
       </Head>
       <Component {...pageProps} />

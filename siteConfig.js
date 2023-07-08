@@ -1,16 +1,16 @@
 export default {
   siteName: 'Netflix Party',
-  url:"https://www.netflixparty.services",
-  blogUrl: "/blog",
-  siteId: "62a8664792c68b0d2f1e40a8",
+  url: 'https://www.netflixparty.services',
+  blogUrl: '/blog',
+  siteId: '62a8664792c68b0d2f1e40a8',
   extLink: {
     chrome:
-    'https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc',
-  firefox: 'https://addons.mozilla.org/addon/netflix-party-firefox/',
-  edge: 'https://microsoftedge.microsoft.com/addons/detail/okcfdfojiahgjgabmheemffikfagmgcb',
+      'https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc',
+    firefox: 'https://addons.mozilla.org/addon/netflix-party-firefox/',
+    edge: 'https://microsoftedge.microsoft.com/addons/detail/okcfdfojiahgjgabmheemffikfagmgcb',
   },
   logo: '/logo.png',
-  gtagId:"210083555-15",
+  gtagId: '210083555-15',
   section: {
     first: {
       heading: 'NETFLIX AND CHILL WITH FRIENDS VIA NETFLIX PARTY.',
@@ -67,7 +67,6 @@ export default {
           answer:
             'Now, you have successfully created a seamless Netflix Watch Party. Therefore, share the generated invitation URL with all the friends you want at the watch party.',
         },
-
       ],
     },
     three: {
@@ -78,78 +77,73 @@ export default {
         'https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4',
       accordian: [
         {
-          id: "t1",
+          id: 't1',
           question: 'LIMITLESS WATCH PARTY MEMBERS',
           answer:
             'Did you know that there’s no limit to how many people could join your watch party? With this <b>Netflix Party</b> extension, you can enter as many people as you’d like into your watch party. Therefore, no matter how many people want to be a part of your watch party, you could get them in just by sharing the invitation URL with them.',
         },
 
         {
-          id: "t2",
+          id: 't2',
           question: 'CONTROL THE NETFLIX WATCH PARTY',
           answer:
             'You can get complete control of the watch party settings. Moreover, you can enable full control in your hand by turning the “ONLY I HAVE CONTROL” button green and acquiring control of the watch party. Therefore, you have the authority over Play, Pause, Forward, and Rewind settings. In addition to this, note that the system settings still remain with the watch party members. Therefore, all the watch party members can still modify their audio, language, and subtitle settings.',
         },
 
         {
-          id: "t3",
+          id: 't3',
           question: 'ENJOY THE LIVE GROUP CHAT',
           answer:
             'You can jollify your watch party to the next level by chatting via the group chat feature of the watch party. However, the live chat will appear in the sidebar of the watch party. You can send reactions to particular scenes while streaming together. Therefore, there’s nothing better than this to feel more connected to your loved ones. Chat while streaming at your watch party.',
         },
         {
-          id: "t4",
+          id: 't4',
           question: 'PERSONALIZE THE NETFLIX PARTY',
           answer:
             'You get the option of customizing your user profile and giving it a personal touch. Therefore, you can choose a fun nickname for your profile. Moreover, you can also select a user icon from the inbuilt avatars. However, your nickname and user icon will appear in your watch party and group chat.',
         },
 
         {
-          id: "t5",
+          id: 't5',
           question: 'SYNC SEAMLESSLY',
           answer:
             'It does not matter where you or your loved ones are. You can stream Netflix in sync with them. The extension creates smooth watch parties with perfect sync. Therefore, even while skipping or pausing, sync remains intact. Hence you all get to watch together in real-time.',
         },
 
         {
-          id: "t6",
+          id: 't6',
           question: 'ULTIMATE HD VIDEO EXPERIENCE',
           answer:
             'Are you also a binge-watcher and a Netflix lover? Then you would love a Netflix Party with the fantastic video quality. Therefore, that’s precisely what we are offering you. You can now experience HD quality video with the fast buffering speed in all your videos. Hence, don’t wait anymore and start installing this free tool now so you can stream in style.',
         },
 
         {
-          id: "t7",
+          id: 't7',
           question: 'FREE AND WORLDWIDE',
           answer:
             'The best part is that extension is absolutely free, and you don’t have to invest in anything to enjoy a Netflix watch party with your friends. Apart from that, this extension is available worldwide. Therefore, you can enjoy streaming with your loved ones from any corner of the world. However, please make sure Netflix is available in all the countries where you’re trying to host the watch party. Although all watch party members must be in the same country, people can still use the VPN service and change their country if they belong to another one.',
         },
-
-        
-        
-        
-   
       ],
     },
   },
   faq: {
     accordian: [
       {
-        id: "f1",
+        id: 'f1',
         question: 'What Is a Netflix party? ',
         answer:
           'Netflix Party is a free extension specially made for movie freaks to enjoy the best streaming in sync. This extension is equipped with incredible features that make it more worthy and capable of enjoying a fun time with distant friends. ',
       },
 
       {
-        id: "f2",
+        id: 'f2',
         question: 'Which are the compatible devices of Netflix Party?',
         answer:
           'It has various compatibility, for example, Chromebook, Windows, or macOS laptops and PCs. Choose any of these and enjoy the best streaming along with your long-distance friends.  ',
       },
 
       {
-        id: "f3",
+        id: 'f3',
         question: 'How many friends can I add to my Netflix Watch Party?',
         answer:
           'There are no limitations on the number of friends at the watch party, and you can enjoy a large company of friends while binge-watching. In short, this extension allows users to add as many people as they want to the watch party at once.',
@@ -161,7 +155,7 @@ export default {
       },
 
       {
-        id: "f4",
+        id: 'f4',
         question: 'Can I chat at a Netflix party?',
         answer:
           'Yes, of course. This extension has an incredible chat feature to make you all feel connected with each-other. Not only chat but you can react to the messages and send fun emojis to make it more delightful.',
@@ -173,7 +167,7 @@ export default {
       },
 
       {
-        id: "f5",
+        id: 'f5',
         question: 'How Many Friends Can I Invite at my Netflix Watch party?',
         answer:
           'You will start loving this extension once you know that you can add as many as you want to. Enjoy the Netflix streaming with all and create memories with all of them.',
@@ -186,11 +180,14 @@ export default {
     ],
   },
   footer: {
-      subheading: "Let us know.",
-      title: "Have questions? Visit our support page",
-      tags:[ " Netflix Party", "Netflix Watch Party",
-        " Netflix Party, Netflix Watch Party, Netflix Party Extension, Netflix Party Chrome Extension, Watch Party Netflix, How to do Netflix Party, How to use Netflix Party, How to do a Netflix Party, Netflix Watch Party Extension",
-      ],
-      disclaimer:" Netflix is a trademark of Netflix, Inc. This website & extension hold no association or affiliation with Netflix or any third-party companies."
+    subheading: 'Let us know.',
+    title: 'Have questions? Visit our support page',
+    tags: [
+      ' Netflix Party',
+      'Netflix Watch Party',
+      ' Netflix Party, Netflix Watch Party, Netflix Party Extension, Netflix Party Chrome Extension, Watch Party Netflix, How to do Netflix Party, How to use Netflix Party, How to do a Netflix Party, Netflix Watch Party Extension',
+    ],
+    disclaimer:
+      ' Netflix is a trademark of Netflix, Inc. This website & extension hold no association or affiliation with Netflix or any third-party companies.',
   },
 }
