@@ -1,0 +1,133 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Afegir a", "free": "És Gratuït" },
+    "navBarHeading": "ja està disponible a Google Chrome, Microsoft Edge i Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "NETFLIX I CHILL AMB ELS AMICS PER LA FESTA DE NETFLIX.",
+      "html": "Encara esteu atrapats en la forma antiga i avorrida de fer streaming? Instal·leu l'extensió gratuïta <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a> i trieu el mètode de la nova era per relaxar-vos amb els teus amics llunyans. Per tant, gaudeix de milers de programes i pel·lícules de Netflix sincronitzats amb els teus amics a qualsevol part del món. Pots organitzar o unir-te a una festa de rellotge perfecta sincronitzada, que es manté intacte fins i tot mentre saltes i fas una pausa. A més, podeu experimentar la transmissió en HD definitiva amb la ràpida velocitat de memòria intermèdia amb aquesta eina. Per tant, no espereu més i baixeu l'extensió ara. A més, aquí t'expliquem com pots organitzar o unir-te a una festa de rellotge amb qualsevol persona de tot el món de manera gratuïta.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
+    },
+    "second": {
+      "heading": "Com utilitzar l'extensió de festa de Netflix",
+      "subHeading": "Heu d'haver experimentat mirant Netflix amb persones a la mateixa habitació ia la mateixa pantalla. No obstant això, mai no hauríeu imaginat que podríeu reproduir amb ells malgrat la distància entre vosaltres? Per tant, ara podeu crear una festa de rellotge en uns quants passos senzills amb ells, sense importar la distància entre vosaltres-",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "INSTAL·LA L'EXTENSIÓ",
+          "answer": "El primer pas és baixar l'extensió de la festa de Netflix <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Feu clic aquí</u></a>per instal·lar l'extensió gratuïta i fàcil d'utilitzar. A més, assegureu-vos que teniu un navegador Google Chrome o Microsoft Edge per instal·lar-lo. A més, l'extensió és compatible amb Chromebooks, macOS, ordinadors portàtils, Windows i ordinadors."
+        },
+        {
+          "id": "2",
+          "question": "PIN L'EXTENSIÓ",
+          "answer": "A continuació, heu de fixar l'extensió a la barra d'eines. Tanmateix, si no veieu la icona de l'extensió de la festa de Netflix, feu clic a la icona del trencaclosques a la cantonada dreta a la part superior del navegador. Hi trobareu la icona de l'extensió, perquè la pugueu fixar."
+        },
+        {
+          "id": "3",
+          "question": "COMENÇA A NETFLIXING",
+          "answer": "Ara, obriu Netflix i inicieu sessió al vostre compte. Recordeu que necessiteu la vostra subscripció individual a Netflix per crear una festa de rellotge. A més, tots els membres del grup de rellotges necessiten les seves subscripcions a Netflix per unir-se."
+        },
+        {
+          "id": "4",
+          "question": "CERCAR, CONFIGURAR, JUGAR",
+          "answer": "A més, cerca el teu programa preferit de Netflix o una pel·lícula. O pots cercar qualsevol altre vídeo que vulguis gaudir amb els teus amics i reproduir-lo."
+        },
+        {
+          "id": "5",
+          "question": "CREA LA PATRIA DE RELOJES DE NETFLIX",
+          "answer": "Per al pas final, feu clic a la icona de l'extensió fixada. S'obrirà una petita finestra emergent anomenada \"CREA UNA FESTA DE GUARDAR\" amb un botó anomenat \"INICIA UNA FESTA\". Feu clic a aquest botó per obtenir un enllaç d'invitació a la festa de rellotge que podeu compartir amb els vostres amics."
+        },
+        {
+          "id": "6",
+          "question": "COMPARTIR L'ALEGRIA",
+          "answer": "Ara, heu creat amb èxit una Netflix Watch Party perfecta. Per tant, compartiu l'URL d'invitació generat amb tots els amics que vulgueu a la festa del rellotge."
+        }
+      ]
+    },
+    "three": {
+      "heading": "COM SUMAR-HI??",
+      "subHeading": "Unir-se a la festa de Netflix és molt senzill i sense esforç. Tanmateix, heu de seguir el mateix procediment d'inici que per crear un grup de vigilància. Per tant, cal instal·lar i fixar aquesta extensió de Chrome i, després, iniciar sessió al vostre compte de Netflix. A més, tingueu en compte que heu de tenir la vostra subscripció individual a Netflix per unir-vos a la festa del rellotge. Després de tot això, només cal que feu clic a l'URL de la invitació rebuda pel vostre amic. I voilà, heu arribat a la millor festa de rellotges de la història, malgrat els quilòmetres.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "MEMBRES DEL PARTIT DE GUARDA LES LÍMITS",
+          "answer": "Sabíeu que no hi ha límit per quantes persones es poden unir a la vostra festa de rellotge? Amb aquesta extensió <b>Netflix Party</b>, podeu introduir tantes persones com vulgueu a la vostra festa de rellotge. Per tant, no importa quantes persones vulguin formar part de la vostra festa de rellotge, podeu fer-los entrar només compartint l'URL d'invitació amb ells."
+        },
+        {
+          "id": "t2",
+          "question": "CONTROLA LA FESTA DE GUARDA DE NETFLIX",
+          "answer": "Podeu obtenir un control complet de la configuració de la festa del rellotge. A més, podeu activar el control total a la mà girant el botó \"NOMÉS TINC CONTROL\" en verd i adquirint el control de la festa del rellotge. Per tant, tens autoritat sobre la configuració de Reproduir, Pausa, Endavant i Rebobinar. A més d'això, tingueu en compte que la configuració del sistema encara roman amb els membres del grup de vigilància. Per tant, tots els membres del grup de visualització encara poden modificar la seva configuració d'àudio, idioma i subtítols."
+        },
+        {
+          "id": "t3",
+          "question": "GAUDIU DEL XAT EN GRUP EN DIRECTE",
+          "answer": "Pots animar la teva festa de rellotge al següent nivell xatejant mitjançant la funció de xat grupal de la festa de rellotge. Tanmateix, el xat en directe apareixerà a la barra lateral de la festa de rellotge. Podeu enviar reaccions a escenes concretes mentre reproduïu junts. Per tant, no hi ha res millor que això per sentir-se més connectat amb els vostres éssers estimats. Xateja mentre es reprodueix a la teva festa del rellotge."
+        },
+        {
+          "id": "t4",
+          "question": "PERSONALITZA LA FESTA DE NETFLIX",
+          "answer": "Tens l'opció de personalitzar el teu perfil d'usuari i donar-li un toc personal. Per tant, podeu triar un sobrenom divertit per al vostre perfil. A més, també podeu seleccionar una icona d'usuari dels avatars integrats. Tanmateix, el vostre àlies i la icona d'usuari apareixeran al vostre grup de visualització i al xat de grup."
+        },
+        {
+          "id": "t5",
+          "question": "SINCRONITZAR PERFECTE",
+          "answer": "No importa on estiguis tu o els teus éssers estimats. Podeu reproduir Netflix sincronitzat amb ells. L'extensió crea festes de rellotge suaus amb una sincronització perfecta. Per tant, fins i tot mentre es salta o s'atura, la sincronització es manté intacta. Per tant, podreu veure tots junts en temps real."
+        },
+        {
+          "id": "T 6",
+          "question": "ÚLTIMA EXPERIÈNCIA DE VÍDEO HD",
+          "answer": "També ets un observador d'afartaments i un amant de Netflix? Aleshores us encantaria una festa de Netflix amb la fantàstica qualitat de vídeo. Per tant, això és precisament el que us oferim. Ara podeu experimentar vídeos de qualitat HD amb la ràpida velocitat de memòria intermèdia en tots els vostres vídeos. Per tant, no esperis més i comenceu a instal·lar aquesta eina gratuïta ara perquè pugueu reproduir amb estil."
+        },
+        {
+          "id": "t7",
+          "question": "GRATUÏT I A ​​TOT EL MÓN",
+          "answer": "La millor part és que l'extensió és totalment gratuïta i no cal invertir en res per gaudir d'una festa de rellotge de Netflix amb els teus amics. A part d'això, aquesta extensió està disponible a tot el món. Per tant, podeu gaudir de la reproducció amb els vostres éssers estimats des de qualsevol racó del món. Tanmateix, assegureu-vos que Netflix estigui disponible a tots els països on intenteu organitzar la festa de visualització. Tot i que tots els membres del grup de vigilància han d'estar al mateix país, les persones encara poden utilitzar el servei VPN i canviar de país si pertanyen a un altre."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Preguntes freqüents",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Com funciona l'extensió Netflix Party?",
+        "answer": "L'extensió Netflix Party permet als usuaris sincronitzar els seus fluxos de Netflix amb els amics, creant una festa de rellotge virtual. Els usuaris poden organitzar o unir-se a festes i veure programes i pel·lícules junts en temps real."
+      },
+      {
+        "id": "f2",
+        "question": "L'extensió Netflix Party és gratuïta?",
+        "answer": "Sí, l'extensió Netflix Party es pot descarregar i utilitzar completament gratuïta. Els usuaris poden gaudir de la transmissió sincronitzada amb els amics sense cap cost addicional."
+      },
+      {
+        "id": "f3",
+        "question": "Hi ha restriccions sobre el nombre de participants en una festa de vigilància?",
+        "answer": "No, no hi ha limitacions en el nombre de participants en una festa de visualització de Netflix Party. Els usuaris poden convidar tants amics com vulguin, per la qual cosa és ideal per a grups grans."
+      },
+      {
+        "id": "f4",
+        "question": "Puc controlar la reproducció durant una festa de Netflix?",
+        "answer": "Sí, els amfitrions tenen l'opció d'activar el control total sobre la configuració de reproducció, inclosa la reproducció, la pausa, l'avançament i el rebobinat. Tanmateix, els participants encara poden ajustar la seva configuració individual d'àudio, idioma i subtítols."
+      },
+      {
+        "id": "f5",
+        "question": "L'extensió Netflix Party està disponible a tot el món?",
+        "answer": "Sí, l'extensió Netflix Party està disponible a tot el món. Els usuaris poden organitzar festes de visualització amb amics de qualsevol racó del món, sempre que Netflix sigui accessible als seus països respectius. A més, els participants poden utilitzar serveis VPN per unir-se a grups allotjats en altres països."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Fes-nos-ho saber.",
+    "anyQuestions": "Tens preguntes? Visiteu la nostra pàgina d'assistència",
+    "blog": "Bloc",
+    "popularSearches": "Cerques populars",
+    "disclaimer": "Exempció de responsabilitat",
+    "disclaimerContent": "Netflix és una marca comercial de Netflix, Inc. Aquest lloc web",
+    "footerTags": [
+      "Netflix Watch Party, Netflix Party, Netflix Party Extension, Netflix Party Chrome Extension, Watch Party Netflix, Com fer Netflix Party, Com utilitzar Netflix Party, Com fer una Netflix Party, Netflix Watch Party Extension, Netflix Party Baixa l'extensió Chrome, Instal·leu l'extensió de Chrome de Netflix"
+    ]
+  }
+}

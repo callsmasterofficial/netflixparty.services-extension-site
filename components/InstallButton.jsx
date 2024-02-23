@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import siteConfig from '../siteConfig'
 import Chrome from './icons/Chrome'
 
-function InstallButton() {
+function InstallButton({ installBtn = {} }) {
   const [extUrl, setExtUrl] = useState('')
   const [browser, setBrowser] = useState('')
   useEffect(() => {
@@ -51,7 +51,7 @@ function InstallButton() {
         <button className="Add-to-chrome button-box primary flex  cursor-pointer rounded-[4px] p-2.5">
           <Chrome />
           <p className="h2 secondary_text_color  pl-2.5 font-bold text-white">
-            Add to {browser}{' '}
+            {installBtn.addTo} {browser}{' '}
             <span
               style={{
                 fontSize: '12px',
@@ -59,7 +59,7 @@ function InstallButton() {
                 fontWeight: '600',
               }}
             >
-              it&apos;s free
+              {installBtn.free}
             </span>
           </p>
         </button>

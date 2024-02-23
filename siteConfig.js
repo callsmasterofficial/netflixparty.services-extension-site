@@ -1,6 +1,6 @@
 export default {
   siteName: 'Netflix Party',
-  url: 'https://www.netflixparty.services',
+  url: 'https://www.netflixparty.services/',
   blogUrl: '/blog',
   siteId: '62a8664792c68b0d2f1e40a8',
   extLink: {
