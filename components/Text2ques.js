@@ -1,8 +1,7 @@
 import React, { useState } from 'react'
-import siteConfig from '../siteConfig'
 import CustomAccordion from './CustomAccordion'
 
-function Textques() {
+function Textques({ home }) {
   const [show, setShow] = useState('')
 
   function toggleFunc(item) {
@@ -12,7 +11,7 @@ function Textques() {
   return (
     <>
       <div className="accordion" id="accordionExample">
-        {siteConfig.section.three.accordian.map((item) => (
+        {home.section.three.accordian.map((item) => (
           <div className="accordion-item" key={item.id}>
             <CustomAccordion
               item={item}

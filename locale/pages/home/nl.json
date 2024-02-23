@@ -1,0 +1,133 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Optellen bij", "free": "Het is gratis" },
+    "navBarHeading": "is nu beschikbaar op Google Chrome, Microsoft Edge en Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "NETFLIX EN CHILLEN MET VRIENDEN VIA NETFLIX PARTY.",
+      "html": "Zit je nog steeds vast in de oude en saaie manier van streamen? Installeer de gratis <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a>-extensie en kies de nieuwe manier van chillen met je verre vrienden. Geniet daarom gesynchroniseerd van duizenden Netflix-shows en films met je vrienden, waar ook ter wereld. U kunt een naadloze, gesynchroniseerde kijkparty organiseren of eraan deelnemen, die intact blijft, zelfs tijdens het overslaan en pauzeren. Bovendien kun je met deze tool de ultieme HD-streaming ervaren met de hoge buffersnelheid. Wacht daarom niet langer en download de extensie nu. Bovendien kunt u als volgt gratis een kijkfeest organiseren of eraan deelnemen met iedereen over de hele wereld.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
+    },
+    "second": {
+      "heading": "Hoe gebruik je de Netflix Party-extensie?",
+      "subHeading": "Je hebt vast ervaring met het kijken naar Netflix met mensen in dezelfde kamer en op hetzelfde scherm. Je had echter nooit gedacht dat je ondanks de afstand tussen jullie samen met hen zou kunnen streamen? Daarom kun je nu in een paar eenvoudige stappen een kijkfeestje creëren, ongeacht de afstand tussen jullie.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "INSTALLEER DE UITBREIDING",
+          "answer": "De eerste stap is het downloaden van de Netflix-party-extensie <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Klik hier</u></a> om de gratis, gebruiksvriendelijke extensie te installeren. Zorg er bovendien voor dat u de browser Google Chrome of Microsoft Edge heeft om deze te installeren. Bovendien is de extensie compatibel met Chromebooks, macOS, laptops, Windows en computers."
+        },
+        {
+          "id": "2",
+          "question": "PIN DE VERLENGING",
+          "answer": "Vervolgens moet u de extensie op de werkbalk vastzetten. Als je het Netflix-party-extensiepictogram echter niet ziet, klik dan op het puzzelpictogram in de rechterhoek bovenaan de browser. Daar vindt u het extensiepictogram, zodat u het kunt vastzetten."
+        },
+        {
+          "id": "3",
+          "question": "BEGIN MET NETFLIXEN",
+          "answer": "Open nu Netflix en log in op uw account. Houd er rekening mee dat je voor het maken van een watchparty je individuele abonnement op Netflix nodig hebt. Bovendien hebben alle leden van de watch party hun afzonderlijke Netflix-abonnementen nodig om mee te doen."
+        },
+        {
+          "id": "4",
+          "question": "ZOEKEN, INSTELLEN, SPELEN",
+          "answer": "Zoek verder naar je favoriete Netflix-programma of een film. Of u kunt naar een andere video zoeken waarvan u met uw vrienden wilt genieten en deze afspelen."
+        },
+        {
+          "id": "5",
+          "question": "MAAK DE NETFLIX HORLOGE PATRY",
+          "answer": "Voor de laatste stap klikt u op het vastgezette extensiepictogram. Een kleine pop-up met de naam ‘CREATE A WATCH PARTY’ wordt geopend met een knop genaamd ‘START A PARTY’. Klik op die knop om een ​​uitnodigingslink voor het kijkfeest te krijgen die u met uw vrienden kunt delen."
+        },
+        {
+          "id": "6",
+          "question": "DEEL DE VREUGDE",
+          "answer": "Nu heb je met succes een naadloze Netflix Watch Party gemaakt. Deel daarom de gegenereerde uitnodigings-URL met alle vrienden die je op het kijkfeest wilt hebben."
+        }
+      ]
+    },
+    "three": {
+      "heading": "HOE DEELNEMEN??",
+      "subHeading": "Het is heel eenvoudig en moeiteloos om deel te nemen aan de Netflix Party. U moet echter dezelfde startprocedure volgen als het aanmaken van een watchparty. Daarom moet u deze Chrome-extensie installeren en vastzetten en daarna inloggen op uw Netflix-account. Houd er bovendien rekening mee dat u over een individueel Netflix-abonnement moet beschikken om deel te kunnen nemen aan de watchparty. Na dit alles hoeft u alleen maar op de uitnodigings-URL te klikken die uw vriend heeft ontvangen. En voila, je hebt ondanks de kilometers het beste kijkfeest ooit bereikt.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "ONBEPERKTE KIJK PARTYLEDEN",
+          "answer": "Wist je dat er geen limiet is aan het aantal mensen dat deel kan nemen aan je kijkfeest? Met deze <b>Netflix Party</b>-extensie kun je zoveel mensen als je wilt deelnemen aan je kijkfeest. Daarom kunt u, ongeacht hoeveel mensen deel willen uitmaken van uw kijkfeest, ze binnenhalen door de uitnodigings-URL met hen te delen."
+        },
+        {
+          "id": "t2",
+          "question": "BEHEERS DE NETFLIX WATCH PARTY",
+          "answer": "U krijgt volledige controle over de instellingen voor de watchparty. Bovendien kunt u de volledige controle in uw hand inschakelen door de knop \"ONLY I HAVE CONTROL\" groen te maken en de controle over de watch party te verwerven. Daarom hebt u de bevoegdheid over de instellingen voor afspelen, pauzeren, vooruitspoelen en terugspoelen. Houd er bovendien rekening mee dat de systeeminstellingen nog steeds bij de leden van de watch party blijven. Daarom kunnen alle leden van de kijkpartij nog steeds hun audio-, taal- en ondertitelinstellingen wijzigen."
+        },
+        {
+          "id": "t3",
+          "question": "GENIET VAN DE LIVE GROEP CHAT",
+          "answer": "Je kunt je kijkfeest naar een hoger niveau tillen door te chatten via de groepschatfunctie van het kijkfeest. De livechat verschijnt echter in de zijbalk van het kijkfeest. Je kunt reacties op bepaalde scènes sturen terwijl je samen streamt. Daarom is er niets beter dan dit om je meer verbonden te voelen met je dierbaren. Chat terwijl je streamt op je kijkfeestje."
+        },
+        {
+          "id": "t4",
+          "question": "PERSONALISEER HET NETFLIX-FEEST",
+          "answer": "U krijgt de mogelijkheid om uw gebruikersprofiel aan te passen en een persoonlijk tintje te geven. Daarom kun je een leuke bijnaam voor je profiel kiezen. Bovendien kunt u ook een gebruikerspictogram selecteren uit de ingebouwde avatars. Uw bijnaam en gebruikerspictogram verschijnen echter in uw kijkparty en groepschat."
+        },
+        {
+          "id": "t5",
+          "question": "NAADLOOS SYNCHRONISEREN",
+          "answer": "Het maakt niet uit waar u of uw dierbaren zich bevinden. Je kunt Netflix gesynchroniseerd met ze streamen. De extensie zorgt voor soepele kijkfeesten met perfecte synchronisatie. Daarom blijft de synchronisatie intact, zelfs tijdens het overslaan of pauzeren. Zo kunnen jullie allemaal samen in realtime kijken."
+        },
+        {
+          "id": "t6",
+          "question": "ULTIEME HD-VIDEO-ERVARING",
+          "answer": "Ben jij ook een bingewatcher en Netflix-liefhebber? Dan wil je graag een Netflix Party met de fantastische videokwaliteit. Daarom is dat precies wat wij u bieden. Je kunt nu video van HD-kwaliteit ervaren met de hoge buffersnelheid in al je video's. Wacht daarom niet langer en begin nu met het installeren van deze gratis tool, zodat je in stijl kunt streamen."
+        },
+        {
+          "id": "t7",
+          "question": "GRATIS EN WERELDWIJD",
+          "answer": "Het beste is dat de verlenging helemaal gratis is en dat je nergens in hoeft te investeren om met je vrienden van een Netflix-kijkfeestje te genieten. Daarnaast is deze extensie wereldwijd beschikbaar. Daarom kunt u vanuit elke hoek van de wereld genieten van streaming met uw dierbaren. Zorg er echter voor dat Netflix beschikbaar is in alle landen waar je de watchparty probeert te organiseren. Hoewel alle leden van de watch party zich in hetzelfde land moeten bevinden, kunnen mensen nog steeds de VPN-service gebruiken en hun land wijzigen als ze tot een ander land behoren."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Veel Gestelde Vragen",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Hoe werkt de Netflix Party-extensie?",
+        "answer": "Met de Netflix Party-extensie kunnen gebruikers hun Netflix-streams synchroniseren met vrienden, waardoor een virtueel kijkfeest ontstaat. Gebruikers kunnen feesten organiseren of eraan deelnemen en samen in realtime shows en films bekijken."
+      },
+      {
+        "id": "f2",
+        "question": "Is de Netflix Party-extensie gratis te gebruiken?",
+        "answer": "Ja, de Netflix Party-extensie is volledig gratis te downloaden en te gebruiken. Gebruikers kunnen zonder extra kosten genieten van gesynchroniseerde streaming met vrienden."
+      },
+      {
+        "id": "f3",
+        "question": "Zijn er beperkingen op het aantal deelnemers aan een watchparty?",
+        "answer": "Nee, er zijn geen beperkingen op het aantal deelnemers aan een Netflix Party-kijkparty. Gebruikers kunnen zoveel vrienden uitnodigen als ze willen, waardoor het ideaal is voor grote groepen."
+      },
+      {
+        "id": "f4",
+        "question": "Kan ik het afspelen regelen tijdens een Netflix Party?",
+        "answer": "Ja, hosts hebben de mogelijkheid om volledige controle over de afspeelinstellingen in te schakelen, inclusief afspelen, pauzeren, vooruitspoelen en terugspoelen. Deelnemers kunnen echter nog steeds hun individuele audio-, taal- en ondertitelinstellingen aanpassen."
+      },
+      {
+        "id": "f5",
+        "question": "Is de Netflix Party-extensie wereldwijd beschikbaar?",
+        "answer": "Ja, de Netflix Party-extensie is wereldwijd beschikbaar. Gebruikers kunnen kijkfeesten organiseren met vrienden uit alle hoeken van de wereld, op voorwaarde dat Netflix toegankelijk is in hun respectievelijke landen. Bovendien kunnen deelnemers VPN-services gebruiken om deel te nemen aan feesten die in andere landen worden gehost."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Laat het ons weten.",
+    "anyQuestions": "Vragen hebben? Bezoek onze ondersteuningspagina",
+    "blog": "Bloggen",
+    "popularSearches": "populaire zoekopdrachten",
+    "disclaimer": "Vrijwaring",
+    "disclaimerContent": "Netflix is ​​een handelsmerk van Netflix, Inc. Deze website",
+    "footerTags": [
+      "Netflix Watch Party, Netflix Party, Netflix Party Extensie, Netflix Party Chrome Extensie, Watch Party Netflix, Hoe Netflix Party te doen, Hoe Netflix Party te gebruiken, Hoe een Netflix Party te doen, Netflix Watch Party Extensie,Netflix Party Download Chrome Extensie, Installeer de Netflix Chrome-extensie"
+    ]
+  }
+}

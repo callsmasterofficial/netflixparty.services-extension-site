@@ -1,0 +1,133 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Pievienot", "free": "Tas ir bezmaksas" },
+    "navBarHeading": "tagad ir pieejams pārlūkprogrammās Google Chrome, Microsoft Edge un Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "NETFLIX UN CILL AR DRAUGIEM, izmantojot NETFLIX PARTY.",
+      "html": "Vai joprojām esat iestrēdzis vecajā un garlaicīgajā straumēšanas veidā? Instalējiet bezmaksas paplašinājumu <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a> un izvēlieties jaunā laika atvēsināšanās metodi tavi attālie draugi. Tāpēc izbaudiet tūkstošiem Netflix šovu un filmu sinhronizācijā ar draugiem visā pasaulē. Varat sinhroni vadīt vai pievienoties nevainojamai pulksteņu ballītei, kas paliek neskarta pat izlaižot un apturot. Turklāt ar šo rīku varat izbaudīt izcilu HD straumēšanu ar ātro buferizācijas ātrumu. Tāpēc negaidiet vairāk un lejupielādējiet paplašinājumu tūlīt. Turklāt šeit ir norādīts, kā bez maksas varat uzņemt vai pievienoties pulksteņu ballītei ar jebkuru citu personu visā pasaulē.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
+    },
+    "second": {
+      "heading": "Kā izmantot Netflix ballītes paplašinājumu",
+      "subHeading": "Jums noteikti ir bijusi pieredze, skatoties Netflix kopā ar cilvēkiem vienā telpā un vienā ekrānā. Tomēr jūs nekad nebūtu iedomājušies, ka varat straumēt kopā ar viņiem, neskatoties uz attālumu starp jums? Tāpēc tagad jūs varat izveidot pulksteņu ballīti, veicot dažas vienkāršas darbības ar viņiem, neatkarīgi no attāluma starp jums.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "UZSTĀDĪT PAPLAŠINĀJUMU",
+          "answer": "Vispirms ir jālejupielādē Netflix ballītes paplašinājums. <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Noklikšķiniet šeit</u></a>, lai instalētu bezmaksas, lietotājam draudzīgo paplašinājumu. Turklāt, lūdzu, pārliecinieties, vai jums ir pārlūks Google Chrome vai Microsoft Edge, lai to instalētu. Turklāt paplašinājums ir saderīgs ar Chromebook datoriem, macOS, klēpjdatoriem, Windows un datoriem."
+        },
+        {
+          "id": "2",
+          "question": "PAPLAŠINĀJUMU",
+          "answer": "Pēc tam paplašinājums jāpiesprauž rīkjoslai. Tomēr, ja neredzat Netflix ballītes paplašinājuma ikonu, noklikšķiniet uz mīklas ikonas labajā stūrī pārlūkprogrammas augšdaļā. Tur atradīsit paplašinājuma ikonu, lai to varētu piespraust."
+        },
+        {
+          "id": "3",
+          "question": "SĀKT NETFLIXING",
+          "answer": "Tagad atveriet Netflix un piesakieties savā kontā. Lūdzu, ņemiet vērā, ka, lai izveidotu skatīšanās ballīti, jums ir nepieciešams individuālais abonements pakalpojumā Netflix. Turklāt visiem skatīšanās ballītes dalībniekiem ir nepieciešami atsevišķi Netflix abonementi, lai pievienotos."
+        },
+        {
+          "id": "4",
+          "question": "MEKLĒT, IESTATĪT, SPĒLĒT",
+          "answer": "Turklāt meklējiet savu iecienītāko Netflix šovu vai filmu. Vai arī varat meklēt jebkuru citu videoklipu, ko vēlaties skatīties kopā ar draugiem, un atskaņot to."
+        },
+        {
+          "id": "5",
+          "question": "IZVEIDOJIET NETFLIX PULKSTEŅU PATRY",
+          "answer": "Lai veiktu pēdējo darbību, noklikšķiniet uz piespraustā paplašinājuma ikonas. Tiks atvērts neliels uznirstošais logs “IZVEIDOT SKATĪŠANĀS BALLĪTI” ar pogu “SĀKT BALLĪTI”. Noklikšķiniet uz šīs pogas, lai saņemtu ielūguma saiti uz skatīšanās ballīti, ko varētu kopīgot ar draugiem."
+        },
+        {
+          "id": "6",
+          "question": "DALIES PRIEKĀ",
+          "answer": "Tagad esat veiksmīgi izveidojis nevainojamu Netflix skatīšanās ballīti. Tāpēc kopīgojiet ģenerēto uzaicinājuma URL ar visiem draugiem, kurus vēlaties apmeklēt skatīšanās ballītē."
+        }
+      ]
+    },
+    "three": {
+      "heading": "KĀ TAM PIEVIENOTIES??",
+      "subHeading": "Pievienoties Netflix ballītei ir ļoti vienkārši un bez piepūles. Tomēr jums ir jāievēro tā pati sākuma procedūra, kā izveidot pulksteņu ballīti. Tāpēc jums ir jāinstalē un jāpiesprauž šis hroma paplašinājums un pēc tam jāpiesakās savā Netflix kontā. Turklāt, lūdzu, ņemiet vērā, ka, lai pievienotos skatīšanās ballītei, jums ir nepieciešams individuālais Netflix abonements. Pēc visa šī jums vienkārši jānoklikšķina uz jūsu drauga saņemtā ielūguma URL. Un Voila, jūs esat sasniedzis visu laiku labāko pulksteņu ballīti, pat neskatoties uz jūdzēm.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "NEIEROBEŽOTS SKATĪŠANĀS PARTIJAS Biedri",
+          "answer": "Vai zinājāt, ka jūsu skatīšanās ballītei nav ierobežojumu? Izmantojot šo paplašinājumu <b>Netflix Party</b>, varat pievienot tik daudz cilvēku, cik vēlaties. Tāpēc neatkarīgi no tā, cik daudz cilvēku vēlas piedalīties jūsu skatīšanās ballītē, varat viņus iesaistīt, vienkārši kopīgojot ar viņiem ielūguma URL."
+        },
+        {
+          "id": "t2",
+          "question": "KONTROLI NETFLIX SKATĪŠANĀS PARTI",
+          "answer": "Varat pilnībā kontrolēt pulksteņa ballītes iestatījumus. Turklāt jūs varat iespējot pilnu kontroli savā rokā, pagriežot pogu “ONLY I HAVE CONTROL” zaļā krāsā un iegūstot kontroli pār pulksteņa ballīti. Tāpēc jums ir tiesības pār iestatījumiem Atskaņot, Pauzēt, Pārsūtīt un Pārtīt atpakaļ. Turklāt ņemiet vērā, ka sistēmas iestatījumi joprojām paliek pulksteņu grupas dalībniekiem. Tāpēc visi skatīšanās grupas dalībnieki joprojām var mainīt savus audio, valodas un subtitru iestatījumus."
+        },
+        {
+          "id": "t3",
+          "question": "IZBAUDIET TIEŠRAIDES GRUPAS TĒRZĒŠANU",
+          "answer": "Varat uzmundrināt savu skatīšanās ballīti uz nākamo līmeni, tērzējot, izmantojot pulksteņu ballītes grupas tērzēšanas funkciju. Tomēr tiešraides tērzēšana tiks parādīta skatīšanās ballītes sānjoslā. Kopīgas straumēšanas laikā varat nosūtīt reakcijas uz noteiktām ainām. Tāpēc nav nekā labāka par šo, lai justos ciešāk saistīts ar saviem mīļajiem. Tērzējiet, straumējot pulksteņa ballītē."
+        },
+        {
+          "id": "t4",
+          "question": "PERSONALIZĒJIET NETFLIX PARTY",
+          "answer": "Jūs saņemat iespēju pielāgot savu lietotāja profilu un piešķirt tam personisku pieskārienu. Tāpēc savam profilam varat izvēlēties jautru segvārdu. Turklāt jūs varat arī atlasīt lietotāja ikonu no iebūvētajiem iemiesojumiem. Tomēr jūsu segvārds un lietotāja ikona tiks parādīta jūsu pulksteņa ballītē un grupas tērzēšanā."
+        },
+        {
+          "id": "t5",
+          "question": "VEIDZI SINHRONIZĒT",
+          "answer": "Nav svarīgi, kur atrodaties jūs vai jūsu mīļie. Varat straumēt Netflix sinhroni ar tiem. Paplašinājums rada gludas pulksteņu ballītes ar perfektu sinhronizāciju. Tāpēc pat izlaižot vai pauzes laikā sinhronizācija paliek neskarta. Tādējādi jūs varat skatīties kopā reāllaikā."
+        },
+        {
+          "id": "t6",
+          "question": "ULTIMATA HD VIDEO PIEREDZE",
+          "answer": "Vai jūs arī esat ārprātīgs vērotājs un Netflix cienītājs? Tad jums patiks Netflix ballīte ar fantastisku video kvalitāti. Tāpēc mēs jums piedāvājam tieši to. Tagad visos savos videoklipos varat baudīt HD kvalitātes video ar ātro buferizācijas ātrumu. Tāpēc vairs negaidiet un sāciet instalēt šo bezmaksas rīku tūlīt, lai varētu stilīgi straumēt."
+        },
+        {
+          "id": "t7",
+          "question": "BEZMAKSAS UN VISĀ PASAULĒ",
+          "answer": "Labākais ir tas, ka paplašinājums ir pilnīgi bez maksas, un jums nav jāiegulda nekas, lai kopā ar draugiem baudītu Netflix pulksteņu ballīti. Turklāt šis paplašinājums ir pieejams visā pasaulē. Tāpēc varat baudīt straumēšanu kopā ar saviem mīļajiem no jebkura pasaules stūra. Tomēr, lūdzu, pārliecinieties, vai Netflix ir pieejams visās valstīs, kurās mēģināt rīkot skatīšanās ballīti. Lai gan visiem skatīšanās partijas dalībniekiem ir jāatrodas vienā valstī, cilvēki joprojām var izmantot VPN pakalpojumu un mainīt valsti, ja viņi pieder citai valstij."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "bieži uzdotie jautājumi",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Kā darbojas Netflix Party paplašinājums?",
+        "answer": "Netflix Party paplašinājums ļauj lietotājiem sinhronizēt savas Netflix straumes ar draugiem, izveidojot virtuālu skatīšanās ballīti. Lietotāji var rīkot ballītes vai pievienoties tām un kopā skatīties pārraides un filmas reāllaikā."
+      },
+      {
+        "id": "f2",
+        "question": "Vai Netflix Party paplašinājumu var izmantot bez maksas?",
+        "answer": "Jā, Netflix Party paplašinājumu var lejupielādēt un lietot bez maksas. Lietotāji var baudīt sinhronizētu straumēšanu ar draugiem bez papildu maksas."
+      },
+      {
+        "id": "f3",
+        "question": "Vai pulksteņu ballītē ir kādi ierobežojumi dalībnieku skaitam?",
+        "answer": "Nē, Netflix Party skatīšanās ballītes dalībnieku skaits nav ierobežots. Lietotāji var uzaicināt tik daudz draugu, cik vēlas, padarot to ideāli piemērotu lielām grupām."
+      },
+      {
+        "id": "f4",
+        "question": "Vai es varu kontrolēt atskaņošanu Netflix ballītes laikā?",
+        "answer": "Jā, saimniekiem ir iespēja iespējot pilnīgu atskaņošanas iestatījumu kontroli, tostarp atskaņošanu, pauzi, pārtīšanu uz priekšu un atpakaļ. Tomēr dalībnieki joprojām var pielāgot savus individuālos audio, valodas un subtitru iestatījumus."
+      },
+      {
+        "id": "f5",
+        "question": "Vai Netflix Party paplašinājums ir pieejams visā pasaulē?",
+        "answer": "Jā, Netflix Party paplašinājums ir pieejams visā pasaulē. Lietotāji var rīkot skatīšanās ballītes ar draugiem no jebkuras pasaules malas, ja Netflix ir pieejams viņu attiecīgajās valstīs. Turklāt dalībnieki var izmantot VPN pakalpojumus, lai pievienotos ballītēm, kas tiek mitinātas citās valstīs."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Paziņojiet mums.",
+    "anyQuestions": "Vai jums ir jautājumi? Apmeklējiet mūsu atbalsta lapu",
+    "blog": "Emuārs",
+    "popularSearches": "Populāri meklējumi",
+    "disclaimer": "Atruna",
+    "disclaimerContent": "Netflix ir Netflix, Inc. preču zīme. Šī vietne",
+    "footerTags": [
+      "Netflix Watch Party, Netflix Party, Netflix Party paplašinājums, Netflix Party Chrome paplašinājums, Watch Party Netflix, Kā veikt Netflix ballīti, Kā izmantot Netflix ballīti, Kā organizēt Netflix ballīti, Netflix Watch Party paplašinājums, Netflix Party lejupielādes Chrome paplašinājums, Instalējiet Netflix Chrome paplašinājumu"
+    ]
+  }
+}

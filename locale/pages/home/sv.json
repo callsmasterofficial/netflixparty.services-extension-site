@@ -1,0 +1,133 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Lägg till", "free": "Det är gratis" },
+    "navBarHeading": "är nu tillgänglig på Google Chrome, Microsoft Edge och Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "NETFLIX OCH CHILLA MED VÄNNER VIA NETFLIX-FEST.",
+      "html": "Har du fortfarande fastnat i det gamla och tråkiga sättet att streama? Installera det kostnadsfria <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a>-tillägget och välj den nya metoden för att kyla med dina avlägsna vänner. Därför kan du njuta av tusentals Netflix-program och filmer synkroniserat med dina vänner var som helst i världen. Du kan vara värd för eller gå med i en sömlös klockfest i synk, som förblir intakt även när du hoppar över och pausar. Dessutom kan du uppleva den ultimata HD-strömningen med den snabba buffringshastigheten med detta verktyg. Vänta därför inte längre och ladda ner tillägget nu. Dessutom, så här kan du vara värd för eller gå med i en klockfest med vem som helst över hela världen gratis.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
+    },
+    "second": {
+      "heading": "Hur man använder Netflix Party Extension",
+      "subHeading": "Du måste ha upplevt att titta på Netflix med människor i samma rum och på samma skärm. Men du hade aldrig kunnat föreställa dig att du kunde streama tillsammans med dem trots avståndet mellan er? Därför kan du nu skapa en klockfest i några enkla steg med dem, oavsett avståndet mellan er-",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "INSTALLERA FÖRLÄNGDET",
+          "answer": "Det första steget är att ladda ner Netflix partytillägg <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Klicka här</u></a> för att installera det kostnadsfria, användarvänliga tillägget. Se dessutom till att du har antingen Google Chrome eller Microsoft Edge för att installera den. Dessutom är tillägget kompatibelt med Chromebooks, macOS, bärbara datorer, Windows och datorer."
+        },
+        {
+          "id": "2",
+          "question": "FÄSTA FÖRLÄNGDET",
+          "answer": "Därefter måste du fästa tillägget till verktygsfältet. Men om du inte ser Netflix-partytilläggsikonen, klicka på pusselikonen i det högra hörnet högst upp i webbläsaren. Du hittar tilläggsikonen där, så att du kan fästa den."
+        },
+        {
+          "id": "3",
+          "question": "BÖRJA NETFLIXA",
+          "answer": "Öppna nu Netflix och logga in på ditt konto. Kom ihåg att du behöver ditt individuella abonnemang på Netflix för att skapa en visningsfest. Dessutom behöver alla tittarpartimedlemmar sina separata Netflix-prenumerationer för att gå med."
+        },
+        {
+          "id": "4",
+          "question": "SÖK, STÄLLA IN, SPELA",
+          "answer": "Sök vidare efter ditt favoritprogram eller en film på Netflix. Eller så kan du söka efter någon annan video som du vill njuta av med dina vänner och spela upp den."
+        },
+        {
+          "id": "5",
+          "question": "SKAPA NETFLIX WATCH PATRY",
+          "answer": "För det sista steget, klicka på den fästa tilläggsikonen. Ett litet popup-fönster med namnet \"SKAPA ETT KLOCKFEST\" öppnas med en knapp som heter \"STARTA EN PARTY.\" Klicka på den knappen för att få en inbjudningslänk till klockfesten som du kan dela med dina vänner."
+        },
+        {
+          "id": "6",
+          "question": "DELA GLÄDJEN",
+          "answer": "Nu har du skapat en sömlös Netflix Watch Party. Dela därför den genererade inbjudningsadressen med alla vänner du vill ha på klockfesten."
+        }
+      ]
+    },
+    "three": {
+      "heading": "HUR GÅR MAN MED DET??",
+      "subHeading": "Det är väldigt enkelt och enkelt att gå med i Netflix-festen. Du måste dock följa samma startprocedur som att skapa en bevakningsfest. Därför måste du installera och fästa denna kromtillägg och efter det logga in på ditt Netflix-konto. Observera dessutom att du måste ha ditt individuella Netflix-abonnemang för att gå med i klockfesten. Efter allt detta behöver du bara klicka på webbadressen för inbjudan som din vän har fått. Och Voila, du har nått den bästa klockfesten någonsin trots milen.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "BEGRÄNSLIGA MEDLEMMAR FÖR KLOCKFEST",
+          "answer": "Visste du att det inte finns någon gräns för hur många personer som kan gå med i din klockfest? Med det här <b>Netflix Party</b>-tillägget kan du ange så många personer som du vill på din visningsfest. Därför, oavsett hur många personer som vill vara en del av din klockfest, kan du få in dem bara genom att dela inbjudningsadressen med dem."
+        },
+        {
+          "id": "t2",
+          "question": "STYR NETFLIX WATCH PARTY",
+          "answer": "Du kan få fullständig kontroll över klockfestinställningarna. Dessutom kan du aktivera full kontroll i din hand genom att vrida knappen \"BARA JAG HAR KONTROLL\" grön och få kontroll över klockpartiet. Därför har du behörighet över inställningarna Spela, Pausa, Framåt och Spol tillbaka. Utöver detta, notera att systeminställningarna fortfarande finns kvar hos medlemmarna i klockpartiet. Därför kan alla medlemmar i klockpartiet fortfarande ändra sina ljud-, språk- och undertextinställningar."
+        },
+        {
+          "id": "t3",
+          "question": "NJUT AV LIVE-GRUPPCHATTEN",
+          "answer": "Du kan glädja din klockgrupp till nästa nivå genom att chatta via gruppchattfunktionen på klockfesten. Däremot kommer livechatten att visas i sidofältet på visningspartiet. Du kan skicka reaktioner på vissa scener medan du streamar tillsammans. Därför finns det inget bättre än detta för att känna sig mer kopplad till dina nära och kära. Chatta medan du streamar på din klockfest."
+        },
+        {
+          "id": "t4",
+          "question": "PERSONIFIERA NETFLIX-FESTEN",
+          "answer": "Du får möjlighet att anpassa din användarprofil och ge den en personlig touch. Därför kan du välja ett roligt smeknamn för din profil. Dessutom kan du också välja en användarikon från de inbyggda avatarerna. Däremot kommer ditt smeknamn och användarikon att visas i din övervakningsgrupp och gruppchatt."
+        },
+        {
+          "id": "t5",
+          "question": "SYNKKA SÖMLÖST",
+          "answer": "Det spelar ingen roll var du eller dina nära och kära är. Du kan streama Netflix synkroniserat med dem. Tillägget skapar smidiga klockfester med perfekt synkronisering. Därför förblir synkroniseringen intakt även när du hoppar över eller pausar. Därför får ni alla se tillsammans i realtid."
+        },
+        {
+          "id": "t6",
+          "question": "ULTIMAT HD-VIDEO-UPPLEVELSE",
+          "answer": "Är du också en binge-watcher och en Netflix-älskare? Då skulle du älska en Netflix Party med den fantastiska videokvaliteten. Därför är det precis vad vi erbjuder dig. Du kan nu uppleva video i HD-kvalitet med den snabba buffringshastigheten i alla dina videor. Vänta därför inte längre och börja installera detta gratisverktyg nu så att du kan streama med stil."
+        },
+        {
+          "id": "t7",
+          "question": "GRATIS OCH VÄRLDEN",
+          "answer": "Det bästa är att tillägget är helt gratis, och du behöver inte investera i någonting för att njuta av en Netflix-kittfest med dina vänner. Bortsett från det är denna tillägg tillgänglig över hela världen. Därför kan du njuta av streaming med dina nära och kära från alla hörn av världen. Se dock till att Netflix är tillgängligt i alla länder där du försöker hålla klockfesten. Även om alla tittarpartimedlemmar måste vara i samma land, kan människor fortfarande använda VPN-tjänsten och byta land om de tillhör ett annat."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Vanliga frågor",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Hur fungerar Netflix Party-tillägget?",
+        "answer": "Netflix Party-tillägget tillåter användare att synkronisera sina Netflix-strömmar med vänner och skapa en virtuell tittarfest. Användare kan vara värd för eller gå med i fester och se program och filmer tillsammans i realtid."
+      },
+      {
+        "id": "f2",
+        "question": "Är Netflix Party-tillägget gratis att använda?",
+        "answer": "Ja, Netflix Party-tillägget är helt gratis att ladda ner och använda. Användare kan njuta av synkroniserad streaming med vänner utan extra kostnad."
+      },
+      {
+        "id": "f3",
+        "question": "Finns det några begränsningar för antalet deltagare i en bevakningsfest?",
+        "answer": "Nej, det finns inga begränsningar för antalet deltagare i en Netflix Party-kittfest. Användare kan bjuda in så många vänner som de vill, vilket gör den idealisk för stora grupper."
+      },
+      {
+        "id": "f4",
+        "question": "Kan jag styra uppspelningen under en Netflix-fest?",
+        "answer": "Ja, värdar har möjlighet att aktivera full kontroll över uppspelningsinställningar, inklusive uppspelning, paus, framåt och bakåt. Däremot kan deltagare fortfarande justera sina individuella ljud-, språk- och undertextinställningar."
+      },
+      {
+        "id": "f5",
+        "question": "Är Netflix Party-tillägget tillgängligt globalt?",
+        "answer": "Ja, Netflix Party-tillägget är tillgängligt över hela världen. Användare kan hålla titta på fester med vänner från alla hörn av världen, förutsatt att Netflix är tillgängligt i deras respektive länder. Dessutom kan deltagare använda VPN-tjänster för att gå med i parter som är värdar i andra länder."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Låt oss veta.",
+    "anyQuestions": "Har frågor? Besök vår supportsida",
+    "blog": "Blogg",
+    "popularSearches": "Populära sökningar",
+    "disclaimer": "varning",
+    "disclaimerContent": "Netflix är ett varumärke som tillhör Netflix, Inc. Denna webbplats",
+    "footerTags": [
+      "Netflix Watch Party, Netflix Party, Netflix Party Extension, Netflix Party Chrome Extension, Watch Party Netflix, Hur man gör Netflix Party, Hur man använder Netflix Party, Hur man gör en Netflix Party, Netflix Watch Party Extension, Netflix Party Ladda ner Chrome Extension, Installera Netflix Chrome Extension"
+    ]
+  }
+}

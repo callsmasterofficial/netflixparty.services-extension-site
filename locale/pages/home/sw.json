@@ -1,0 +1,133 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Ongezea", "free": "Ni Bure" },
+    "navBarHeading": "sasa inapatikana kwenye Google Chrome, Microsoft Edge na Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "NETFLIX NA CHILL PAMOJA NA MARAFIKI KUPITIA NETFLIX PARTY.",
+      "html": "Je, bado umekwama katika njia ya zamani na ya kuchosha ya utiririshaji? Sakinisha kiendelezi cha <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a> bila malipo na uchague mbinu ya watu wa umri mpya ya kutuliza na marafiki zako wa mbali. Kwa hivyo, furahia maelfu ya maonyesho na filamu za Netflix zinazosawazishwa na marafiki zako popote duniani. Unaweza kupangisha au kujiunga na tafrija ya saa isiyo na mshono katika usawazishaji, ambayo hudumu bila kubadilika hata wakati wa kuruka na kusitisha. Zaidi ya hayo, unaweza kutumia utiririshaji wa mwisho wa HD kwa kasi ya haraka ya kuakibisha ukitumia zana hii. Kwa hivyo, usisubiri zaidi na upakue kiendelezi sasa. Zaidi ya hayo, hivi ndivyo unavyoweza kukaribisha au kujiunga na karamu ya kutazama na mtu yeyote duniani kote bila malipo.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
+    },
+    "second": {
+      "heading": "Jinsi ya kutumia Kiendelezi cha Chama cha Netflix",
+      "subHeading": "Lazima uwe na uzoefu wa kutazama Netflix na watu katika chumba kimoja na kwenye skrini moja. Walakini, haungewahi kufikiria kuwa unaweza kutiririka pamoja nao licha ya umbali kati yako? Kwa hivyo, sasa unaweza kuunda chama cha kutazama kwa hatua chache rahisi nao, bila kujali umbali kati yako-",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "SAKINISHA UPANAJI",
+          "answer": "Hatua ya kwanza ni kupakua kiendelezi cha chama cha Netflix <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Bofya hapa</u></a> ili kusakinisha kiendelezi kisicholipishwa, kinachofaa mtumiaji. Zaidi ya hayo, tafadhali hakikisha kuwa una kivinjari cha Google Chrome au Microsoft Edge ili kukisakinisha. Zaidi ya hayo, kiendelezi hicho kinaoana na Chromebook, macOS, Kompyuta za mkononi, Windows, na Kompyuta."
+        },
+        {
+          "id": "2",
+          "question": "PIN UPANUZI",
+          "answer": "Ifuatayo, unahitaji kubandika kiendelezi kwenye upau wa vidhibiti. Walakini, ikiwa huoni ikoni ya kiendelezi cha chama cha Netflix, bofya kwenye ikoni ya fumbo kwenye kona ya kulia juu ya kivinjari. Utapata ikoni ya kiendelezi hapo, ili uweze kuibandika."
+        },
+        {
+          "id": "3",
+          "question": "ANZA KUWEKA NETIFLIX",
+          "answer": "Sasa, fungua Netflix na uingie kwenye akaunti yako. Tafadhali kumbuka kuwa unahitaji usajili wako binafsi kwenye Netflix ili kuunda chama cha kutazama. Zaidi ya hayo, wanachama wote wa chama cha kutazama wanahitaji usajili wao tofauti wa Netflix ili kujiunga."
+        },
+        {
+          "id": "4",
+          "question": "TAFUTA, WEKA, CHEZA",
+          "answer": "Zaidi, tafuta onyesho unalopenda la Netflix au filamu. Au unaweza kutafuta video nyingine yoyote ambayo ungependa kufurahia na marafiki zako na kuicheza."
+        },
+        {
+          "id": "5",
+          "question": "TENGENEZA MFUMO WA NETFLIX WATCH",
+          "answer": "Kwa hatua ya mwisho, bofya kwenye ikoni ya kiendelezi iliyobandikwa. Dirisha dogo ibukizi linaloitwa \"CREATE A WATCH PARTY\" litafunguka kwa kitufe kiitwacho \"ANZA PARTY.\" Bofya kitufe hicho ili kupata kiungo cha mwaliko kwa karamu ya kutazama ambacho unaweza kushiriki na marafiki zako."
+        },
+        {
+          "id": "6",
+          "question": "SHIRIKI FURAHA",
+          "answer": "Sasa, umefanikiwa kuunda Karamu ya Kutazama ya Netflix isiyo na mshono. Kwa hivyo, shiriki URL ya mwaliko iliyotolewa na marafiki wote unaotaka kwenye tafrija ya kutazama."
+        }
+      ]
+    },
+    "three": {
+      "heading": "JINSI YA KUJIUNGA NAYO??",
+      "subHeading": "Ni rahisi sana na rahisi kujiunga na Netflix Party. Walakini, lazima ufuate utaratibu sawa wa kuanza kama kuunda chama cha kutazama. Kwa hiyo, unahitaji kusakinisha na kubandika kiendelezi hiki cha chrome na, baada ya hapo, ingia kwenye akaunti yako ya Netflix. Zaidi ya hayo, tafadhali kumbuka kuwa lazima uwe na usajili wako binafsi wa Netflix ili kujiunga na chama cha kutazama. Baada ya haya yote, unahitaji tu kubofya URL ya mwaliko iliyopokelewa na rafiki yako. Na Voila, umefikia karamu bora zaidi ya kutazama hata licha ya umbali wa maili.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "WAJUMBE WA CHAMA WASIO NA KIKOMO",
+          "answer": "Je, unajua kwamba hakuna kikomo kwa watu wangapi wanaweza kujiunga na chama chako cha kutazama? Ukiwa na kiendelezi hiki cha <b>Chama cha Netflix</b>, unaweza kuingiza watu wengi upendavyo kwenye sherehe yako ya kutazama. Kwa hivyo, haijalishi ni watu wangapi wanataka kuwa sehemu ya tafrija yako ya kutazama, unaweza kuwaingiza kwa kushiriki URL ya mwaliko nao."
+        },
+        {
+          "id": "t2",
+          "question": "DHIBITI TAARIFA YA NETFLIX WATCH PARTY",
+          "answer": "Unaweza kupata udhibiti kamili wa mipangilio ya chama cha saa. Zaidi ya hayo, unaweza kuwezesha udhibiti kamili mkononi mwako kwa kugeuza kijani kibichi kitufe cha \"MIMI PEKEE NINAYEDHIBITI\" na kupata udhibiti wa chama cha saa. Kwa hivyo, una mamlaka juu ya mipangilio ya Cheza, Sitisha, Sambaza Mbele na Rudisha Nyuma. Kwa kuongeza hii, kumbuka kuwa mipangilio ya mfumo bado inabaki kwa wanachama wa chama cha kutazama. Kwa hivyo, wanachama wote wa chama cha kutazama bado wanaweza kurekebisha mipangilio yao ya sauti, lugha na manukuu."
+        },
+        {
+          "id": "t3",
+          "question": "FURAHIA LIVE GROUP CHAT",
+          "answer": "Unaweza kufurahisha sherehe yako ya kutazama hadi kiwango kinachofuata kwa kupiga gumzo kupitia kipengele cha gumzo la kikundi cha chama cha kutazama. Hata hivyo, gumzo la moja kwa moja litaonekana kwenye upau wa kando wa tafrija ya kutazama. Unaweza kutuma maoni kwa matukio fulani wakati wa kutiririsha pamoja. Kwa hivyo, hakuna kitu bora zaidi kuliko hii kujisikia kushikamana zaidi na wapendwa wako. Piga gumzo unapotiririsha kwenye sherehe yako ya saa."
+        },
+        {
+          "id": "t4",
+          "question": "BINAFSISHA SEHEMU YA NETFLIX",
+          "answer": "Unapata chaguo la kubinafsisha wasifu wako wa mtumiaji na kuupa mguso wa kibinafsi. Kwa hivyo, unaweza kuchagua jina la utani la kufurahisha kwa wasifu wako. Zaidi ya hayo, unaweza pia kuchagua ikoni ya mtumiaji kutoka kwa avatari zilizojengwa ndani. Hata hivyo, jina lako la utani na ikoni ya mtumiaji itaonekana kwenye karamu yako ya kutazama na gumzo la kikundi."
+        },
+        {
+          "id": "t5",
+          "question": "SAwazisha BILA MFUNGO",
+          "answer": "Haijalishi wewe au wapendwa wako mko wapi. Unaweza kutiririsha Netflix kwa kusawazisha nao. Kiendelezi huunda vyama laini vya saa na usawazishaji kamili. Kwa hivyo, hata wakati wa kuruka au kusitisha, usawazishaji unasalia kuwa sawa. Kwa hivyo nyote mnaweza kutazama pamoja katika muda halisi."
+        },
+        {
+          "id": "t6",
+          "question": "UZOEFU ULIOPO WA VIDEO YA HD",
+          "answer": "Je, wewe pia ni mtazamaji wa kupindukia na mpenzi wa Netflix? Basi ungependa Sherehe ya Netflix yenye ubora mzuri wa video. Kwa hivyo, hiyo ndiyo hasa tunayokupa. Sasa unaweza kufurahia video ya ubora wa HD na kasi ya haraka ya kuakibisha katika video zako zote. Kwa hivyo, usisubiri tena na uanze kusakinisha zana hii isiyolipishwa sasa ili uweze kutiririsha kwa mtindo."
+        },
+        {
+          "id": "t7",
+          "question": "BURE NA DUNIANI KOTE",
+          "answer": "Sehemu bora zaidi ni kwamba kiendelezi ni bure kabisa, na sio lazima kuwekeza katika chochote ili kufurahiya tafrija ya kutazama ya Netflix na marafiki zako. Mbali na hayo, kiendelezi hiki kinapatikana ulimwenguni kote. Kwa hivyo, unaweza kufurahiya utiririshaji na wapendwa wako kutoka kona yoyote ya ulimwengu. Hata hivyo, tafadhali hakikisha Netflix inapatikana katika nchi zote ambapo unajaribu kupangisha tafrija ya kutazama. Ingawa wanachama wote wa chama cha kutazama lazima wawe katika nchi moja, watu bado wanaweza kutumia huduma ya VPN na kubadilisha nchi yao ikiwa ni ya nchi nyingine."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "maswali yanayoulizwa mara kwa mara",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Je, ugani wa Netflix Party hufanya kazi vipi?",
+        "answer": "Kiendelezi cha Netflix Party huruhusu watumiaji kusawazisha mitiririko yao ya Netflix na marafiki, na kuunda tafrija ya kutazama. Watumiaji wanaweza kukaribisha au kujiunga na karamu na kutazama vipindi na filamu pamoja katika muda halisi."
+      },
+      {
+        "id": "f2",
+        "question": "Je, kiendelezi cha Netflix Party ni bure kutumia?",
+        "answer": "Ndiyo, kiendelezi cha Netflix Party ni bure kabisa kupakua na kutumia. Watumiaji wanaweza kufurahia utiririshaji uliosawazishwa na marafiki bila gharama yoyote ya ziada."
+      },
+      {
+        "id": "f3",
+        "question": "Je, kuna vikwazo vyovyote kwa idadi ya washiriki katika tafrija ya kutazama?",
+        "answer": "Hapana, hakuna vikwazo kwa idadi ya washiriki katika karamu ya kutazama ya Netflix. Watumiaji wanaweza kualika marafiki wengi wapendavyo, na kuifanya iwe bora kwa vikundi vikubwa."
+      },
+      {
+        "id": "f4",
+        "question": "Je, ninaweza kudhibiti uchezaji wakati wa Karamu ya Netflix?",
+        "answer": "Ndiyo, wapangishi wana chaguo la kuwezesha udhibiti kamili wa mipangilio ya kucheza tena, ikijumuisha kucheza, kusitisha, kusonga mbele na kurejesha nyuma. Hata hivyo, washiriki bado wanaweza kurekebisha mipangilio yao ya kibinafsi ya sauti, lugha na manukuu."
+      },
+      {
+        "id": "f5",
+        "question": "Je, kiendelezi cha Netflix Party kinapatikana duniani kote?",
+        "answer": "Ndiyo, kiendelezi cha Netflix Party kinapatikana duniani kote. Watumiaji wanaweza kuandaa tafrija za kutazama na marafiki kutoka kona yoyote ya dunia, mradi Netflix inapatikana katika nchi zao. Zaidi ya hayo, washiriki wanaweza kutumia huduma za VPN kujiunga na vyama vinavyoandaliwa katika nchi nyingine."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Tujulishe.",
+    "anyQuestions": "Una maswali? Tembelea ukurasa wetu wa usaidizi",
+    "blog": "Blogu",
+    "popularSearches": "Utafutaji Maarufu",
+    "disclaimer": "Kanusho",
+    "disclaimerContent": "Netflix ni chapa ya biashara ya Netflix, Inc. Tovuti hii",
+    "footerTags": [
+      "Netflix Watch Party, Netflix Party, Netflix Party Extension, Netflix Party Chrome Extension, Watch Party Netflix, Jinsi ya kufanya Netflix Party, Jinsi ya kutumia Netflix Party, Jinsi ya kufanya Netflix Party, Netflix Watch Party Extension, Netflix Party Pakua Chrome Extension, Sakinisha Kiendelezi cha Chrome cha Netflix"
+    ]
+  }
+}

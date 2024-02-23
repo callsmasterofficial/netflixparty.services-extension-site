@@ -1,0 +1,133 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Ajouter à", "free": "Ce est gratuit" },
+    "navBarHeading": "est désormais disponible sur Google Chrome, Microsoft Edge et Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "NETFLIX ET DÉTENDEZ-VOUS AVEC DES AMIS VIA NETFLIX PARTY.",
+      "html": "Êtes-vous toujours coincé dans l’ancienne et ennuyeuse méthode de streaming ? Installez l'extension gratuite <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a> et choisissez la méthode new age pour vous détendre avec vos amis éloignés. Par conséquent, profitez de milliers d’émissions et de films Netflix en synchronisation avec vos amis partout dans le monde. Vous pouvez organiser ou rejoindre une soirée de surveillance transparente et synchronisée, qui reste intacte même en sautant et en pause. De plus, vous pouvez profiter du streaming HD ultime avec une vitesse de mise en mémoire tampon rapide avec cet outil. Par conséquent, n’attendez plus et téléchargez l’extension maintenant. De plus, voici comment vous pouvez organiser ou rejoindre gratuitement une soirée de surveillance avec n’importe qui dans le monde.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
+    },
+    "second": {
+      "heading": "Comment utiliser l'extension Netflix Party",
+      "subHeading": "Vous devez avoir déjà regardé Netflix avec des personnes dans la même pièce et sur le même écran. Cependant, vous n’auriez jamais imaginé pouvoir streamer avec eux malgré la distance qui vous sépare ? Par conséquent, vous pouvez désormais créer une soirée de surveillance en quelques étapes simples avec eux, quelle que soit la distance qui vous sépare.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "INSTALLER L'EXTENSION",
+          "answer": "La première étape consiste à télécharger l'extension Party Netflix <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Cliquez ici</u></a> pour installer l'extension gratuite et conviviale. De plus, assurez-vous que vous disposez du navigateur Google Chrome ou Microsoft Edge pour l'installer. De plus, l'extension est compatible avec les Chromebooks, macOS, les ordinateurs portables, Windows et les ordinateurs."
+        },
+        {
+          "id": "2",
+          "question": "ÉPINGLEZ L'EXTENSION",
+          "answer": "Ensuite, vous devez épingler l'extension à la barre d'outils. Cependant, si vous ne voyez pas l'icône d'extension de soirée Netflix, cliquez sur l'icône de puzzle dans le coin droit en haut du navigateur. Vous y trouverez l’icône de l’extension, vous pourrez donc l’épingler."
+        },
+        {
+          "id": "3",
+          "question": "COMMENCER NETFLIX",
+          "answer": "Maintenant, ouvrez Netflix et connectez-vous à votre compte. N'oubliez pas que vous avez besoin de votre abonnement individuel sur Netflix pour créer une soirée de visionnage. De plus, tous les membres du groupe de surveillance doivent disposer de leurs abonnements Netflix distincts pour adhérer."
+        },
+        {
+          "id": "4",
+          "question": "RECHERCHER, RÉGLER, JOUER",
+          "answer": "Ensuite, recherchez votre émission ou un film Netflix préféré. Ou vous pouvez rechercher toute autre vidéo dont vous souhaitez profiter avec vos amis et la lire."
+        },
+        {
+          "id": "5",
+          "question": "CRÉER LA MONTRE NETFLIX PATRY",
+          "answer": "Pour la dernière étape, cliquez sur l’icône d’extension épinglée. Une petite fenêtre contextuelle nommée « CRÉER UNE PARTIE DE MONTRE » s'ouvrira avec un bouton appelé « DÉMARRER UNE PARTIE ». Cliquez sur ce bouton pour obtenir un lien d'invitation à la soirée de surveillance que vous pourrez partager avec vos amis."
+        },
+        {
+          "id": "6",
+          "question": "PARTAGEZ LA JOIE",
+          "answer": "Vous avez maintenant créé avec succès une Netflix Watch Party transparente. Par conséquent, partagez l’URL d’invitation générée avec tous les amis de votre choix lors de la soirée de surveillance."
+        }
+      ]
+    },
+    "three": {
+      "heading": "COMMENT LE REJOINDRE ??",
+      "subHeading": "C’est très simple et sans effort de rejoindre la Netflix Party. Cependant, vous devez suivre la même procédure de démarrage que pour créer une watch party. Par conséquent, vous devez installer et épingler cette extension Chrome, puis vous connecter à votre compte Netflix. De plus, veuillez noter que vous devez disposer de votre abonnement individuel à Netflix pour rejoindre la watch party. Après tout cela, il vous suffit de cliquer sur l'URL d'invitation reçue par votre ami. Et voilà, vous avez atteint la meilleure fête horlogère de tous les temps, même malgré les kilomètres.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "MEMBRES DU PARTI DE MONTRE ILLIMITÉ",
+          "answer": "Saviez-vous qu'il n'y a pas de limite au nombre de personnes pouvant rejoindre votre soirée de surveillance ? Avec cette extension <b>Netflix Party</b>, vous pouvez inscrire autant de personnes que vous le souhaitez dans votre soirée de visionnage. Par conséquent, quel que soit le nombre de personnes souhaitant faire partie de votre soirée de surveillance, vous pouvez les faire participer simplement en partageant l'URL d'invitation avec elles."
+        },
+        {
+          "id": "t2",
+          "question": "CONTRÔLEZ LA NETFLIX WATCH PARTY",
+          "answer": "Vous pouvez obtenir un contrôle total sur les paramètres de la soirée de surveillance. De plus, vous pouvez activer le contrôle total de votre main en tournant le bouton « SEULEMENT J'AI LE CONTRÔLE » en vert et en acquérant le contrôle de la soirée de surveillance. Par conséquent, vous avez autorité sur les paramètres de lecture, pause, avance et retour. En plus de cela, notez que les paramètres du système restent la propriété des membres du groupe de surveillance. Par conséquent, tous les membres du groupe de surveillance peuvent toujours modifier leurs paramètres audio, de langue et de sous-titres."
+        },
+        {
+          "id": "t3",
+          "question": "PROFITEZ DU CHAT DE GROUPE EN DIRECT",
+          "answer": "Vous pouvez faire passer votre soirée de surveillance au niveau supérieur en discutant via la fonction de discussion de groupe de la soirée de surveillance. Cependant, le chat en direct apparaîtra dans la barre latérale de la soirée de surveillance. Vous pouvez envoyer des réactions à des scènes particulières tout en diffusant ensemble. Il n’y a donc rien de mieux que cela pour se sentir plus connecté à ses proches. Discutez tout en diffusant lors de votre soirée de visionnage."
+        },
+        {
+          "id": "t4",
+          "question": "PERSONNALISEZ LA FÊTE NETFLIX",
+          "answer": "Vous avez la possibilité de personnaliser votre profil utilisateur et de lui donner une touche personnelle. Par conséquent, vous pouvez choisir un surnom amusant pour votre profil. De plus, vous pouvez également sélectionner une icône d'utilisateur parmi les avatars intégrés. Cependant, votre pseudo et votre icône d'utilisateur apparaîtront dans votre groupe de surveillance et dans votre discussion de groupe."
+        },
+        {
+          "id": "t5",
+          "question": "SYNCHRONISATION FACILEMENT",
+          "answer": "Peu importe où vous ou vos proches vous trouvez. Vous pouvez diffuser Netflix en synchronisation avec eux. L'extension crée des soirées de surveillance fluides avec une synchronisation parfaite. Par conséquent, même lors d’un saut ou d’une pause, la synchronisation reste intacte. Ainsi, vous pouvez tous regarder ensemble en temps réel."
+        },
+        {
+          "id": "t6",
+          "question": "EXPÉRIENCE VIDÉO HD ULTIME",
+          "answer": "Êtes-vous également un binge-watcher et un amoureux de Netflix ? Alors vous adorerez une soirée Netflix avec une qualité vidéo fantastique. C’est donc précisément ce que nous vous proposons. Vous pouvez désormais profiter d'une vidéo de qualité HD avec une vitesse de mise en mémoire tampon rapide dans toutes vos vidéos. Par conséquent, n’attendez plus et commencez à installer cet outil gratuit dès maintenant pour pouvoir diffuser avec style."
+        },
+        {
+          "id": "t7",
+          "question": "GRATUIT ET DANS LE MONDE ENTIER",
+          "answer": "Le meilleur, c’est que l’extension est absolument gratuite et que vous n’avez rien à investir pour profiter d’une soirée Netflix avec vos amis. En dehors de cela, cette extension est disponible dans le monde entier. Par conséquent, vous pouvez profiter du streaming avec vos proches depuis n’importe quel coin du monde. Cependant, assurez-vous que Netflix est disponible dans tous les pays où vous essayez d’organiser la soirée de visionnage. Bien que tous les membres du groupe de surveillance doivent résider dans le même pays, les utilisateurs peuvent toujours utiliser le service VPN et changer de pays s'ils appartiennent à un autre pays."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Questions fréquemment posées",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Comment fonctionne l'extension Netflix Party ?",
+        "answer": "L'extension Netflix Party permet aux utilisateurs de synchroniser leurs flux Netflix avec des amis, créant ainsi une soirée de visionnage virtuelle. Les utilisateurs peuvent organiser ou rejoindre des fêtes et regarder des émissions et des films ensemble en temps réel."
+      },
+      {
+        "id": "f2",
+        "question": "L’extension Netflix Party est-elle gratuite ?",
+        "answer": "Oui, l’extension Netflix Party est entièrement gratuite à télécharger et à utiliser. Les utilisateurs peuvent profiter d'un streaming synchronisé avec des amis sans aucun coût supplémentaire."
+      },
+      {
+        "id": "f3",
+        "question": "Y a-t-il des restrictions sur le nombre de participants à une soirée de montre ?",
+        "answer": "Non, il n’y a aucune limite quant au nombre de participants à une soirée de visionnage Netflix Party. Les utilisateurs peuvent inviter autant d’amis qu’ils le souhaitent, ce qui le rend idéal pour les grands groupes."
+      },
+      {
+        "id": "f4",
+        "question": "Puis-je contrôler la lecture pendant une Netflix Party ?",
+        "answer": "Oui, les hôtes ont la possibilité d'activer un contrôle total sur les paramètres de lecture, notamment la lecture, la pause, l'avance et le retour en arrière. Cependant, les participants peuvent toujours ajuster leurs paramètres individuels d’audio, de langue et de sous-titres."
+      },
+      {
+        "id": "f5",
+        "question": "L’extension Netflix Party est-elle disponible dans le monde entier ?",
+        "answer": "Oui, l’extension Netflix Party est disponible dans le monde entier. Les utilisateurs peuvent organiser des soirées de visionnage avec des amis de n'importe quel coin du monde, à condition que Netflix soit accessible dans leurs pays respectifs. De plus, les participants peuvent utiliser les services VPN pour rejoindre des soirées organisées dans d'autres pays."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Faites le nous savoir.",
+    "anyQuestions": "Avoir des questions? Visitez notre page d'assistance",
+    "blog": "Blog",
+    "popularSearches": "Recherches populaires",
+    "disclaimer": "Clause de non-responsabilité",
+    "disclaimerContent": "Netflix est une marque commerciale de Netflix, Inc. Ce site Web",
+    "footerTags": [
+      "Netflix Watch Party, Netflix Party, Extension Netflix Party, Extension Netflix Party Chrome, Watch Party Netflix, Comment faire Netflix Party, Comment utiliser Netflix Party, Comment faire une Netflix Party, Extension Netflix Watch Party, Netflix Party Télécharger l'extension Chrome, Installer l'extension Netflix Chrome"
+    ]
+  }
+}

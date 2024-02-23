@@ -1,0 +1,133 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Adaugă la", "free": "Este gratis" },
+    "navBarHeading": "este acum disponibil pe Google Chrome, Microsoft Edge și Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "NETFLIX SI CHILS CU PRIETENII PRIN NETFLIX PARTY.",
+      "html": "Ești încă blocat în vechiul și plictisitor mod de streaming? Instalați extensia gratuită <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a> și alegeți metoda new-age de a vă relaxa cu prietenii tăi îndepărtați. Prin urmare, bucurați-vă de mii de emisiuni și filme Netflix sincronizate cu prietenii tăi oriunde în lume. Puteți găzdui sau vă puteți alătura unei petreceri de vizionare fără întreruperi în sincronizare, care rămâne intactă chiar și atunci când omiteți și întrerupeți. Mai mult, puteți experimenta streamingul HD suprem cu viteza mare de tamponare cu acest instrument. Prin urmare, nu mai așteptați și descărcați extensia acum. În plus, iată cum poți găzdui sau te poți alătura unei petreceri de vizionare cu oricine din întreaga lume gratuit.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
+    },
+    "second": {
+      "heading": "Cum să utilizați extensia Netflix Party",
+      "subHeading": "Trebuie să fi experimentat vizionarea Netflix cu oameni în aceeași cameră și pe același ecran. Cu toate acestea, nu ți-ai fi imaginat niciodată că ai putea transmite în flux împreună cu ei, în ciuda distanței dintre voi? Prin urmare, acum puteți crea o petrecere de ceas în câțiva pași simpli cu ei, indiferent de distanța dintre voi-",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "INSTALATI EXTENSIUNEA",
+          "answer": "Primul pas este să descărcați extensia Netflix pentru petrecere <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Dați clic aici</u></a> pentru a instala extensia gratuită, ușor de utilizat. Mai mult, vă rugăm să vă asigurați că aveți fie Google Chrome, fie browser Microsoft Edge pentru a-l instala. În plus, extensia este compatibilă cu Chromebookuri, macOS, laptopuri, Windows și computere."
+        },
+        {
+          "id": "2",
+          "question": "PIN EXTENSIUNEA",
+          "answer": "Apoi, trebuie să fixați extensia pe bara de instrumente. Cu toate acestea, dacă nu vedeți pictograma extensiei de petrecere Netflix, faceți clic pe pictograma puzzle din colțul din dreapta din partea de sus a browserului. Veți găsi acolo pictograma extensiei, astfel încât să o puteți fixa."
+        },
+        {
+          "id": "3",
+          "question": "ÎNCEPEȚI NETFLIXAREA",
+          "answer": "Acum, deschide Netflix și conectează-te la contul tău. Vă rugăm să rețineți că aveți nevoie de abonamentul dvs. individual pe Netflix pentru a crea o petrecere de vizionare. Mai mult, toți membrii grupului de urmărire au nevoie de abonamentele lor separate Netflix pentru a se alătura."
+        },
+        {
+          "id": "4",
+          "question": "CAUTĂ, SETĂ, JOACĂ",
+          "answer": "În plus, căutați serialul Netflix sau un film preferat. Sau poți căuta orice alt videoclip de care vrei să te bucuri cu prietenii tăi și să-l redai."
+        },
+        {
+          "id": "5",
+          "question": "CREAȚI CATEGORIA NETFLIX WATCH",
+          "answer": "Pentru ultimul pas, faceți clic pe pictograma extensiei fixate. O mică fereastră pop-up numită „CREATE A WATCH PARTY” se va deschide cu un buton numit „START A PARTY”. Faceți clic pe acel buton pentru a obține un link de invitație la petrecerea de vizionare pe care l-ați putea împărtăși prietenilor tăi."
+        },
+        {
+          "id": "6",
+          "question": "IMPARTĂȚI BUCURIA",
+          "answer": "Acum, ați creat cu succes o petrecere de vizionare Netflix fără întreruperi. Prin urmare, partajați adresa URL a invitației generată tuturor prietenilor pe care îi doriți la petrecerea de vizionare."
+        }
+      ]
+    },
+    "three": {
+      "heading": "CUM SA INSCRIETI ??",
+      "subHeading": "Este foarte simplu și fără efort să te alături petrecerii Netflix. Cu toate acestea, trebuie să urmați aceeași procedură de pornire ca și crearea unui grup de vizionare. Prin urmare, trebuie să instalați și să fixați această extensie Chrome și, după aceea, să vă conectați la contul dvs. Netflix. Mai mult, rețineți că trebuie să aveți un abonament individual Netflix pentru a vă alătura petrecerii de vizionare. După toate acestea, trebuie doar să faceți clic pe adresa URL a invitației primită de prietenul dvs. Și Voila, ai ajuns la cea mai bună petrecere de ceasuri vreodată, chiar și în ciuda milelor.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "MEMBRII PARTICULUI DE CARE NECESARĂ",
+          "answer": "Știați că nu există limită pentru câte persoane s-ar putea alătura petrecerii dvs. de ceas? Cu această extensie <b>Netflix Party</b>, puteți introduce câte persoane doriți în petrecerea de vizionare. Prin urmare, indiferent câți oameni doresc să facă parte din petrecerea dvs. de vizionare, îi puteți obține doar partajând adresa URL a invitației cu ei."
+        },
+        {
+          "id": "t2",
+          "question": "CONTROLAȚI PETRECEREA DE CURSURI NETFLIX",
+          "answer": "Puteți obține control complet asupra setărilor pentru petrecerea de vizionare. În plus, puteți activa controlul deplin în mână, rotind butonul „NUMAI EU CONTROL” în verde și dobândind controlul petrecerii de ceas. Prin urmare, aveți autoritate asupra setărilor de redare, pauză, înainte și derulare înapoi. În plus, rețineți că setările sistemului rămân în continuare la membrii grupului de vizionare. Prin urmare, toți membrii grupului de vizionare își pot modifica în continuare setările audio, limbă și subtitrare."
+        },
+        {
+          "id": "t3",
+          "question": "DISFRUȚĂ-TE DE CHAT-UL LIVE DE GRUP",
+          "answer": "Vă puteți bucura petrecerea de vizionare la următorul nivel prin chat prin intermediul funcției de chat de grup a grupului de vizionare. Cu toate acestea, chatul live va apărea în bara laterală a petrecerii de vizionare. Puteți trimite reacții la anumite scene în timp ce transmiteți împreună. Prin urmare, nu este nimic mai bun decât asta pentru a te simți mai conectat cu cei dragi. Discutați în timp ce transmiteți în flux la petrecerea de vizionare."
+        },
+        {
+          "id": "t4",
+          "question": "PERSONALIZAȚI PETRECEREA NETFLIX",
+          "answer": "Aveți opțiunea de a vă personaliza profilul de utilizator și de a-i oferi o notă personală. Prin urmare, puteți alege o poreclă amuzantă pentru profilul dvs. Mai mult, puteți selecta și o pictogramă de utilizator din avatarele încorporate. Cu toate acestea, porecla și pictograma de utilizator vor apărea în grupul de vizionare și în chatul de grup."
+        },
+        {
+          "id": "t5",
+          "question": "SINCRONIZAȚI FĂRĂ",
+          "answer": "Nu contează unde vă aflați dumneavoastră sau cei dragi. Puteți transmite în flux Netflix în sincronizare cu ei. Extensia creează petreceri fluide de ceas cu sincronizare perfectă. Prin urmare, chiar și în timp ce se omite sau se întrerupe, sincronizarea rămâne intactă. Prin urmare, puteți urmări cu toții împreună în timp real."
+        },
+        {
+          "id": "t6",
+          "question": "EXPERIENȚĂ VIDEO HD ULTIMĂ",
+          "answer": "Ești, de asemenea, un binge-watcher și un iubitor de Netflix? Atunci ți-ar plăcea o petrecere Netflix cu o calitate video fantastică. Prin urmare, tocmai asta vă oferim. Acum puteți experimenta videoclipuri de calitate HD cu viteza rapidă de tamponare în toate videoclipurile dvs. Prin urmare, nu mai așteptați și începeți acum să instalați acest instrument gratuit, astfel încât să puteți transmite în flux cu stil."
+        },
+        {
+          "id": "t7",
+          "question": "GRATUIT ȘI ÎN TOATE LUME",
+          "answer": "Cea mai bună parte este că extensia este absolut gratuită și nu trebuie să investești în nimic pentru a te bucura de o petrecere de vizionare Netflix cu prietenii tăi. În afară de asta, această extensie este disponibilă în întreaga lume. Prin urmare, vă puteți bucura de streaming împreună cu cei dragi din orice colț al lumii. Cu toate acestea, asigurați-vă că Netflix este disponibil în toate țările în care încercați să găzduiți petrecerea de vizionare. Deși toți membrii grupului de supraveghere trebuie să se afle în aceeași țară, oamenii pot folosi în continuare serviciul VPN și își pot schimba țara dacă aparțin alteia."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "întrebări frecvente",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Cum funcționează extensia Netflix Party?",
+        "answer": "Extensia Netflix Party permite utilizatorilor să-și sincronizeze fluxurile Netflix cu prietenii, creând o petrecere virtuală de vizionare. Utilizatorii pot găzdui sau pot participa la petreceri și pot viziona împreună emisiuni și filme în timp real."
+      },
+      {
+        "id": "f2",
+        "question": "Este extensia Netflix Party gratuită?",
+        "answer": "Da, extensia Netflix Party este complet gratuită pentru descărcare și utilizare. Utilizatorii se pot bucura de streaming sincronizat cu prietenii fără niciun cost suplimentar."
+      },
+      {
+        "id": "f3",
+        "question": "Există restricții privind numărul de participanți la o petrecere de vizionare?",
+        "answer": "Nu, nu există limitări privind numărul de participanți la o petrecere de vizionare Netflix Party. Utilizatorii pot invita oricât de mulți prieteni doresc, ceea ce îl face ideal pentru grupuri mari."
+      },
+      {
+        "id": "f4",
+        "question": "Pot controla redarea în timpul unei petreceri Netflix?",
+        "answer": "Da, gazdele au opțiunea de a activa controlul deplin asupra setărilor de redare, inclusiv redare, pauză, înainte și derulare înapoi. Cu toate acestea, participanții își pot ajusta în continuare setările individuale de sunet, limbă și subtitrare."
+      },
+      {
+        "id": "f5",
+        "question": "Extensia Netflix Party este disponibilă la nivel global?",
+        "answer": "Da, extensia Netflix Party este disponibilă în toată lumea. Utilizatorii pot găzdui petreceri de vizionare cu prietenii din orice colț al globului, cu condiția ca Netflix să fie accesibil în țările lor respective. În plus, participanții pot folosi serviciile VPN pentru a se alătura unor partide găzduite în alte țări."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Anunță-ne.",
+    "anyQuestions": "Ai întrebări? Vizitați pagina noastră de asistență",
+    "blog": "Blog",
+    "popularSearches": "Căutări populare",
+    "disclaimer": "Disclaimer",
+    "disclaimerContent": "Netflix este o marcă comercială a Netflix, Inc. Acest site web",
+    "footerTags": [
+      "Netflix Watch Party, Netflix Party, Netflix Party Extension, Netflix Party Chrome Extension, Watch Party Netflix, Cum se face Netflix Party, Cum se utilizează Netflix Party, Cum se face o Netflix Party, Netflix Watch Party Extension, Netflix Party Descărcați extensia Chrome, Instalați extensia Netflix Chrome"
+    ]
+  }
+}

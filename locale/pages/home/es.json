@@ -1,0 +1,133 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Añadir", "free": "Es gratis" },
+    "navBarHeading": "ya está disponible en Google Chrome, Microsoft Edge y Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "NETFLIX Y REFRESCARSE CON AMIGOS A TRAVÉS DE NETFLIX PARTY.",
+      "html": "¿Sigues atrapado en la vieja y aburrida forma de transmitir? Instala la extensión gratuita <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a> y elige el método de la nueva era para relajarte con tus amigos lejanos. Por lo tanto, disfruta de miles de programas y películas de Netflix sincronizados con tus amigos en cualquier parte del mundo. Puedes organizar o unirte a una fiesta de visualización perfecta y sincronizada, que permanece intacta incluso cuando saltas y pausas. Además, puedes experimentar la mejor transmisión en HD con una rápida velocidad de almacenamiento en búfer con esta herramienta. Por lo tanto, no esperes más y descarga la extensión ahora. Además, a continuación te explicamos cómo puedes organizar o unirte a una fiesta de visualización con cualquier persona en todo el mundo de forma gratuita.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
+    },
+    "second": {
+      "heading": "Cómo utilizar la extensión para fiestas de Netflix",
+      "subHeading": "Debes haber experimentado ver Netflix con personas en la misma habitación y en la misma pantalla. Sin embargo, ¿nunca hubieras imaginado que podrías transmitir junto con ellos a pesar de la distancia entre ustedes? Por lo tanto, ahora puedes crear una fiesta de observación en unos simples pasos con ellos, sin importar la distancia entre ustedes.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "INSTALE LA EXTENSIÓN",
+          "answer": "El primer paso es descargar la extensión de fiesta de Netflix <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Haga clic aquí</u></a> para instalar la extensión gratuita y fácil de usar. Además, asegúrese de tener el navegador Google Chrome o Microsoft Edge para instalarlo. Además, la extensión es compatible con Chromebooks, macOS, portátiles, Windows y ordenadores."
+        },
+        {
+          "id": "2",
+          "question": "FIJAR LA EXTENSIÓN",
+          "answer": "A continuación, debe fijar la extensión a la barra de herramientas. Sin embargo, si no ve el ícono de la extensión de fiesta de Netflix, haga clic en el ícono del rompecabezas en la esquina derecha en la parte superior del navegador. Encontrarás el ícono de la extensión allí, para que puedas fijarlo."
+        },
+        {
+          "id": "3",
+          "question": "COMENZAR A NETFLIX",
+          "answer": "Ahora, abre Netflix e inicia sesión en tu cuenta. Recuerde que necesita su suscripción individual en Netflix para crear una fiesta de observación. Además, todos los miembros del grupo de visualización necesitan sus suscripciones independientes de Netflix para unirse."
+        },
+        {
+          "id": "4",
+          "question": "BUSCAR, CONFIGURAR, JUGAR",
+          "answer": "Además, busque su programa o película favorita de Netflix. O puedes buscar cualquier otro vídeo que quieras disfrutar con tus amigos y reproducirlo."
+        },
+        {
+          "id": "5",
+          "question": "CREA LA PATRIA DE VER NETFLIX",
+          "answer": "Para el paso final, haga clic en el icono de extensión fijada. Se abrirá una pequeña ventana emergente llamada \"CREAR UNA FIESTA DE VER\" con un botón llamado \"INICIAR UNA FIESTA\". Haz clic en ese botón para obtener un enlace de invitación a la fiesta de visualización que podrás compartir con tus amigos."
+        },
+        {
+          "id": "6",
+          "question": "COMPARTE LA ALEGRÍA",
+          "answer": "Ahora, ha creado con éxito una Netflix Watch Party perfecta. Por lo tanto, comparte la URL de invitación generada con todos los amigos que quieras en la fiesta del reloj."
+        }
+      ]
+    },
+    "three": {
+      "heading": "¿CÓMO UNIRSE?",
+      "subHeading": "Es muy sencillo y sin esfuerzo unirse a Netflix Party. Sin embargo, debe seguir el mismo procedimiento inicial que para crear un grupo de vigilancia. Por lo tanto, debe instalar y anclar esta extensión de Chrome y, luego, iniciar sesión en su cuenta de Netflix. Además, tenga en cuenta que debe tener su suscripción individual a Netflix para unirse a la fiesta de visualización. Después de todo esto, sólo tienes que hacer clic en la URL de invitación que recibió tu amigo. Y listo, has llegado a la mejor fiesta de observación de todos los tiempos, incluso a pesar de los kilómetros.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "MIEMBROS DEL FIESTA DE VIGILANCIA ILIMITADA",
+          "answer": "¿Sabías que no hay límite en cuanto a la cantidad de personas que pueden unirse a tu grupo de observación? Con esta extensión <b>Netflix Party</b>, puedes ingresar a tantas personas como quieras en tu Watch Party. Por lo tanto, no importa cuántas personas quieran ser parte de tu grupo de observación, puedes lograr que participen simplemente compartiendo la URL de invitación con ellos."
+        },
+        {
+          "id": "t2",
+          "question": "CONTROLA LA FIESTA DE VER NETFLIX",
+          "answer": "Puede obtener un control total de la configuración de la fiesta de visualización. Además, puede habilitar el control total en su mano girando el botón verde \"SÓLO YO TENGO EL CONTROL\" y adquiriendo el control del grupo de vigilancia. Por lo tanto, usted tiene autoridad sobre las configuraciones de Reproducir, Pausar, Avanzar y Rebobinar. Además de esto, tenga en cuenta que la configuración del sistema aún permanece en manos de los miembros del grupo de vigilancia. Por lo tanto, todos los miembros del grupo de visualización aún pueden modificar su configuración de audio, idioma y subtítulos."
+        },
+        {
+          "id": "t3",
+          "question": "DISFRUTA DEL CHAT GRUPAL EN VIVO",
+          "answer": "Puedes animar a tu grupo de visualización al siguiente nivel chateando a través de la función de chat grupal del grupo de visualización. Sin embargo, el chat en vivo aparecerá en la barra lateral de la fiesta de visualización. Puede enviar reacciones a escenas particulares mientras transmiten juntos. Por eso, no hay nada mejor que esto para sentirte más conectado con tus seres queridos. Chatea mientras transmites en tu fiesta de visualización."
+        },
+        {
+          "id": "t4",
+          "question": "PERSONALIZA LA FIESTA NETFLIX",
+          "answer": "Tienes la opción de personalizar tu perfil de usuario y darle un toque personal. Por lo tanto, puedes elegir un apodo divertido para tu perfil. Además, también puedes seleccionar un icono de usuario de los avatares incorporados. Sin embargo, su apodo y su ícono de usuario aparecerán en su grupo de observación y en el chat grupal."
+        },
+        {
+          "id": "t5",
+          "question": "SINCRONIZACIÓN PERFECTA",
+          "answer": "No importa dónde esté usted o sus seres queridos. Puedes transmitir Netflix sincronizado con ellos. La extensión crea fiestas de visualización fluidas con una sincronización perfecta. Por lo tanto, incluso al saltar o pausar, la sincronización permanece intacta. Por lo tanto, todos podrán verlo juntos en tiempo real."
+        },
+        {
+          "id": "t6",
+          "question": "MÁXIMA EXPERIENCIA DE VIDEO HD",
+          "answer": "¿También eres un observador compulsivo y un amante de Netflix? Entonces te encantaría una fiesta de Netflix con una calidad de vídeo fantástica. Por eso, eso es precisamente lo que te ofrecemos. Ahora puede experimentar videos de calidad HD con una rápida velocidad de almacenamiento en búfer en todos sus videos. Por lo tanto, no esperes más y comienza a instalar esta herramienta gratuita ahora para poder transmitir con estilo."
+        },
+        {
+          "id": "t7",
+          "question": "GRATIS Y EN TODO EL MUNDO",
+          "answer": "La mejor parte es que la extensión es absolutamente gratuita y no tienes que invertir en nada para disfrutar de una fiesta para ver Netflix con tus amigos. Aparte de eso, esta extensión está disponible en todo el mundo. Por tanto, podrás disfrutar del streaming con tus seres queridos desde cualquier rincón del mundo. Sin embargo, asegúrese de que Netflix esté disponible en todos los países donde intenta organizar la fiesta de observación. Aunque todos los miembros del grupo de vigilancia deben estar en el mismo país, las personas aún pueden usar el servicio VPN y cambiar de país si pertenecen a otro."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Preguntas frecuentes",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "¿Cómo funciona la extensión Netflix Party?",
+        "answer": "La extensión Netflix Party permite a los usuarios sincronizar sus transmisiones de Netflix con amigos, creando una fiesta de visualización virtual. Los usuarios pueden organizar o unirse a fiestas y ver programas y películas juntos en tiempo real."
+      },
+      {
+        "id": "f2",
+        "question": "¿La extensión Netflix Party es de uso gratuito?",
+        "answer": "Sí, la extensión Netflix Party se puede descargar y usar completamente gratis. Los usuarios pueden disfrutar de streaming sincronizado con amigos sin ningún coste adicional."
+      },
+      {
+        "id": "f3",
+        "question": "¿Existe alguna restricción en cuanto al número de participantes en una fiesta de observación?",
+        "answer": "No, no hay limitaciones en la cantidad de participantes en una fiesta de visualización de Netflix Party. Los usuarios pueden invitar a tantos amigos como quieran, lo que lo hace ideal para grupos grandes."
+      },
+      {
+        "id": "f4",
+        "question": "¿Puedo controlar la reproducción durante una Netflix Party?",
+        "answer": "Sí, los anfitriones tienen la opción de habilitar el control total sobre la configuración de reproducción, incluida la reproducción, pausa, avance y rebobinado. Sin embargo, los participantes aún pueden ajustar su configuración individual de audio, idioma y subtítulos."
+      },
+      {
+        "id": "f5",
+        "question": "¿La extensión Netflix Party está disponible a nivel mundial?",
+        "answer": "Sí, la extensión Netflix Party está disponible en todo el mundo. Los usuarios pueden organizar fiestas de visualización con amigos desde cualquier rincón del mundo, siempre que Netflix sea accesible en sus respectivos países. Además, los participantes pueden utilizar servicios VPN para unirse a fiestas organizadas en otros países."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Haznos saber.",
+    "anyQuestions": "¿Tiene preguntas? Visita nuestra página de soporte",
+    "blog": "Blog",
+    "popularSearches": "Búsquedas populares",
+    "disclaimer": "Descargo de responsabilidad",
+    "disclaimerContent": "Netflix es una marca comercial de Netflix, Inc. Este sitio web",
+    "footerTags": [
+      "Netflix Watch Party, Netflix Party, Netflix Party Extension, Netflix Party Chrome Extension, Watch Party Netflix, Cómo hacer Netflix Party, Cómo usar Netflix Party, Cómo hacer una Netflix Party, Netflix Watch Party Extension, Netflix Party Descargar extensión de Chrome, Instalar la extensión de Netflix para Chrome"
+    ]
+  }
+}

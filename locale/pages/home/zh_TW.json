@@ -1,0 +1,133 @@
+{
+  "header": {
+    "installBtn": { "addTo": "添加", "free": "这是免费的" },
+    "navBarHeading": "现已在 Google Chrome、Microsoft Edge 和 Mozilla Firefox 上提供"
+  },
+  "section": {
+    "first": {
+      "heading": "Netflix 并通过 Netflix 派对与朋友们一起放松。",
+      "html": "您是否还停留在老旧无聊的直播方式中？安装免费的 <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a> 扩展程序并选择新时代的放松方法你远方的朋友。因此，您可以与世界各地的朋友同步欣赏数以千计的 Netflix 节目和电影。您可以同步主持或加入无缝观看派对，即使在跳过和暂停时也能保持完整。此外，您可以使用此工具体验终极的高清流媒体和快速的缓冲速度。因此，不要再等待，立即下载扩展程序。此外，您还可以通过以下方式与世界各地的任何人免费举办或参加观看派对。",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
+    },
+    "second": {
+      "heading": "如何使用 Netflix 派对扩展",
+      "subHeading": "您一定有过与人在同一个房间、同一个屏幕上观看 Netflix 的经历。然而，你有没有想过，尽管相距遥远，你也能和他们一起直播？因此，现在您可以通过几个简单的步骤与他们一起创建观看派对，无论你们之间的距离如何-",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "安装扩展",
+          "answer": "第一步是下载 Netflix party 扩展<a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>点击在这里</u></a>安装免费的、用户友好的扩展。此外，请确保您有 Google Chrome 或 Microsoft Edge 浏览器来安装它。此外，该扩展程序与 Chromebook、macOS、笔记本电脑、Windows 和计算机兼容。"
+        },
+        {
+          "id": "2",
+          "question": "固定分机",
+          "answer": "接下来，您需要将扩展​​固定到工具栏。但是，如果您没有看到 Netflix 派对扩展程序图标，请单击浏览器顶部右上角的拼图图标。您会在那里找到扩展程序图标，因此您可以将其固定。"
+        },
+        {
+          "id": "3",
+          "question": "开始Netflix",
+          "answer": "现在，打开 Netflix 并登录您的帐户。请记住，您需要在 Netflix 上进行个人订阅才能创建观看派对。此外，所有观看派对成员都需要单独订阅 Netflix 才能加入。"
+        },
+        {
+          "id": "4",
+          "question": "搜索、设置、播放",
+          "answer": "此外，搜索您最喜欢的 Netflix 节目或电影。或者您可以搜索您想与朋友一起欣赏的任何其他视频并播放。"
+        },
+        {
+          "id": "5",
+          "question": "创建 Netflix Watch Patry",
+          "answer": "对于最后一步，单击固定的扩展图标。将打开一个名为“创建观看派对”的小弹出窗口，其中包含一个名为“开始派对”的按钮。单击该按钮即可获取观看聚会的邀请链接，您可以与朋友分享。"
+        },
+        {
+          "id": "6",
+          "question": "分享快乐",
+          "answer": "现在，您已经成功创建了一个无缝的 Netflix Watch Party。因此，请将生成的邀请 URL 分享给您想要参加观看聚会的所有朋友。"
+        }
+      ]
+    },
+    "three": {
+      "heading": "如何加入？",
+      "subHeading": "加入 Netflix Party 非常简单且毫不费力。但是，您必须遵循与创建观看派对相同的启动程序。因此，您需要安装并固定此 Chrome 扩展程序，然后登录您的 Netflix 帐户。此外，请注意，您必须拥有个人 Netflix 订阅才能加入观看派对。完成这一切后，您只需点击您朋友收到的邀请网址即可。瞧，尽管距离很远，您还是到达了有史以来最好的观看派对。",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "无限观看派对成员",
+          "answer": "您是否知道参加您的观看派对的人数没有限制？借助此 <b>Netflix Party</b> 扩展程序，您可以让任意数量的人加入您的观看派对。因此，无论有多少人想参加您的观看派对，您只需与他们分享邀请 URL 即可吸引他们加入。"
+        },
+        {
+          "id": "t2",
+          "question": "控制 Netflix 观看派对",
+          "answer": "您可以完全控制观看派对设置。此外，您可以通过将“只有我有控制权”按钮变成绿色并获得对观看方的控制权来实现完全控制。因此，您拥有播放、暂停、快进和快退设置的权限。除此之外，请注意，系统设置仍然保留在观看队伍成员手中。因此，所有观看队伍成员仍然可以修改他们的音频、语言和字幕设置。"
+        },
+        {
+          "id": "t3",
+          "question": "享受实时群组聊天",
+          "answer": "您可以通过观看派对的群聊功能聊天，让观看派对更上一层楼。但是，实时聊天将出现在观看聚会的侧边栏中。您可以在一起流式传输时发送对特定场景的反应。因此，没有什么比这更能增强与亲人的联系了。在观看派对上一边直播一边聊天。"
+        },
+        {
+          "id": "t4",
+          "question": "个性化 Netflix 派对",
+          "answer": "您可以选择自定义您的用户个人资料并赋予其个人风格。因此，您可以为您的个人资料选择一个有趣的昵称。此外，您还可以从内置头像中选择用户图标。但是，您的昵称和用户图标将出现在您的观看派对和群聊中。"
+        },
+        {
+          "id": "t5",
+          "question": "无缝同步",
+          "answer": "您或您所爱的人在哪里并不重要。您可以与它们同步流式传输 Netflix。该扩展创建了完美同步的流畅观看派对。因此，即使在跳过或暂停时，同步也保持不变。因此，大家可以一起实时观看。"
+        },
+        {
+          "id": "t6",
+          "question": "极致高清视频体验",
+          "answer": "您也是一名追剧者和 Netflix 爱好者吗？那么您一定会喜欢一场具有出色视频质量的 Netflix 派对。因此，这正是我们为您提供的。您现在可以在所有视频中体验高清质量的视频和快速的缓冲速度。因此，不要再等待，立即开始安装这个免费工具，这样您就可以时尚地进行流式传输。"
+        },
+        {
+          "id": "t7",
+          "question": "免费且全球范围内",
+          "answer": "最好的部分是，扩展是完全免费的，您无需投资任何东西即可与朋友一起享受 Netflix 观看聚会。除此之外，此扩展在全球范围内可用。因此，您可以与来自世界任何角落的亲人一起享受流媒体服务。不过，请确保 Netflix 在您尝试举办观看派对的所有国家/地区均可用。尽管所有观察队成员必须位于同一个国家/地区，但如果他们属于另一个国家/地区，人们仍然可以使用 VPN 服务并更改自己的国家/地区。"
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "经常问的问题",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Netflix Party 扩展程序如何运作？",
+        "answer": "Netflix Party 扩展允许用户与朋友同步他们的 Netflix 流，创建虚拟观看派对。用户可以举办或参加聚会并实时观看节目和电影。"
+      },
+      {
+        "id": "f2",
+        "question": "Netflix Party 扩展可以免费使用吗？",
+        "answer": "是的，Netflix Party 扩展程序完全免费下载和使用。用户无需支付任何额外费用即可与好友同步串流。"
+      },
+      {
+        "id": "f3",
+        "question": "观看派对的参加人数有限制吗？",
+        "answer": "不需要，Netflix Party 观看派对的参与者人数没有限制。用户可以邀请任意数量的朋友，非常适合大型团体。"
+      },
+      {
+        "id": "f4",
+        "question": "我可以在 Netflix 派对期间控制播放吗？",
+        "answer": "是的，主持人可以选择启用对播放设置的完全控制，包括播放、暂停、前进和后退。但是，参与者仍然可以调整他们个人的音频、语言和字幕设置。"
+      },
+      {
+        "id": "f5",
+        "question": "Netflix Party 扩展程序在全球范围内可用吗？",
+        "answer": "是的，Netflix Party 扩展程序在全球范围内可用。用户可以与来自世界任何角落的朋友举办观看聚会，前提是 Netflix 在各自的国家/地区可以访问。此外，参与者还可以使用 VPN 服务加入在其他国家/地区举办的聚会。"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "让我们知道。",
+    "anyQuestions": "有疑问吗？访问我们的支持页面",
+    "blog": "博客",
+    "popularSearches": "热门搜索",
+    "disclaimer": "免责声明",
+    "disclaimerContent": "Netflix 是 Netflix, Inc. 的商标。本网站",
+    "footerTags": [
+      "Netflix Watch Party, Netflix Party, Netflix Party 扩展, Netflix Party Chrome 扩展, Watch Party Netflix, 如何做 Netflix Party, 如何使用 Netflix Party, 如何做 Netflix Party, Netflix Watch Party 扩展,Netflix Party 下载 Chrome 扩展,安装 Netflix Chrome 扩展"
+    ]
+  }
+}
