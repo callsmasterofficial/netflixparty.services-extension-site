@@ -6,7 +6,7 @@
   "section": {
     "first": {
       "heading": "NETFLIX OCH CHILLA MED VÄNNER VIA NETFLIX-FEST.",
-      "html": "Har du fortfarande fastnat i det gamla och tråkiga sättet att streama? Installera det kostnadsfria <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a>-tillägget och välj den nya metoden för att kyla med dina avlägsna vänner. Därför kan du njuta av tusentals Netflix-program och filmer synkroniserat med dina vänner var som helst i världen. Du kan vara värd för eller gå med i en sömlös klockfest i synk, som förblir intakt även när du hoppar över och pausar. Dessutom kan du uppleva den ultimata HD-strömningen med den snabba buffringshastigheten med detta verktyg. Vänta därför inte längre och ladda ner tillägget nu. Dessutom, så här kan du vara värd för eller gå med i en klockfest med vem som helst över hela världen gratis.",
+      "html": "Ta farväl av föråldrade streamingmetoder och omfamna det moderna sättet att titta med dina vänner, oavsett avstånd, genom att installera Netflix Party-tillägget gratis. Detta innovativa verktyg låter dig njuta av ett stort utbud av Netflix-serier och filmer perfekt synkroniserade med vänner över hela världen. Oavsett om du är värd eller går med, förblir klockfesten felfritt synkroniserad, opåverkad av pauser eller överhoppningar. Dessutom kan du njuta av streaming av överlägsen HD-kvalitet och snabba buffringshastigheter för en oöverträffad tittarupplevelse. Tveka inte längre; ladda ner tillägget idag. Dessutom kan du upptäcka den enkla processen att skapa eller delta i en global tittarfest utan kostnad.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
@@ -54,7 +54,7 @@
         {
           "id": "t1",
           "question": "BEGRÄNSLIGA MEDLEMMAR FÖR KLOCKFEST",
-          "answer": "Visste du att det inte finns någon gräns för hur många personer som kan gå med i din klockfest? Med det här <b>Netflix Party</b>-tillägget kan du ange så många personer som du vill på din visningsfest. Därför, oavsett hur många personer som vill vara en del av din klockfest, kan du få in dem bara genom att dela inbjudningsadressen med dem."
+          "answer": "Visste du att det inte finns någon gräns för hur många personer som kan gå med i din klockfest? Med det här <b>Netflix Party</b>-tillägget kan du ange så många personer som du vill i din visningsfest. Därför, oavsett hur många människor som vill vara en del av din visningsfest, kan du få in dem bara genom att dela inbjudningsadressen med dem."
         },
         {
           "id": "t2",
@@ -116,6 +116,16 @@
         "id": "f5",
         "question": "Är Netflix Party-tillägget tillgängligt globalt?",
         "answer": "Ja, Netflix Party-tillägget är tillgängligt över hela världen. Användare kan hålla titta på fester med vänner från alla hörn av världen, förutsatt att Netflix är tillgängligt i deras respektive länder. Dessutom kan deltagare använda VPN-tjänster för att gå med i parter som är värdar i andra länder."
+      },
+      {
+        "id": "f6",
+        "question": "Hur startar jag en Netflix Group Watch Party?",
+        "answer": "För att starta en Netflix Group Watch Party, välj en plattform som Teleparty (tidigare Netflix Party) eller Scener och installera dess webbläsartillägg. Efter installationen, logga in på Netflix, välj önskat innehåll och starta festen genom tillägget. Dela den genererade länken med vänner för att gå med. Njut av att titta tillsammans med integrerade chattfunktioner för en rolig, interaktiv upplevelse!"
+      },
+      {
+        "id": "f7",
+        "question": "Hur kan jag få ut det mesta av min Netflix Group Watch Party?",
+        "answer": "För att få ut det mesta av din Netflix Group Watch Party, följ dessa tips: Välj ditt innehåll i förväg, planera festen och dela information tidigt, använd chatten aktivt för diskussioner och reaktioner, ta pauser under långa visningar, anpassa uppspelningskontrollerna för en smidig upplevelse , och be om feedback efteråt för att förbättra framtida fester."
       }
     ]
   },

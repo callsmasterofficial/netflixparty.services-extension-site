@@ -6,7 +6,7 @@
   "section": {
     "first": {
       "heading": "NETFLIX OG CHILL MED VENNER VIA NETFLIX-FEST.",
-      "html": "Sitter du fortsatt fast i den gamle og kjedelige måten å streame på? Installer gratisutvidelsen <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a> og velg den nye metoden for chilling med dine fjerne venner. Nyt derfor tusenvis av Netflix-serier og filmer synkronisert med vennene dine hvor som helst i verden. Du kan være vertskap for eller bli med på en sømløs klokkefest synkronisert, som forblir intakt selv når du hopper over og pauser. Dessuten kan du oppleve den ultimate HD-streaming med den raske bufferhastigheten med dette verktøyet. Vent derfor ikke lenger og last ned utvidelsen nå. Videre, her er hvordan du kan arrangere eller bli med på en klokkefest med hvem som helst over hele verden gratis.",
+      "html": "Ta farvel med utdaterte strømmemetoder og omfavn den moderne måten å se på med vennene dine, uansett avstand, ved å installere Netflix Party-utvidelsen gratis. Dette innovative verktøyet lar deg nyte et stort utvalg av Netflix-serier og filmer perfekt synkronisert med venner over hele verden. Enten du er vertskap eller blir med, forblir klokkepartiet feilfritt synkronisert, upåvirket av pauser eller hopp. I tillegg kan du nyte streaming av overlegen HD-kvalitet og raske bufferhastigheter for en enestående seeropplevelse. Ikke nøl lenger; last ned utvidelsen i dag. I tillegg kan du oppdage den enkle prosessen med å opprette eller delta i en global se-fest uten kostnad.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
@@ -17,7 +17,7 @@
         {
           "id": "1",
           "question": "INSTALLER UTVIDELSEN",
-          "answer": "Det første trinnet er å laste ned Netflix-partyutvidelsen <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Klikk her</u></a> for å installere den gratis, brukervennlige utvidelsen. Sørg dessuten for at du har enten Google Chrome eller Microsoft Edge-nettleseren for å installere den. Videre er utvidelsen kompatibel med Chromebooks, macOS, bærbare datamaskiner, Windows og datamaskiner."
+          "answer": "Det første trinnet er å laste ned Netflix-partyutvidelsen <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Klikk her</u></a> for å installere den gratis, brukervennlige utvidelsen. Sørg dessuten for at du har enten Google Chrome eller Microsoft Edge-nettleseren for å installere den. Videre er utvidelsen kompatibel med Chromebook, macOS, bærbare datamaskiner, Windows og datamaskiner."
         },
         {
           "id": "2",
@@ -32,12 +32,12 @@
         {
           "id": "4",
           "question": "SØK, STILL, SPILL",
-          "answer": "Søk videre etter favorittprogrammet ditt på Netflix eller en film. Eller du kan søke etter en hvilken som helst annen video du vil nyte med vennene dine og spille den."
+          "answer": "Søk videre etter din favoritt Netflix-serie eller en film. Eller du kan søke etter en hvilken som helst annen video du vil nyte med vennene dine og spille den."
         },
         {
           "id": "5",
           "question": "LAG NETFLIX WATCH PATRY",
-          "answer": "For det siste trinnet, klikk på det festede utvidelsesikonet. En liten pop-up kalt \"CREATE A WATCH PARTY\" åpnes med en knapp kalt \"START A PARTY.\" Klikk på den knappen for å få en invitasjonslenke til se-festen som du kan dele med vennene dine."
+          "answer": "For det siste trinnet, klikk på det festede utvidelsesikonet. En liten pop-up med navnet \"CREATE A WATCH PARTY\" åpnes med en knapp kalt \"START A PARTY.\" Klikk på den knappen for å få en invitasjonslenke til visningsfesten som du kan dele med vennene dine."
         },
         {
           "id": "6",
@@ -48,7 +48,7 @@
     },
     "three": {
       "heading": "HVORDAN BLI MED DET??",
-      "subHeading": "Det er veldig enkelt og uanstrengt å bli med på Netflix-festen. Du må imidlertid følge samme startprosedyre som for å opprette en vaktfest. Derfor må du installere og feste denne krom-utvidelsen og deretter logge på Netflix-kontoen din. Vær dessuten oppmerksom på at du må ha ditt individuelle Netflix-abonnement for å bli med på se-festen. Etter alt dette trenger du bare å klikke på invitasjonens URL mottatt av vennen din. Og vips, du har nådd tidenes beste klokkefest til tross for milene.",
+      "subHeading": "Det er veldig enkelt og uanstrengt å bli med på Netflix-festen. Du må imidlertid følge samme startprosedyre som å opprette en vaktfest. Derfor må du installere og feste denne krom-utvidelsen, og deretter logge på Netflix-kontoen din. Vær dessuten oppmerksom på at du må ha ditt individuelle Netflix-abonnement for å bli med på sefesten. Etter alt dette trenger du bare å klikke på invitasjonens URL mottatt av vennen din. Og vips, du har nådd tidenes beste klokkefest til tross for milene.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
       "accordian": [
         {
@@ -115,7 +115,17 @@
       {
         "id": "f5",
         "question": "Er Netflix Party-utvidelsen tilgjengelig globalt?",
-        "answer": "Ja, Netflix Party-utvidelsen er tilgjengelig over hele verden. Brukere kan være vertskap for se-fester med venner fra ethvert hjørne av kloden, forutsatt at Netflix er tilgjengelig i deres respektive land. I tillegg kan deltakerne bruke VPN-tjenester for å bli med i partier som er vert i andre land."
+        "answer": "Ja, Netflix Party-utvidelsen er tilgjengelig over hele verden. Brukere kan være vertskap for se-fester med venner fra ethvert hjørne av kloden, forutsatt at Netflix er tilgjengelig i deres respektive land. I tillegg kan deltakere bruke VPN-tjenester for å bli med i partier som er vert i andre land."
+      },
+      {
+        "id": "f6",
+        "question": "Hvordan starter jeg en Netflix Group Watch Party?",
+        "answer": "For å starte en Netflix Group Watch Party, velg en plattform som Teleparty (tidligere Netflix Party) eller Scener og installer nettleserutvidelsen. Etter installasjonen, logg på Netflix, velg ditt foretrukne innhold og start festen gjennom utvidelsen. Del den genererte lenken med venner for å bli med. Nyt å se sammen med integrerte chat-funksjoner for en morsom, interaktiv opplevelse!"
+      },
+      {
+        "id": "f7",
+        "question": "Hvordan kan jeg få mest mulig ut av Netflix Group Watch Party?",
+        "answer": "For å få mest mulig ut av Netflix Group Watch Party, følg disse tipsene: Velg innholdet ditt på forhånd, planlegg festen og del detaljer tidlig, bruk chat aktivt for diskusjoner og reaksjoner, ta pauser under lange visninger, tilpass avspillingskontrollene for en jevn opplevelse , og be om tilbakemelding etterpå for å forbedre fremtidige fester."
       }
     ]
   },

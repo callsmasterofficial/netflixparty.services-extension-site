@@ -5,8 +5,8 @@
   },
   "section": {
     "first": {
-      "heading": "NETFLIX UND CHILLEN SIE MIT FREUNDEN ÜBER DIE NETFLIX-PARTY.",
-      "html": "Stecken Sie immer noch in der alten und langweiligen Art des Streamings fest? Installieren Sie die kostenlose <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a>-Erweiterung und wählen Sie die neue Art des Chillens deine entfernten Freunde. Genießen Sie daher Tausende von Netflix-Sendungen und -Filmen synchron mit Ihren Freunden überall auf der Welt. Sie können eine nahtlose Watch-Party synchron veranstalten oder daran teilnehmen, die auch beim Überspringen und Pausieren erhalten bleibt. Darüber hinaus können Sie mit diesem Tool das ultimative HD-Streaming mit hoher Puffergeschwindigkeit erleben. Warten Sie also nicht länger und laden Sie die Erweiterung jetzt herunter. Darüber hinaus erfahren Sie hier, wie Sie mit jedem weltweit kostenlos eine Uhrenparty veranstalten oder daran teilnehmen können.",
+      "heading": "NETFLIX UND CHILL MIT FREUNDEN ÜBER NETFLIX PARTY.",
+      "html": "Verabschieden Sie sich von veralteten Streaming-Methoden und nutzen Sie die moderne Art, mit Ihren Freunden fernzuschauen, unabhängig von der Entfernung, indem Sie die Netflix Party-Erweiterung kostenlos installieren. Mit diesem innovativen Tool können Sie eine große Auswahl an Netflix-Serien und -Filmen perfekt synchronisiert mit Freunden auf der ganzen Welt genießen. Unabhängig davon, ob Sie Gastgeber sind oder beitreten, bleibt die Watch-Party perfekt synchron und wird nicht durch Pausen oder Sprünge beeinträchtigt. Genießen Sie außerdem erstklassiges Streaming in HD-Qualität und schnelle Puffergeschwindigkeiten für ein unvergleichliches Seherlebnis. Zögern Sie nicht länger; Laden Sie die Erweiterung noch heute herunter. Entdecken Sie außerdem den unkomplizierten Prozess, kostenlos eine globale Uhrenparty zu organisieren oder daran teilzunehmen.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
@@ -59,7 +59,7 @@
         {
           "id": "t2",
           "question": "KONTROLLIEREN SIE DIE NETFLIX-WATCH-PARTY",
-          "answer": "Sie können die Watch-Party-Einstellungen vollständig steuern. Darüber hinaus können Sie die volle Kontrolle in Ihre Hand übernehmen, indem Sie den „NUR ICH HABE KONTROLLE“-Knopf grün schalten und die Kontrolle über die Wachgruppe übernehmen. Daher haben Sie die Kontrolle über die Einstellungen für Wiedergabe, Pause, Vorlauf und Rücklauf. Beachten Sie außerdem, dass die Systemeinstellungen weiterhin bei den Wachgruppenmitgliedern verbleiben. Daher können alle Watch-Party-Mitglieder weiterhin ihre Audio-, Sprach- und Untertiteleinstellungen ändern."
+          "answer": "Sie können die Watch-Party-Einstellungen vollständig steuern. Darüber hinaus können Sie die volle Kontrolle in Ihre Hand übernehmen, indem Sie den „NUR ICH HABE KONTROLLE“-Knopf grün schalten und die Kontrolle über die Wachgruppe übernehmen. Daher haben Sie die Kontrolle über die Einstellungen für Wiedergabe, Pause, Vorlauf und Rücklauf. Beachten Sie außerdem, dass die Systemeinstellungen weiterhin bei den Mitgliedern der Überwachungsgruppe verbleiben. Daher können alle Watch-Party-Mitglieder weiterhin ihre Audio-, Sprach- und Untertiteleinstellungen ändern."
         },
         {
           "id": "t3",
@@ -116,6 +116,16 @@
         "id": "f5",
         "question": "Ist die Netflix Party-Erweiterung weltweit verfügbar?",
         "answer": "Ja, die Netflix Party-Erweiterung ist weltweit verfügbar. Benutzer können Watch-Partys mit Freunden aus allen Teilen der Welt veranstalten, sofern Netflix in ihren jeweiligen Ländern verfügbar ist. Darüber hinaus können Teilnehmer VPN-Dienste nutzen, um an Partys teilzunehmen, die in anderen Ländern stattfinden."
+      },
+      {
+        "id": "f6",
+        "question": "Wie starte ich eine Netflix Group Watch Party?",
+        "answer": "Um eine Netflix Group Watch Party zu starten, wählen Sie eine Plattform wie Teleparty (ehemals Netflix Party) oder Scener und installieren Sie die entsprechende Browsererweiterung. Melden Sie sich nach der Installation bei Netflix an, wählen Sie Ihren bevorzugten Inhalt aus und starten Sie die Party über die Erweiterung. Teilen Sie den generierten Link mit Freunden, um beizutreten. Genießen Sie das gemeinsame Anschauen mit den integrierten Chat-Funktionen für ein unterhaltsames, interaktives Erlebnis!"
+      },
+      {
+        "id": "f7",
+        "question": "Wie kann ich das Beste aus meiner Netflix Group Watch Party herausholen?",
+        "answer": "Um das Beste aus Ihrer Netflix Group Watch Party herauszuholen, befolgen Sie diese Tipps: Wählen Sie Ihre Inhalte im Voraus aus, planen Sie die Party und teilen Sie frühzeitig Details, nutzen Sie den Chat aktiv für Diskussionen und Reaktionen, machen Sie bei längeren Anschauen Pausen, passen Sie die Wiedergabesteuerung für ein reibungsloses Erlebnis an und bitten Sie anschließend um Feedback, um zukünftige Partys zu verbessern."
       }
     ]
   },

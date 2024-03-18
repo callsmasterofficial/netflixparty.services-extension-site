@@ -6,7 +6,7 @@
   "section": {
     "first": {
       "heading": "NETFLIX OG CHIL MED VENNER VIA NETFLIX-FEST.",
-      "html": "Sidder du stadig fast i den gamle og kedelige måde at streame på? Installer den gratis <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a>-udvidelse, og vælg den nye tidsalder-metode til afkøling med dine fjerne venner. Nyd derfor tusindvis af Netflix-shows og -film synkroniseret med dine venner overalt i verden. Du kan være vært for eller deltage i en problemfri urfest synkroniseret, som forbliver intakt, selv når du springer over og holder pause. Desuden kan du opleve den ultimative HD-streaming med den hurtige bufferhastighed med dette værktøj. Vent derfor ikke mere og download udvidelsen nu. Her er desuden, hvordan du gratis kan være vært for eller deltage i en urfest med hvem som helst i hele verden.",
+      "html": "Sig farvel til forældede streamingmetoder, og omfavn den moderne måde at se med dine venner på, uanset afstanden, ved at installere Netflix Party-udvidelsen gratis. Dette innovative værktøj lader dig nyde en bred vifte af Netflix-serier og film perfekt synkroniseret med venner over hele kloden. Uanset om du er vært eller deltager, forbliver urfesten fejlfrit synkroniseret, upåvirket af pauser eller overspringninger. Forkæl dig desuden med streaming i overlegen HD-kvalitet og hurtige bufferhastigheder for en uovertruffen seeroplevelse. Tøv ikke længere; download udvidelsen i dag. Opdag desuden den ligetil proces med at oprette eller deltage i en global urfest uden omkostninger.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
@@ -27,11 +27,11 @@
         {
           "id": "3",
           "question": "START NETFLIXING",
-          "answer": "Åbn nu Netflix og log ind på din konto. Husk, at du skal bruge dit individuelle abonnement på Netflix for at oprette en urfest. Desuden skal alle medlemmer af urpartiet have deres separate Netflix-abonnementer for at deltage."
+          "answer": "Åbn nu Netflix og log ind på din konto. Husk, at du skal bruge dit individuelle abonnement på Netflix for at oprette en urfest. Desuden skal alle medlemmer af urfesten have deres separate Netflix-abonnementer for at deltage."
         },
         {
           "id": "4",
-          "question": "SØG, INDSTILL, SPIL",
+          "question": "SØG, SÆT, SPIL",
           "answer": "Yderligere, søg efter dit foretrukne Netflix-show eller en film. Eller du kan søge efter enhver anden video, som du vil nyde med dine venner og afspille den."
         },
         {
@@ -116,6 +116,16 @@
         "id": "f5",
         "question": "Er Netflix Party-udvidelsen tilgængelig globalt?",
         "answer": "Ja, Netflix Party-udvidelsen er tilgængelig over hele verden. Brugere kan være vært for se-fester med venner fra ethvert hjørne af kloden, forudsat at Netflix er tilgængeligt i deres respektive lande. Derudover kan deltagere bruge VPN-tjenester til at deltage i fester, der er vært i andre lande."
+      },
+      {
+        "id": "f6",
+        "question": "Hvordan starter jeg en Netflix Group Watch Party?",
+        "answer": "For at starte en Netflix Group Watch Party skal du vælge en platform som Teleparty (tidligere Netflix Party) eller Scener og installere dens browserudvidelse. Efter installationen skal du logge ind på Netflix, vælge dit foretrukne indhold og starte festen gennem udvidelsen. Del det genererede link med venner for at deltage. Nyd at se sammen med integrerede chatfunktioner for en sjov, interaktiv oplevelse!"
+      },
+      {
+        "id": "f7",
+        "question": "Hvordan kan jeg få mest muligt ud af min Netflix Group Watch Party?",
+        "answer": "For at få mest muligt ud af din Netflix Group Watch Party, følg disse tips: Vælg dit indhold på forhånd, planlæg festen og del detaljerne tidligt, brug aktivt chat til diskussioner og reaktioner, tag pauser under lange visninger, tilpas afspilningskontrollerne for en jævn oplevelse , og bed om feedback efter for at forbedre fremtidige fester."
       }
     ]
   },
