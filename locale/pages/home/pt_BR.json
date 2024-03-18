@@ -6,12 +6,12 @@
   "section": {
     "first": {
       "heading": "NETFLIX E RELAXE COM OS AMIGOS VIA NETFLIX PARTY.",
-      "html": "Você ainda está preso à maneira antiga e chata de fazer streaming? Instale a extensão gratuita <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a> e escolha o método new age de relaxar com seus amigos distantes. Portanto, curta milhares de programas e filmes da Netflix em sincronia com seus amigos em qualquer lugar do mundo. Você pode organizar ou participar de uma festa de observação contínua e sincronizada, que permanece intacta mesmo quando você pula e pausa. Além disso, você pode experimentar o melhor streaming em HD com velocidade de buffer rápida com esta ferramenta. Portanto, não espere mais e baixe a extensão agora. Além disso, veja como você pode organizar ou participar de uma festa de observação com qualquer pessoa em todo o mundo gratuitamente.",
+      "html": "Diga adeus aos métodos de streaming desatualizados e adote a maneira moderna de assistir com seus amigos, não importa a distância, instalando gratuitamente a extensão Netflix Party. Esta ferramenta inovadora permite-lhe desfrutar de uma vasta gama de séries e filmes da Netflix perfeitamente sincronizados com amigos de todo o mundo. Esteja você hospedando ou participando, o grupo de observação permanece perfeitamente sincronizado, não sendo afetado por pausas ou pulos. Além disso, desfrute de streaming com qualidade HD superior e velocidades rápidas de buffer para uma experiência de visualização incomparável. Não hesite mais; baixe a extensão hoje. Além disso, descubra o processo simples de criar ou participar de uma watch party global sem nenhum custo.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
       "heading": "Como usar a extensão Netflix Party",
-      "subHeading": "Você deve ter assistido Netflix com pessoas na mesma sala e na mesma tela. No entanto, você nunca teria imaginado que poderia transmitir junto com eles, apesar da distância entre vocês? Portanto, agora você pode criar um grupo de observação com eles em algumas etapas simples, não importa a distância entre vocês-",
+      "subHeading": "Você deve ter assistido Netflix com pessoas na mesma sala e na mesma tela. No entanto, você nunca teria imaginado que poderia transmitir junto com eles, apesar da distância entre vocês? Portanto, agora você pode criar um grupo de observação em algumas etapas simples com eles, não importa a distância entre vocês-",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
       "accordian": [
         {
@@ -42,7 +42,7 @@
         {
           "id": "6",
           "question": "COMPARTILHE A ALEGRIA",
-          "answer": "Agora, você criou com sucesso um Netflix Watch Party perfeito. Portanto, compartilhe a URL do convite gerada com todos os amigos que você quiser na watch party."
+          "answer": "Agora, você criou com sucesso um Netflix Watch Party perfeito. Portanto, compartilhe a URL de convite gerada com todos os amigos que você deseja na festa de observação."
         }
       ]
     },
@@ -116,6 +116,16 @@
         "id": "f5",
         "question": "A extensão Netflix Party está disponível globalmente?",
         "answer": "Sim, a extensão Netflix Party está disponível em todo o mundo. Os usuários podem organizar festas para assistir com amigos de qualquer canto do mundo, desde que a Netflix esteja acessível em seus respectivos países. Além disso, os participantes podem usar serviços VPN para participar de grupos hospedados em outros países."
+      },
+      {
+        "id": "f6",
+        "question": "Como inicio uma festa de observação em grupo da Netflix?",
+        "answer": "Para iniciar uma Netflix Group Watch Party, escolha uma plataforma como Teleparty (anteriormente Netflix Party) ou Scener e instale sua extensão de navegador. Após a instalação, faça login no Netflix, escolha seu conteúdo preferido e inicie a festa por meio da extensão. Compartilhe o link gerado com amigos para participar. Divirta-se assistindo junto com recursos de bate-papo integrados para uma experiência divertida e interativa!"
+      },
+      {
+        "id": "f7",
+        "question": "Como posso aproveitar ao máximo minha festa de exibição em grupo da Netflix?",
+        "answer": "Para aproveitar ao máximo sua festa de exibição em grupo da Netflix, siga estas dicas: escolha seu conteúdo com antecedência, planeje a festa e compartilhe detalhes com antecedência, use ativamente o chat para discussões e reações, faça pausas durante longas exibições, personalize os controles de reprodução para uma experiência tranquila. e peça feedback depois para melhorar as partes futuras."
       }
     ]
   },

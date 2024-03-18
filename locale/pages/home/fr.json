@@ -6,7 +6,7 @@
   "section": {
     "first": {
       "heading": "NETFLIX ET DÉTENDEZ-VOUS AVEC DES AMIS VIA NETFLIX PARTY.",
-      "html": "Êtes-vous toujours coincé dans l’ancienne et ennuyeuse méthode de streaming ? Installez l'extension gratuite <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a> et choisissez la méthode new age pour vous détendre avec vos amis éloignés. Par conséquent, profitez de milliers d’émissions et de films Netflix en synchronisation avec vos amis partout dans le monde. Vous pouvez organiser ou rejoindre une soirée de surveillance transparente et synchronisée, qui reste intacte même en sautant et en pause. De plus, vous pouvez profiter du streaming HD ultime avec une vitesse de mise en mémoire tampon rapide avec cet outil. Par conséquent, n’attendez plus et téléchargez l’extension maintenant. De plus, voici comment vous pouvez organiser ou rejoindre gratuitement une soirée de surveillance avec n’importe qui dans le monde.",
+      "html": "Dites adieu aux méthodes de streaming obsolètes et adoptez la façon moderne de regarder avec vos amis, quelle que soit la distance, en installant gratuitement l'extension Netflix Party. Cet outil innovant vous permet de profiter d'une vaste gamme de séries et de films Netflix parfaitement synchronisés avec vos amis du monde entier. Que vous organisiez ou rejoigniez la soirée, la soirée de surveillance reste parfaitement synchronisée, non affectée par les pauses ou les sauts. De plus, profitez d'un streaming de qualité HD supérieure et de vitesses de mise en mémoire tampon rapides pour une expérience visuelle inégalée. N'hésitez plus ; téléchargez l'extension aujourd'hui. De plus, découvrez le processus simple de création ou de participation gratuite à une soirée horlogère mondiale.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
@@ -74,7 +74,7 @@
         {
           "id": "t5",
           "question": "SYNCHRONISATION FACILEMENT",
-          "answer": "Peu importe où vous ou vos proches vous trouvez. Vous pouvez diffuser Netflix en synchronisation avec eux. L'extension crée des soirées de surveillance fluides avec une synchronisation parfaite. Par conséquent, même lors d’un saut ou d’une pause, la synchronisation reste intacte. Ainsi, vous pouvez tous regarder ensemble en temps réel."
+          "answer": "Peu importe où vous ou vos proches vous trouvez. Vous pouvez diffuser Netflix en synchronisation avec eux. L'extension crée des soirées de surveillance fluides avec une synchronisation parfaite. Par conséquent, même en cas de saut ou de pause, la synchronisation reste intacte. Ainsi, vous pouvez tous regarder ensemble en temps réel."
         },
         {
           "id": "t6",
@@ -110,12 +110,22 @@
       {
         "id": "f4",
         "question": "Puis-je contrôler la lecture pendant une Netflix Party ?",
-        "answer": "Oui, les hôtes ont la possibilité d'activer un contrôle total sur les paramètres de lecture, notamment la lecture, la pause, l'avance et le retour en arrière. Cependant, les participants peuvent toujours ajuster leurs paramètres individuels d’audio, de langue et de sous-titres."
+        "answer": "Oui, les hôtes ont la possibilité d'activer un contrôle total sur les paramètres de lecture, notamment la lecture, la pause, l'avance et le rembobinage. Cependant, les participants peuvent toujours ajuster leurs paramètres individuels d’audio, de langue et de sous-titres."
       },
       {
         "id": "f5",
         "question": "L’extension Netflix Party est-elle disponible dans le monde entier ?",
         "answer": "Oui, l’extension Netflix Party est disponible dans le monde entier. Les utilisateurs peuvent organiser des soirées de visionnage avec des amis de n'importe quel coin du monde, à condition que Netflix soit accessible dans leurs pays respectifs. De plus, les participants peuvent utiliser les services VPN pour rejoindre des soirées organisées dans d'autres pays."
+      },
+      {
+        "id": "f6",
+        "question": "Comment démarrer une Watch Party de groupe Netflix ?",
+        "answer": "Pour lancer une Netflix Group Watch Party, choisissez une plateforme comme Teleparty (anciennement Netflix Party) ou Scener et installez son extension de navigateur. Après l'installation, connectez-vous à Netflix, choisissez votre contenu préféré et lancez la fête via l'extension. Partagez le lien généré avec des amis pour le rejoindre. Profitez de regarder ensemble grâce aux fonctionnalités de chat intégrées pour une expérience amusante et interactive !"
+      },
+      {
+        "id": "f7",
+        "question": "Comment puis-je tirer le meilleur parti de ma Watch Party de groupe Netflix ?",
+        "answer": "Pour tirer le meilleur parti de votre Netflix Group Watch Party, suivez ces conseils : choisissez votre contenu à l'avance, planifiez la fête et partagez les détails à l'avance, utilisez activement le chat pour les discussions et les réactions, faites des pauses lors de longs visionnages, personnalisez les commandes de lecture pour une expérience fluide. , et demandez des commentaires par la suite pour améliorer les futures soirées."
       }
     ]
   },

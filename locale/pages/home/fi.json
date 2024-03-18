@@ -6,23 +6,23 @@
   "section": {
     "first": {
       "heading": "NETFLIX JA CHILLI YSTÄVIEN KANSSA NETFLIX PARTYN KAUTTA.",
-      "html": "Oletko edelleen jumissa vanhassa ja tylsässä suoratoistotavassa? Asenna ilmainen <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a> -laajennus ja valitse uuden aikakauden tapa rentoutua kaukaisia ​​ystäviäsi. Siksi voit nauttia tuhansista Netflix-ohjelmista ja elokuvista synkronoituna ystäviesi kanssa kaikkialla maailmassa. Voit isännöidä saumattomia kellobileitä tai liittyä niihin synkronoituna, joka pysyy ennallaan jopa ohitettaessa ja keskeytettäessä. Lisäksi voit kokea äärimmäisen HD-suoratoiston nopealla puskurointinopeudella tällä työkalulla. Älä siis odota enempää ja lataa laajennus nyt. Lisäksi näin voit isännöidä katselubileitä kenen tahansa kanssa ympäri maailmaa tai liittyä niihin ilmaiseksi.",
+      "html": "Jätä hyvästit vanhentuneille suoratoistomenetelmille ja omaksu moderni tapa katsoa ystäviesi kanssa etäisyydestä riippumatta asentamalla Netflix Party -laajennus ilmaiseksi. Tämän innovatiivisen työkalun avulla voit nauttia laajasta valikoimasta Netflix-sarjoja ja elokuvia täydellisesti synkronoituina ystävien kanssa ympäri maailmaa. Olitpa isännöimässä tai liittymässä, katselutapahtumat pysyvät virheettömästi synkronoituina, tauot tai ohitukset eivät vaikuta siihen. Nauti lisäksi erinomaisesta HD-laatuisesta suoratoistosta ja nopeista puskurointinopeuksista, jotta saat vertaansa vailla olevan katselukokemuksen. Älä epäröi enää; lataa laajennus tänään. Tutustu myös yksinkertaiseen prosessiin, jolla voit luoda maailmanlaajuisen katselubileen tai osallistua siihen maksutta.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
       "heading": "Kuinka käyttää Netflix Party -laajennusta",
-      "subHeading": "Olet varmasti kokenut Netflixin katsomisen ihmisten kanssa samassa huoneessa ja samalla näytöllä. Et kuitenkaan olisi koskaan uskonut, että voisit suoratoistaa heidän kanssaan välimatkasta huolimatta? Siksi voit nyt luoda kellobileet muutamassa yksinkertaisessa vaiheessa heidän kanssaan riippumatta etäisyydestäsi.",
+      "subHeading": "Olet varmasti kokenut Netflixin katsomisen ihmisten kanssa samassa huoneessa ja samalla näytöllä. Et kuitenkaan olisi koskaan uskonut, että voisit suoratoistaa heidän kanssaan välimatkasta huolimatta? Siksi nyt voit luoda kellobileet muutamassa yksinkertaisessa vaiheessa heidän kanssaan riippumatta etäisyydestänne.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
       "accordian": [
         {
           "id": "1",
           "question": "ASENNA LAAJENNUS",
-          "answer": "Ensimmäinen vaihe on ladata Netflixin juhlalaajennus <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Klikkaa tästä</u></a> ja asenna ilmainen käyttäjäystävällinen laajennus. Varmista lisäksi, että sinulla on joko Google Chrome tai Microsoft Edge selain asentaaksesi sen. Lisäksi laajennus on yhteensopiva Chromebookien, macOS:n, kannettavien, Windowsin ja tietokoneiden kanssa."
+          "answer": "Ensimmäinen vaihe on ladata Netflixin juhlalaajennus <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Klikkaa tästä</u></a> ja asenna ilmainen käyttäjäystävällinen laajennus. Varmista lisäksi, että sinulla on joko Google Chrome tai Microsoft Edge -selain asentaaksesi sen. Lisäksi laajennus on yhteensopiva Chromebookien, macOS:n, kannettavien, Windowsin ja tietokoneiden kanssa."
         },
         {
           "id": "2",
           "question": "KIINNITÄ LAAJENNUS",
-          "answer": "Seuraavaksi sinun on kiinnitettävä laajennus työkalupalkkiin. Jos et kuitenkaan näe Netflix-juhlalaajennuskuvaketta, napsauta palapelikuvaketta selaimen oikeassa kulmassa. Sieltä löydät laajennuskuvakkeen, joten voit kiinnittää sen."
+          "answer": "Seuraavaksi sinun on kiinnitettävä laajennus työkalupalkkiin. Jos et kuitenkaan näe Netflix-juhlalaajennuskuvaketta, napsauta selaimen oikeassa kulmassa olevaa palapelikuvaketta. Löydät sieltä laajennuskuvakkeen, joten voit kiinnittää sen."
         },
         {
           "id": "3",
@@ -32,7 +32,7 @@
         {
           "id": "4",
           "question": "HAE, ASETA, PELAA",
-          "answer": "Etsi lisäksi suosikki Netflix-ohjelmasi tai -elokuvasi. Tai voit etsiä mitä tahansa muuta videota, josta haluat nauttia ystäviesi kanssa, ja toistaa sen."
+          "answer": "Etsi lisäksi suosikki Netflix-ohjelmasi tai -elokuvasi. Tai voit etsiä mitä tahansa muuta videota, josta haluat nauttia ystäviesi kanssa ja toistaa sen."
         },
         {
           "id": "5",
@@ -47,8 +47,8 @@
       ]
     },
     "three": {
-      "heading": "MITEN LIITTYÄ??",
-      "subHeading": "Netflix-bileisiin liittyminen on erittäin helppoa ja vaivatonta. Sinun on kuitenkin noudatettava samaa aloitusmenettelyä kuin luotaessa katseluryhmä. Siksi sinun on asennettava ja kiinnitettävä tämä kromilaajennus ja sen jälkeen kirjauduttava sisään Netflix-tilillesi. Huomaa lisäksi, että sinulla on oltava henkilökohtainen Netflix-tilauksesi, jotta voit liittyä katseluun. Kaiken tämän jälkeen sinun tarvitsee vain napsauttaa ystäväsi vastaanottamaa kutsun URL-osoitetta. Ja Voila, olet saavuttanut kaikkien aikojen parhaat kellobileet kilometreistä huolimatta.",
+      "heading": "MITEN LIITTYÄ SIIHIN??",
+      "subHeading": "Netflix-bileisiin liittyminen on erittäin helppoa ja vaivatonta. Sinun on kuitenkin noudatettava samaa aloitusmenettelyä kuin luodessasi katselippuja. Siksi sinun on asennettava ja kiinnitettävä tämä kromilaajennus ja sen jälkeen kirjauduttava sisään Netflix-tilillesi. Huomaa lisäksi, että sinulla on oltava henkilökohtainen Netflix-tilauksesi, jotta voit liittyä katseluun. Kaiken tämän jälkeen sinun tarvitsee vain napsauttaa ystäväsi vastaanottamaa kutsun URL-osoitetta. Ja Voila, olet saavuttanut kaikkien aikojen parhaan kellobileen kilometreistä huolimatta.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
       "accordian": [
         {
@@ -69,7 +69,7 @@
         {
           "id": "t4",
           "question": "PERSONOI NETFLIX PARTY",
-          "answer": "Saat mahdollisuuden mukauttaa käyttäjäprofiiliasi ja tehdä siitä persoonallisen. Siksi voit valita profiilillesi hauskan lempinimen. Lisäksi voit myös valita käyttäjäkuvakkeen sisäänrakennetuista avatareista. Lempinimesi ja käyttäjäkuvakkeesi näkyvät kuitenkin kelloporukassasi ja ryhmäkeskustelussasi."
+          "answer": "Sinulla on mahdollisuus muokata käyttäjäprofiiliasi ja tehdä siitä persoonallinen. Siksi voit valita profiilillesi hauskan lempinimen. Lisäksi voit myös valita käyttäjäkuvakkeen sisäänrakennetuista avatareista. Lempinimesi ja käyttäjäkuvakkeesi näkyvät kuitenkin kelloporukassasi ja ryhmäkeskustelussasi."
         },
         {
           "id": "t5",
@@ -79,7 +79,7 @@
         {
           "id": "t6",
           "question": "TÄRKEÄ HD-VIDEOKOKEMUS",
-          "answer": "Oletko myös ahmiva katselija ja Netflixin ystävä? Sitten rakastat Netflix-bileitä fantastisella videolaadulla. Siksi juuri sitä tarjoamme sinulle. Voit nyt kokea HD-laatuisen videon nopealla puskurointinopeudella kaikissa videoissasi. Älä siis enää odota ja aloita tämän ilmaisen työkalun asentaminen nyt, jotta voit suoratoistaa tyylikkäästi."
+          "answer": "Oletko myös ahmiva katselija ja Netflixin ystävä? Silloin rakastat Netflix-bileitä fantastisella videolaadulla. Siksi juuri sitä tarjoamme sinulle. Voit nyt kokea HD-laatuisen videon nopealla puskurointinopeudella kaikissa videoissasi. Älä siis enää odota ja aloita tämän ilmaisen työkalun asentaminen nyt, jotta voit suoratoistaa tyylikkäästi."
         },
         {
           "id": "t7",
@@ -105,7 +105,7 @@
       {
         "id": "f3",
         "question": "Onko katselubileiden osallistujamäärällä rajoituksia?",
-        "answer": "Ei, Netflix Party -katselubileiden osallistujamäärää ei ole rajoitettu. Käyttäjät voivat kutsua niin monta ystävää kuin haluavat, mikä tekee siitä ihanteellisen suurille ryhmille."
+        "answer": "Ei, Netflix Party -katselujuhlien osallistujamäärää ei ole rajoitettu. Käyttäjät voivat kutsua niin monta ystävää kuin haluavat, mikä tekee siitä ihanteellisen suurille ryhmille."
       },
       {
         "id": "f4",
@@ -116,6 +116,16 @@
         "id": "f5",
         "question": "Onko Netflix Party -laajennus saatavilla maailmanlaajuisesti?",
         "answer": "Kyllä, Netflix Party -laajennus on saatavilla maailmanlaajuisesti. Käyttäjät voivat isännöidä katselutilaisuuksia ystävien kanssa mistä päin maailmaa tahansa, mikäli Netflix on käytettävissä heidän maissaan. Lisäksi osallistujat voivat käyttää VPN-palveluita liittyäkseen muissa maissa isännöityihin juhliin."
+      },
+      {
+        "id": "f6",
+        "question": "Kuinka aloitan Netflix Group Watch Partyn?",
+        "answer": "Aloita Netflix Group Watch Party valitsemalla alusta, kuten Teleparty (aiemmin Netflix Party) tai Scener, ja asenna sen selainlaajennus. Kirjaudu asennuksen jälkeen Netflixiin, valitse haluamasi sisältö ja käynnistä juhla laajennuksen kautta. Jaa luotu linkki ystävillesi liittyäksesi. Nauti katselusta yhdessä integroitujen chat-ominaisuuksien avulla saadaksesi hauska, interaktiivinen kokemus!"
+      },
+      {
+        "id": "f7",
+        "question": "Kuinka saan kaiken irti Netflix Group Watch Partystani?",
+        "answer": "Ota kaikki irti Netflix Group Watch Party -tilaisuudestasi noudattamalla näitä vinkkejä: Valitse sisältösi etukäteen, suunnittele juhlat ja jaa yksityiskohdat ajoissa, käytä chattia aktiivisesti keskusteluihin ja reaktioihin, pidä taukoja pitkien katseluiden aikana, räätälöi toistosäätimet sujuvan kokemuksen takaamiseksi. ja pyydä sen jälkeen palautetta tulevien juhlien parantamiseksi."
       }
     ]
   },
@@ -125,7 +135,7 @@
     "blog": "Blogi",
     "popularSearches": "Suositut haut",
     "disclaimer": "Vastuuvapauslauseke",
-    "disclaimerContent": "Netflix on Netflix, Inc:n tavaramerkki. Tämä sivusto",
+    "disclaimerContent": "Netflix on Netflix, Inc:n tavaramerkki. Tämä verkkosivusto",
     "footerTags": [
       "Netflix Watch Party, Netflix Party, Netflix Party Extension, Netflix Party Chrome Extension, Watch Party Netflix, Kuinka tehdä Netflix Party, Kuinka käyttää Netflix Party, Kuinka järjestää Netflix Party, Netflix Watch Party Extension, Netflix Party Lataa Chrome-laajennus, Asenna Netflixin Chrome-laajennus"
     ]

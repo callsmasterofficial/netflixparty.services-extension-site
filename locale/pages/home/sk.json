@@ -6,7 +6,7 @@
   "section": {
     "first": {
       "heading": "NETFLIX A CHILL S PRIATEĽMI CEZ NETFLIX PARTY.",
-      "html": "Stále ste uviazli v starom a nudnom spôsobe streamovania? Nainštalujte si bezplatné rozšírenie <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a> a vyberte si novú metódu chladenia pomocou tvoji vzdialení priatelia. Vychutnajte si preto tisíce relácií a filmov Netflix synchronizovane so svojimi priateľmi kdekoľvek na svete. Môžete usporiadať alebo sa pripojiť k bezproblémovej synchronizovanej hodinovej párty, ktorá zostane nedotknutá aj pri preskakovaní a prerušení. Navyše s týmto nástrojom môžete zažiť dokonalé HD streamovanie s vysokou rýchlosťou ukladania do vyrovnávacej pamäte. Preto už nečakajte a stiahnite si rozšírenie teraz. Okrem toho tu je návod, ako môžete bezplatne hostiť alebo sa pripojiť k večierku s kýmkoľvek na celom svete.",
+      "html": "Rozlúčte sa so zastaranými metódami streamovania a osvojte si moderný spôsob sledovania s priateľmi bez ohľadu na vzdialenosť, a to inštaláciou rozšírenia Netflix Party zadarmo. Tento inovatívny nástroj vám umožní vychutnať si obrovské množstvo seriálov a filmov Netflix dokonale synchronizovaných s priateľmi po celom svete. Či už hosťujete alebo sa pripájate, sledovací večierok zostáva bezchybne synchronizovaný a neovplyvňujú ho pauzy ani preskakovanie. Navyše si doprajte streamovanie v špičkovej kvalite HD a vysoké rýchlosti ukladania do vyrovnávacej pamäte pre jedinečný zážitok zo sledovania. Už viac neváhaj; stiahnite si rozšírenie ešte dnes. Okrem toho objavte jednoduchý proces vytvorenia alebo účasti na celosvetovej hodinovej párty zadarmo.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
@@ -53,7 +53,7 @@
       "accordian": [
         {
           "id": "t1",
-          "question": "SLEDUJTE ČLENOV SPÁRNY OBMEDZENE",
+          "question": "SLEDUJTE ČLENOV PARTY NEOMEZENÉ",
           "answer": "Vedeli ste, že počet ľudí, ktorí sa môžu pripojiť k vašej hodine, nie je obmedzený? S týmto rozšírením <b>Netflix Party</b> môžete na párty pri sledovaní zapojiť toľko ľudí, koľko chcete. Preto bez ohľadu na to, koľko ľudí sa chce zúčastniť na vašom večierku, môžete ich sem dostať tak, že s nimi budete zdieľať adresu URL pozvánky."
         },
         {
@@ -116,6 +116,16 @@
         "id": "f5",
         "question": "Je rozšírenie Netflix Party dostupné globálne?",
         "answer": "Áno, rozšírenie Netflix Party je dostupné po celom svete. Používatelia môžu organizovať večierky s priateľmi z ktoréhokoľvek kúta sveta za predpokladu, že Netflix je dostupný v ich príslušných krajinách. Okrem toho môžu účastníci využívať služby VPN na pripojenie sa k stranám hosťovaným v iných krajinách."
+      },
+      {
+        "id": "f6",
+        "question": "Ako začnem skupinové sledovanie skupiny Netflix?",
+        "answer": "Ak chcete spustiť skupinové sledovanie skupiny Netflix, vyberte platformu ako Teleparty (predtým Netflix Party) alebo Scener a nainštalujte si rozšírenie prehliadača. Po inštalácii sa prihláste do Netflixu, vyberte si preferovaný obsah a spustite párty prostredníctvom rozšírenia. Ak sa chcete pripojiť, zdieľajte vygenerovaný odkaz s priateľmi. Vychutnajte si sledovanie spolu s integrovanými funkciami chatu pre zábavný a interaktívny zážitok!"
+      },
+      {
+        "id": "f7",
+        "question": "Ako môžem vyťažiť maximum zo svojej skupinovej párty na Netflix?",
+        "answer": "Ak chcete zo svojej skupinovej párty na Netflix vyťažiť maximum, postupujte podľa týchto tipov: Vyberte si obsah vopred, naplánujte si párty a podeľte sa o podrobnosti včas, aktívne používajte chat na diskusie a reakcie, robte si prestávky počas dlhého pozerania, prispôsobte si ovládanie prehrávania pre plynulý zážitok. a potom požiadajte o spätnú väzbu, aby ste zlepšili budúce strany."
       }
     ]
   },
@@ -127,7 +137,7 @@
     "disclaimer": "Vylúčenie zodpovednosti",
     "disclaimerContent": "Netflix je ochranná známka spoločnosti Netflix, Inc. Táto webová stránka",
     "footerTags": [
-      "Netflix Watch Party, Netflix Party, Netflix Party rozšírenie, Netflix Party rozšírenie Chrome, Watch Party Netflix, Ako robiť Netflix Party, Ako používať Netflix Party, Ako urobiť Netflix Party, Rozšírenie Netflix Watch Party, Rozšírenie Netflix Party na stiahnutie Chrome, Nainštalujte rozšírenie Netflix Chrome"
+      "Netflix Watch Party, Netflix Party, Netflix Party rozšírenie, Netflix Party rozšírenie Chrome, Watch Party Netflix, Ako urobiť Netflix Party, Ako používať Netflix Party, Ako urobiť Netflix Party, Rozšírenie Netflix Watch Party, Netflix Party Stiahnuť rozšírenie Chrome, Nainštalujte rozšírenie Netflix Chrome"
     ]
   }
 }

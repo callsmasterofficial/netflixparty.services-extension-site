@@ -6,7 +6,7 @@
   "section": {
     "first": {
       "heading": "NETFLIX AND CHILL WITH FRIENDS VIA NETFLIX PARTY.",
-      "html": "Are you still stuck in the old and boring way of streaming? Install the free <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a> extension and choose the new-age method of chilling with your distant friends. Therefore, enjoy thousands of Netflix shows and movies in sync with your friends anywhere in the world. You can host or join a seamless watch party in sync, which stays intact even while skipping and pausing. Moreover, you can experience the ultimate HD streaming with the fast buffering speed with this tool. Hence, wait no more and download the extension now. Furthermore, here’s how you can host or join a watch party with anyone worldwide for free.",
+      "html": "Bid farewell to outdated streaming methods and embrace the modern way of watching with your friends, no matter the distance, by installing the Netflix Party extension for free. This innovative tool lets you enjoy a vast array of Netflix series and films perfectly synchronized with friends around the globe. Whether you're hosting or joining, the watch party remains flawlessly in sync, unaffected by pauses or skips. Plus, indulge in superior HD-quality streaming and rapid buffering speeds for an unparalleled viewing experience. Don't hesitate any longer; download the extension today. Additionally, discover the straightforward process of creating or participating in a global watch party at no cost.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
@@ -116,6 +116,16 @@
         "id": "f5",
         "question": "Is the Netflix Party extension available globally?",
         "answer": "Yes, the Netflix Party extension is available worldwide. Users can host watch parties with friends from any corner of the globe, provided Netflix is accessible in their respective countries. Additionally, participants can use VPN services to join parties hosted in other countries."
+      },
+      {
+        "id": "f6",
+        "question": "How do I start a Netflix Group Watch Party?",
+        "answer": "To initiate a Netflix Group Watch Party, choose a platform like Teleparty (formerly Netflix Party) or Scener and install its browser extension. After installation, log into Netflix, pick your preferred content, and launch the party through the extension. Share the generated link with friends to join. Enjoy watching together with integrated chat features for a fun, interactive experience! "
+      },
+      {
+        "id": "f7",
+        "question": "How can I make the most out of my Netflix Group Watch Party?",
+        "answer": "To make the most out of your Netflix Group Watch Party, follow these tips: Choose your content beforehand, plan the party and share details early, actively use chat for discussions and reactions, take breaks during long viewings, customize playback controls for a smooth experience, and ask for feedback after to improve future parties."
       }
     ]
   },

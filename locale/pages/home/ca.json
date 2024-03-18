@@ -1,12 +1,12 @@
 {
   "header": {
     "installBtn": { "addTo": "Afegir a", "free": "És Gratuït" },
-    "navBarHeading": "ja està disponible a Google Chrome, Microsoft Edge i Mozilla Firefox"
+    "navBarHeading": "ara està disponible a Google Chrome, Microsoft Edge i Mozilla Firefox"
   },
   "section": {
     "first": {
       "heading": "NETFLIX I CHILL AMB ELS AMICS PER LA FESTA DE NETFLIX.",
-      "html": "Encara esteu atrapats en la forma antiga i avorrida de fer streaming? Instal·leu l'extensió gratuïta <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a> i trieu el mètode de la nova era per relaxar-vos amb els teus amics llunyans. Per tant, gaudeix de milers de programes i pel·lícules de Netflix sincronitzats amb els teus amics a qualsevol part del món. Pots organitzar o unir-te a una festa de rellotge perfecta sincronitzada, que es manté intacte fins i tot mentre saltes i fas una pausa. A més, podeu experimentar la transmissió en HD definitiva amb la ràpida velocitat de memòria intermèdia amb aquesta eina. Per tant, no espereu més i baixeu l'extensió ara. A més, aquí t'expliquem com pots organitzar o unir-te a una festa de rellotge amb qualsevol persona de tot el món de manera gratuïta.",
+      "html": "Acomiadau-vos dels mètodes de reproducció obsolets i abraça la forma moderna de veure-ho amb els teus amics, sense importar la distància, instal·lant l'extensió Netflix Party de forma gratuïta. Aquesta eina innovadora us permet gaudir d'una gran varietat de sèries i pel·lícules de Netflix perfectament sincronitzades amb amics de tot el món. Tant si esteu allotjant com si us uniu, la festa del rellotge es manté perfectament sincronitzada, no es veu afectada per les pauses o els salts. A més, gaudeix d'una transmissió en qualitat HD superior i de velocitats ràpides de memòria intermèdia per a una experiència de visualització inigualable. No ho dubtis més; descarregueu l'extensió avui. A més, descobreix el procés senzill de crear o participar en una festa de vigilància global sense cap cost.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
@@ -58,7 +58,7 @@
         },
         {
           "id": "t2",
-          "question": "CONTROLA LA FESTA DE GUARDA DE NETFLIX",
+          "question": "CONTROLA LA FESTA DE RELOJ DE NETFLIX",
           "answer": "Podeu obtenir un control complet de la configuració de la festa del rellotge. A més, podeu activar el control total a la mà girant el botó \"NOMÉS TINC CONTROL\" en verd i adquirint el control de la festa del rellotge. Per tant, tens autoritat sobre la configuració de Reproduir, Pausa, Endavant i Rebobinar. A més d'això, tingueu en compte que la configuració del sistema encara roman amb els membres del grup de vigilància. Per tant, tots els membres del grup de visualització encara poden modificar la seva configuració d'àudio, idioma i subtítols."
         },
         {
@@ -69,7 +69,7 @@
         {
           "id": "t4",
           "question": "PERSONALITZA LA FESTA DE NETFLIX",
-          "answer": "Tens l'opció de personalitzar el teu perfil d'usuari i donar-li un toc personal. Per tant, podeu triar un sobrenom divertit per al vostre perfil. A més, també podeu seleccionar una icona d'usuari dels avatars integrats. Tanmateix, el vostre àlies i la icona d'usuari apareixeran al vostre grup de visualització i al xat de grup."
+          "answer": "Tens l'opció de personalitzar el teu perfil d'usuari i donar-li un toc personal. Per tant, podeu triar un sobrenom divertit per al vostre perfil. A més, també podeu seleccionar una icona d'usuari dels avatars integrats. Tanmateix, el vostre àlies i la icona d'usuari apareixeran al vostre grup de rellotge i al xat de grup."
         },
         {
           "id": "t5",
@@ -116,6 +116,16 @@
         "id": "f5",
         "question": "L'extensió Netflix Party està disponible a tot el món?",
         "answer": "Sí, l'extensió Netflix Party està disponible a tot el món. Els usuaris poden organitzar festes de visualització amb amics de qualsevol racó del món, sempre que Netflix sigui accessible als seus països respectius. A més, els participants poden utilitzar serveis VPN per unir-se a grups allotjats en altres països."
+      },
+      {
+        "id": "f6",
+        "question": "Com començo una festa de visualització de grup de Netflix?",
+        "answer": "Per iniciar una Netflix Group Watch Party, trieu una plataforma com Teleparty (abans Netflix Party) o Scener i instal·leu la seva extensió del navegador. Després de la instal·lació, inicieu sessió a Netflix, trieu el vostre contingut preferit i inicieu la festa mitjançant l'extensió. Comparteix l'enllaç generat amb els amics per unir-te. Gaudeix mirant juntament amb les funcions de xat integrades per a una experiència divertida i interactiva!"
+      },
+      {
+        "id": "f7",
+        "question": "Com puc treure el màxim profit de la meva Netflix Group Watch Party?",
+        "answer": "Per treure el màxim profit de la vostra festa de visualització de grup de Netflix, seguiu aquests consells: Trieu el vostre contingut abans, planifiqueu la festa i compartiu detalls abans d'hora, utilitzeu activament el xat per a discussions i reaccions, feu pauses durant les visualitzacions llargues, personalitzeu els controls de reproducció per a una experiència fluida. , i demaneu comentaris després per millorar les festes futures."
       }
     ]
   },

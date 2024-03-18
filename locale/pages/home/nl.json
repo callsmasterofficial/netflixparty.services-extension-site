@@ -6,7 +6,7 @@
   "section": {
     "first": {
       "heading": "NETFLIX EN CHILLEN MET VRIENDEN VIA NETFLIX PARTY.",
-      "html": "Zit je nog steeds vast in de oude en saaie manier van streamen? Installeer de gratis <a href=\"https://www.netflixparty.services\"><b><u>Netflix Party</u></b></a>-extensie en kies de nieuwe manier van chillen met je verre vrienden. Geniet daarom gesynchroniseerd van duizenden Netflix-shows en films met je vrienden, waar ook ter wereld. U kunt een naadloze, gesynchroniseerde kijkparty organiseren of eraan deelnemen, die intact blijft, zelfs tijdens het overslaan en pauzeren. Bovendien kun je met deze tool de ultieme HD-streaming ervaren met de hoge buffersnelheid. Wacht daarom niet langer en download de extensie nu. Bovendien kunt u als volgt gratis een kijkfeest organiseren of eraan deelnemen met iedereen over de hele wereld.",
+      "html": "Neem afscheid van verouderde streamingmethoden en omarm de moderne manier van kijken met je vrienden, ongeacht de afstand, door gratis de Netflix Party-extensie te installeren. Met deze innovatieve tool kun je genieten van een breed scala aan Netflix-series en films, perfect gesynchroniseerd met vrienden over de hele wereld. Of je nu een host bent of eraan deelneemt, het kijkfeest blijft feilloos gesynchroniseerd, onaangetast door pauzes of overslaan. Geniet bovendien van streaming van superieure HD-kwaliteit en hoge buffersnelheden voor een ongeëvenaarde kijkervaring. Aarzel niet langer; download de extensie vandaag nog. Ontdek bovendien het eenvoudige proces van het gratis opzetten of deelnemen aan een wereldwijd kijkfeest.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
@@ -48,7 +48,7 @@
     },
     "three": {
       "heading": "HOE DEELNEMEN??",
-      "subHeading": "Het is heel eenvoudig en moeiteloos om deel te nemen aan de Netflix Party. U moet echter dezelfde startprocedure volgen als het aanmaken van een watchparty. Daarom moet u deze Chrome-extensie installeren en vastzetten en daarna inloggen op uw Netflix-account. Houd er bovendien rekening mee dat u over een individueel Netflix-abonnement moet beschikken om deel te kunnen nemen aan de watchparty. Na dit alles hoeft u alleen maar op de uitnodigings-URL te klikken die uw vriend heeft ontvangen. En voila, je hebt ondanks de kilometers het beste kijkfeest ooit bereikt.",
+      "subHeading": "Het is heel eenvoudig en moeiteloos om deel te nemen aan de Netflix Party. U moet echter dezelfde startprocedure volgen als het aanmaken van een watch party. Daarom moet u deze Chrome-extensie installeren en vastzetten en daarna inloggen op uw Netflix-account. Houd er bovendien rekening mee dat u over een individueel Netflix-abonnement moet beschikken om deel te kunnen nemen aan de watchparty. Na dit alles hoeft u alleen maar op de uitnodigings-URL te klikken die uw vriend heeft ontvangen. En voila, je hebt ondanks de kilometers het beste kijkfeest ooit bereikt.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
       "accordian": [
         {
@@ -116,6 +116,16 @@
         "id": "f5",
         "question": "Is de Netflix Party-extensie wereldwijd beschikbaar?",
         "answer": "Ja, de Netflix Party-extensie is wereldwijd beschikbaar. Gebruikers kunnen kijkfeesten organiseren met vrienden uit alle hoeken van de wereld, op voorwaarde dat Netflix toegankelijk is in hun respectievelijke landen. Bovendien kunnen deelnemers VPN-services gebruiken om deel te nemen aan feesten die in andere landen worden gehost."
+      },
+      {
+        "id": "f6",
+        "question": "Hoe start ik een Netflix Group Watch Party?",
+        "answer": "Om een ​​Netflix Group Watch Party te starten, kiest u een platform zoals Teleparty (voorheen Netflix Party) of Scener en installeert u de browserextensie ervan. Na de installatie logt u in op Netflix, kiest u de inhoud van uw voorkeur en start u het feest via de extensie. Deel de gegenereerde link met vrienden om mee te doen. Geniet samen van het kijken met geïntegreerde chatfuncties voor een leuke, interactieve ervaring!"
+      },
+      {
+        "id": "f7",
+        "question": "Hoe kan ik het maximale uit mijn Netflix Group Watch Party halen?",
+        "answer": "Volg deze tips om het meeste uit uw Netflix Group Watch Party te halen: Kies uw inhoud vooraf, plan het feest en deel details vroeg, gebruik actief de chat voor discussies en reacties, neem pauzes tijdens lange kijksessies, pas de afspeelbediening aan voor een soepele ervaring , en vraag daarna om feedback om toekomstige partijen te verbeteren."
       }
     ]
   },
