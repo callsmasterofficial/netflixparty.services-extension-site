@@ -1,12 +1,15 @@
 {
   "header": {
-    "installBtn": { "addTo": "Add To", "free": "It is Free" },
+    "installBtn": {
+      "addTo": "Add To",
+      "free": "It is Free"
+    },
     "navBarHeading": "is now available on Google Chrome, Microsoft Edge and Mozilla Firefox"
   },
   "section": {
     "first": {
-      "heading": "NETFLIX AND CHILL WITH FRIENDS VIA NETFLIX PARTY.",
-      "html": "Say goodbye to old-fashioned streaming methods and welcome a new era of group viewing with the Netflix Party extension, available at no cost. This cutting-edge feature allows you and your friends, wherever they may be, to watch a wide selection of Netflix Party shows and movies in perfect harmony. Whether you're the host or simply joining in, the viewing experience stays perfectly aligned, with no disruptions from pausing or skipping. Experience streaming in stunning HD quality and enjoy fast buffering speeds for a viewing experience. Don't wait any longer; get the extension now. Furthermore, learn how easy it is to start or join a worldwide watch party for free.",
+      "heading": "NETFLIX AND CHILL WITH FRIENDS VIA NETFLIX PARTY",
+      "html": "Say goodbye to old-fashioned streaming methods and welcome a new era of group viewing with the Netflix Party extension, available at no cost. This cutting-edge feature allows you and your friends, wherever they may be, to watch a wide selection of <a href=\"/\" target=\"_blank\" rel=\"noopener\"><u>Netflix Party</u></a> shows and movies in perfect harmony. Whether you're the host or simply joining in, the viewing experience stays perfectly aligned, with no disruptions from pausing or skipping. Experience streaming in stunning HD quality and enjoy fast buffering speeds for a viewing experience. Don't wait any longer; get the extension now. Furthermore, learn how easy it is to start or join a worldwide watch party for free.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
