@@ -6,85 +6,85 @@
   "section": {
     "first": {
       "heading": "NETFLIX VÀ THƯ GIÃN VỚI BẠN BÈ QUA BÊN NETFLIX.",
-      "html": "Hãy tạm biệt các phương thức phát trực tuyến lỗi thời và đón nhận cách xem hiện đại cùng bạn bè của bạn, bất kể khoảng cách, bằng cách cài đặt miễn phí tiện ích mở rộng Netflix Party. Công cụ cải tiến này cho phép bạn thưởng thức vô số loạt phim và phim dài tập của Netflix được đồng bộ hóa hoàn hảo với bạn bè trên toàn cầu. Cho dù bạn tổ chức hay tham gia thì buổi xem chung vẫn được đồng bộ hóa hoàn hảo, không bị ảnh hưởng bởi việc tạm dừng hoặc bỏ qua. Ngoài ra, hãy tận hưởng khả năng phát trực tuyến chất lượng HD vượt trội và tốc độ tải vào bộ đệm nhanh để có trải nghiệm xem tuyệt vời. Đừng ngần ngại nữa; tải xuống phần mở rộng ngay hôm nay. Ngoài ra, hãy khám phá quy trình đơn giản để tạo hoặc tham gia buổi xem chung toàn cầu miễn phí.",
+      "html": "Hãy tạm biệt các phương thức phát trực tuyến lỗi thời và chào đón kỷ nguyên xem nhóm mới với tiện ích mở rộng Netflix Party, được cung cấp miễn phí. Tính năng tiên tiến này cho phép bạn và bạn bè của mình, dù họ ở đâu, có thể xem nhiều lựa chọn chương trình và phim của Netflix Party một cách hài hòa hoàn hảo. Cho dù bạn là người tổ chức hay chỉ đơn giản là tham gia, trải nghiệm xem vẫn được căn chỉnh hoàn hảo, không bị gián đoạn do tạm dừng hoặc bỏ qua. Trải nghiệm phát trực tuyến với chất lượng HD tuyệt đẹp và tận hưởng tốc độ tải nhanh để có trải nghiệm xem. Đừng chờ đợi nữa; nhận được phần mở rộng ngay bây giờ. Hơn nữa, hãy tìm hiểu cách dễ dàng để bắt đầu hoặc tham gia buổi xem chung miễn phí trên toàn thế giới.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
-      "heading": "Cách sử dụng Tiện ích mở rộng của Netflix Party",
-      "subHeading": "Bạn hẳn đã từng xem Netflix với mọi người trong cùng một phòng và trên cùng một màn hình. Tuy nhiên, bạn có bao giờ tưởng tượng rằng mình có thể phát trực tiếp cùng họ bất chấp khoảng cách giữa các bạn không? Do đó, giờ đây bạn có thể tạo một buổi xem chung chỉ bằng vài bước đơn giản với họ, bất kể khoảng cách giữa bạn-",
+      "heading": "Hướng dẫn sử dụng Tiện ích mở rộng của Netflix Party",
+      "subHeading": "Nhiều người đã quen với trải nghiệm chia sẻ chương trình Netflix trên một màn hình với bạn bè trong cùng phòng. Tuy nhiên, mặc dù cách nhau hàng dặm nhưng ý nghĩ cùng nhau tận hưởng một buổi phát trực tuyến có thể đã từng giống như một giấc mơ xa vời. Giờ đây, việc thu hẹp khoảng cách đó đã trở thành hiện thực. Bạn có thể dễ dàng tổ chức buổi xem chung chỉ bằng vài cú nhấp chuột, đảm bảo khoảng cách không còn cản trở những khoảnh khắc xem được chia sẻ",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
       "accordian": [
         {
           "id": "1",
           "question": "CÀI ĐẶT TIỆN ÍCH",
-          "answer": "Bước đầu tiên là tải xuống tiện ích mở rộng của bên Netflix <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Nhấp vào đây</u></a> để cài đặt tiện ích mở rộng miễn phí, thân thiện với người dùng. Hơn nữa, hãy đảm bảo rằng bạn có trình duyệt Google Chrome hoặc Microsoft Edge để cài đặt nó. Hơn nữa, tiện ích mở rộng này tương thích với Chromebook, macOS, Máy tính xách tay, Windows và Máy tính."
+          "answer": "Bắt đầu bằng cách cài đặt tiện ích mở rộng Netflix Party. <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Nhấp vào đây</u></a> để tải xuống tiện ích mở rộng miễn phí, tiện ích này nổi tiếng vì tính dễ sử dụng. Ngoài ra, điều quan trọng là phải có Google Chrome hoặc Microsoft Edge làm trình duyệt cho mục đích cài đặt. Tiện ích mở rộng này hoạt động trơn tru với nhiều loại thiết bị, bao gồm Chromebook, hệ thống macOS, máy tính xách tay, PC Windows và các máy tính khác."
         },
         {
           "id": "2",
           "question": "PIN MỞ RỘNG",
-          "answer": "Tiếp theo, bạn cần ghim tiện ích mở rộng vào thanh công cụ. Tuy nhiên, nếu bạn không thấy biểu tượng tiện ích mở rộng bữa tiệc Netflix, hãy nhấp vào biểu tượng câu đố ở góc bên phải trên đầu trình duyệt. Bạn sẽ tìm thấy biểu tượng tiện ích mở rộng ở đó để bạn có thể ghim nó."
+          "answer": "Sau đó, bạn cần đính kèm tiện ích mở rộng vào thanh công cụ của mình. Nếu biểu tượng của tiện ích mở rộng Netflix Party không hiển thị ngay lập tức, bạn chỉ cần nhấn vào biểu tượng câu đố nằm ở góc trên cùng bên phải trình duyệt của bạn. Tại đây, bạn sẽ khám phá biểu tượng của tiện ích mở rộng, cho phép bạn ghim nó dễ dàng."
         },
         {
           "id": "3",
           "question": "BẮT ĐẦU NETFLIX",
-          "answer": "Bây giờ, hãy mở Netflix và đăng nhập vào tài khoản của bạn. Hãy nhớ rằng bạn cần đăng ký cá nhân trên Netflix để tạo buổi xem chung. Hơn nữa, tất cả các thành viên trong nhóm xem đều cần đăng ký Netflix riêng để tham gia."
+          "answer": "Sau đó, điều hướng đến Netflix và đăng nhập vào tài khoản của bạn. Hãy nhớ rằng bạn phải có đăng ký Netflix của riêng mình để tổ chức buổi xem chung và mọi người tham gia cũng phải có đăng ký Netflix của riêng mình để có thể tham gia."
         },
         {
           "id": "4",
           "question": "TÌM KIẾM, THIẾT LẬP, CHƠI",
-          "answer": "Hơn nữa, hãy tìm kiếm chương trình Netflix hoặc một bộ phim yêu thích của bạn. Hoặc bạn có thể tìm kiếm bất kỳ video nào khác mà bạn muốn thưởng thức cùng bạn bè và phát video đó."
+          "answer": "Sau đó, vui lòng tìm kiếm loạt phim, bộ phim hoặc video Netflix yêu thích mà bạn muốn chia sẻ với bạn bè và bắt đầu phát nó."
         },
         {
           "id": "5",
           "question": "TẠO BẢNG XEM NETFLIX",
-          "answer": "Đối với bước cuối cùng, nhấp vào biểu tượng tiện ích mở rộng được ghim. Một cửa sổ bật lên nhỏ có tên “TẠO BÊN XEM” sẽ mở ra bằng nút có tên “BẮT ĐẦU MỘT BÊN”. Nhấp vào nút đó để nhận liên kết mời tham gia buổi xem chung mà bạn có thể chia sẻ với bạn bè của mình."
+          "answer": "Cuối cùng nhấn vào biểu tượng tiện ích mở rộng đã ghim trước đó. Một cửa sổ bật lên nhỏ có tiêu đề “TẠO BÊN XEM” sẽ xuất hiện, hiển thị nút có tên “BẮT ĐẦU MỘT BÊN”. Kích hoạt nút này để tạo liên kết mời tham dự buổi xem chung của bạn, liên kết này sẵn sàng chia sẻ với bạn bè của bạn."
         },
         {
           "id": "6",
-          "question": "CHIA SẺ NIỀM VUI",
-          "answer": "Bây giờ, bạn đã tạo thành công Buổi xem chung Netflix liền mạch. Do đó, hãy chia sẻ URL lời mời đã tạo với tất cả bạn bè mà bạn muốn tại bữa tiệc xem."
+          "question": "TUYỆT VỜI",
+          "answer": "Bây giờ bạn đã dễ dàng thành lập Netflix Watch Party. Tiến hành chia sẻ liên kết lời mời mà bạn đã tạo với bất kỳ người bạn nào mà bạn muốn đưa vào buổi xem chung."
         }
       ]
     },
     "three": {
-      "heading": "LÀM THẾ NÀO ĐỂ THAM GIA NÓ??",
-      "subHeading": "Việc tham gia Netflix Party rất đơn giản và dễ dàng. Tuy nhiên, bạn phải làm theo quy trình bắt đầu tương tự như khi tạo buổi xem chung. Do đó, bạn cần cài đặt và ghim tiện ích mở rộng chrome này, sau đó đăng nhập vào tài khoản Netflix của mình. Hơn nữa, xin lưu ý rằng bạn phải có đăng ký Netflix cá nhân để tham gia bữa tiệc xem. Sau tất cả những điều này, bạn chỉ cần nhấp vào URL lời mời mà bạn bè của bạn nhận được. Và Thì đấy, bạn đã đến được bữa tiệc đồng hồ tuyệt vời nhất từ ​​trước đến nay dù phải trải qua hàng dặm.",
+      "heading": "LÀM THẾ NÀO ĐỂ THAM GIA NÓ…….?",
+      "subHeading": "Việc tham gia Bữa tiệc Netflix là một quá trình suôn sẻ và đơn giản, phản ánh các bước thiết lập khi bắt đầu bữa tiệc xem. Bắt đầu bằng cách cài đặt tiện ích mở rộng cần thiết của Chrome và ghim nó vào thanh công cụ, sau đó đăng nhập vào tài khoản Netflix của bạn—điều kiện tiên quyết để tham gia bất kỳ bữa tiệc xem nào. Hãy nhớ rằng việc sở hữu gói đăng ký Netflix là điều cần thiết cho trải nghiệm này. Sau những bước ban đầu này, hãy nhấp vào liên kết lời mời do bạn bè của bạn cung cấp. Cứ như thế, bạn đã sẵn sàng bước vào cuộc phiêu lưu xem bữa tiệc thú vị, đưa bạn đến gần hơn với những người bạn ở xa.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
       "accordian": [
         {
           "id": "t1",
           "question": "THÀNH VIÊN BÊN THEO DÕI KHÔNG GIỚI HẠN",
-          "answer": "Bạn có biết rằng không có giới hạn về số lượng người có thể tham gia buổi xem chung của bạn không? Với tiện ích mở rộng <b>Netflix Party</b> này, bạn có thể mời bao nhiêu người tùy thích vào buổi xem chung của mình. Do đó, cho dù có bao nhiêu người muốn tham gia buổi xem chung của bạn, bạn vẫn có thể thu hút họ chỉ bằng cách chia sẻ URL lời mời với họ."
+          "answer": "Tiện ích mở rộng Netflix Party cung cấp danh sách khách mời không giới hạn cho buổi xem chung của bạn. Hơn nữa, bạn có thể mời bao nhiêu người tham gia tùy thích. Tính linh hoạt này đảm bảo rằng không ai phải bỏ lỡ; chia sẻ URL lời mời và tất cả những người bạn muốn đưa vào đều có thể tham gia buổi xem chung một cách liền mạch."
         },
         {
           "id": "t2",
           "question": "KIỂM SOÁT BÊN XEM NETFLIX",
-          "answer": "Bạn có thể có toàn quyền kiểm soát cài đặt buổi xem chung. Hơn nữa, bạn có thể kích hoạt toàn quyền kiểm soát trong tay bằng cách chuyển nút “CHỈ TÔI CÓ KIỂM SOÁT” màu xanh lá cây và giành quyền kiểm soát nhóm xem. Do đó, bạn có quyền đối với cài đặt Phát, Tạm dừng, Chuyển tiếp và Tua lại. Ngoài ra, hãy lưu ý rằng cài đặt hệ thống vẫn thuộc về các thành viên nhóm theo dõi. Do đó, tất cả thành viên trong nhóm xem vẫn có thể sửa đổi cài đặt âm thanh, ngôn ngữ và phụ đề của mình."
+          "answer": "Giành toàn quyền kiểm soát buổi xem chung bằng cách kích hoạt phần nổi bật 'CHỈ TÔI CÓ KIỂM SOÁT', phần nổi bật này khi nó chuyển sang màu xanh lá cây sẽ mang lại cho bạn quyền chỉ huy ưu tú đối với các khả năng Phát, Tạm dừng, Chuyển tiếp và Tua lại. Bất chấp sự kiểm soát tập trung này, mỗi người tham gia buổi xem chung vẫn có khả năng điều chỉnh cài đặt hệ thống của mình, cho phép họ tùy chỉnh các tùy chọn về âm thanh, ngôn ngữ và phụ đề theo ý thích của mình."
         },
         {
           "id": "t3",
           "question": "THƯỞNG THỨC TRÒ CHUYỆN NHÓM TRỰC TIẾP",
-          "answer": "Bạn có thể nâng buổi xem chung của mình lên một tầm cao mới bằng cách trò chuyện qua tính năng trò chuyện nhóm của buổi xem chung. Tuy nhiên, cuộc trò chuyện trực tiếp sẽ xuất hiện ở thanh bên của buổi xem chung. Bạn có thể gửi phản hồi cho các cảnh cụ thể trong khi phát trực tuyến cùng nhau. Vì vậy, không có gì tuyệt vời hơn điều này để bạn cảm thấy được kết nối nhiều hơn với những người thân yêu của mình. Trò chuyện trong khi phát trực tuyến tại buổi xem chung của bạn."
+          "answer": "Tăng thêm niềm vui cho buổi xem chung của bạn bằng cách tương tác với tính năng trò chuyện nhóm trong thanh bên của buổi xem chung. Công cụ tương tác này cho phép bạn chia sẻ ngay suy nghĩ và phản ứng của mình với các cảnh khi chúng diễn ra, mang mọi người đến gần nhau hơn bất chấp khoảng cách vật lý. Đó là một phương pháp hoàn hảo để nâng cao cảm giác gắn kết với những người thân yêu của bạn. Đi sâu vào các cuộc trò chuyện và chia sẻ phản ứng của bạn khi bạn thưởng thức phát trực tuyến, thêm lớp tương tác và thú vị hơn cho buổi xem chung của bạn."
         },
         {
           "id": "t4",
           "question": "CÁ NHÂN HÓA BÊN NETFLIX",
-          "answer": "Bạn có tùy chọn tùy chỉnh hồ sơ người dùng của mình và mang lại dấu ấn cá nhân cho nó. Vì vậy, bạn có thể chọn một biệt hiệu vui nhộn cho hồ sơ của mình. Hơn nữa, bạn cũng có thể chọn biểu tượng người dùng từ hình đại diện có sẵn. Tuy nhiên, biệt hiệu và biểu tượng người dùng của bạn sẽ xuất hiện trong buổi xem chung và trò chuyện nhóm."
+          "answer": "Việc cá nhân hóa hồ sơ người dùng của bạn thật dễ dàng, cho phép bạn thêm dấu ấn độc đáo của mình. Chọn một biệt hiệu hay thay đổi và ghép nó với một hình đại diện đặc biệt từ lựa chọn được cung cấp. Những dấu ấn cá nhân này, biệt hiệu và hình đại diện của bạn, sẽ được hiển thị trong các buổi xem chung và trò chuyện nhóm, thêm yếu tố đặc biệt vào các hoạt động tương tác của bạn và khiến chúng trở nên nổi bật."
         },
         {
           "id": "t5",
           "question": "ĐỒNG BỘ LIÊN TỤC",
-          "answer": "Không quan trọng bạn hoặc người thân của bạn ở đâu. Bạn có thể phát trực tuyến Netflix đồng bộ với chúng. Tiện ích mở rộng tạo ra những bữa tiệc xem mượt mà với sự đồng bộ hoàn hảo. Do đó, ngay cả khi bỏ qua hoặc tạm dừng, quá trình đồng bộ hóa vẫn được giữ nguyên. Do đó tất cả các bạn có thể xem cùng nhau trong thời gian thực."
+          "answer": "Khi bạn sử dụng tiện ích mở rộng này để phát trực tuyến Netflix, vị trí của bạn hoặc của bạn bè và gia đình bạn sẽ trở nên không liên quan. Nó đảm bảo các bữa tiệc xem liền mạch được đồng bộ hóa hoàn hảo, duy trì sự đồng bộ hóa này ngay cả khi tạm dừng và bỏ qua. Do đó, mọi người có thể cùng nhau quan sát dần dần theo thời gian thực, bất kể họ ở đâu."
         },
         {
           "id": "t6",
           "question": "TRẢI NGHIỆM VIDEO HD TUYỆT VỜI",
-          "answer": "Bạn cũng là người thích xem phim và là người yêu thích Netflix? Vậy thì bạn sẽ thích một Bữa tiệc Netflix với chất lượng video tuyệt vời. Vì vậy, đó chính xác là những gì chúng tôi đang cung cấp cho bạn. Giờ đây, bạn có thể trải nghiệm video chất lượng HD với tốc độ đệm nhanh trong tất cả video của mình. Do đó, đừng chờ đợi nữa và hãy bắt đầu cài đặt công cụ miễn phí này ngay bây giờ để bạn có thể phát trực tiếp thật phong cách."
+          "answer": "Nếu việc xem say sưa trên Netflix là nỗi ám ảnh của bạn và bạn yêu thích chất lượng video tuyệt vời thì Bữa tiệc Netflix chính xác là thứ bạn đang bỏ lỡ. Chúng tôi ở đây để cung cấp điều đó. Với ưu đãi này, bạn có thể thưởng thức video của mình với chất lượng HD tuyệt đẹp và tốc độ tải nhanh. Vì vậy, không còn chờ đợi xung quanh. Do đó, hãy bắt đầu hành trình phát trực tuyến đầy phong cách của bạn bằng cách cài đặt công cụ miễn phí này ngay hôm nay."
         },
         {
           "id": "t7",
           "question": "MIỄN PHÍ VÀ TRÊN TOÀN THẾ GIỚI",
-          "answer": "Điều tuyệt vời nhất là tiện ích mở rộng này hoàn toàn miễn phí và bạn không phải đầu tư vào bất cứ thứ gì để tận hưởng bữa tiệc xem Netflix với bạn bè. Ngoài ra, phần mở rộng này có sẵn trên toàn thế giới. Do đó, bạn có thể tận hưởng việc phát trực tuyến với những người thân yêu của mình từ bất kỳ nơi nào trên thế giới. Tuy nhiên, vui lòng đảm bảo Netflix có sẵn ở tất cả các quốc gia nơi bạn đang cố gắng tổ chức buổi xem chung. Mặc dù tất cả các thành viên của nhóm xem phải ở cùng một quốc gia, nhưng mọi người vẫn có thể sử dụng dịch vụ VPN và thay đổi quốc gia của mình nếu họ thuộc một quốc gia khác."
+          "answer": "Ưu điểm lớn nhất là tiện ích mở rộng miễn phí này cho phép bạn tổ chức bữa tiệc xem Netflix với bạn bè mà không tốn một xu. Hơn nữa, tính khả dụng toàn cầu của nó có nghĩa là bạn có thể phát trực tuyến cùng những người thân yêu từ bất cứ đâu. Đảm bảo rằng các dịch vụ Netflix có thể truy cập được ở tất cả các địa điểm bạn định đưa vào buổi xem chung của mình. Mặc dù tất cả những người tham gia đều phải ở cùng một quốc gia mới có thể tham gia, nhưng có một giải pháp thay thế với các dịch vụ VPN để những người ở các khu vực khác nhau điều chỉnh cài đặt quốc gia của họ và tham gia."
         }
       ]
     }
@@ -94,38 +94,33 @@
     "accordian": [
       {
         "id": "f1",
-        "question": "Tiện ích mở rộng Netflix Party hoạt động như thế nào?",
-        "answer": "Tiện ích mở rộng Netflix Party cho phép người dùng đồng bộ hóa luồng Netflix của họ với bạn bè, tạo ra một bữa tiệc xem ảo. Người dùng có thể tổ chức hoặc tham gia các bữa tiệc cũng như xem các chương trình và phim cùng nhau trong thời gian thực."
+        "question": "Làm cách nào tôi có thể bắt đầu một bữa tiệc Netflix?",
+        "answer": "Để bắt đầu Netflix Watch Party của riêng bạn, hãy đảm bảo bạn đã thêm tiện ích mở rộng Netflix Party vào trình duyệt internet khả thi, chẳng hạn như Google Chrome hoặc Microsoft Edge. Sau khi sử dụng tiện ích mở rộng Netflix Party để truy cập nhanh chóng, hãy đăng nhập vào tài khoản Netflix của bạn, chọn phim hoặc loạt phim lý tưởng của bạn và nhấn phát. Sau đó, nhấn vào biểu tượng tiện ích mở rộng Netflix Party và chọn 'Bắt ​​đầu MỘT BÊN để tạo kết nối chào mừng độc đáo. Chia sẻ lời chào mừng này với bạn bè của bạn để bắt đầu bữa tiệc."
       },
       {
         "id": "f2",
-        "question": "Tiện ích mở rộng của Netflix Party có được sử dụng miễn phí không?",
-        "answer": "Có, tiện ích mở rộng Netflix Party hoàn toàn miễn phí để tải xuống và sử dụng. Người dùng có thể tận hưởng tính năng phát trực tuyến đồng bộ với bạn bè mà không phải trả thêm bất kỳ chi phí nào."
+        "question": "Mọi người tham dự phải có đăng ký Netflix để tham gia bữa tiệc Netflix?",
+        "answer": "Thật vậy, mọi người tham gia muốn tham gia Netflix Watch Party đều phải có đăng ký Netflix đang hoạt động. Điều này rất quan trọng để có quyền truy cập đầy đủ vào nội dung phát trực tuyến trong buổi xem chung."
       },
       {
         "id": "f3",
-        "question": "Có hạn chế nào về số lượng người tham gia buổi xem chung không?",
-        "answer": "Không, không có giới hạn về số lượng người tham gia buổi xem chung của Netflix Party. Người dùng có thể mời bao nhiêu bạn bè tùy thích, lý tưởng cho các nhóm lớn."
+        "question": "Tôi có thể quản lý việc phát lại trong Netflix Party không?",
+        "answer": "Chắc chắn! Bạn có thể quản lý các điều khiển phát lại trong Netflix Watch Party bằng cách chọn tùy chọn 'CHỈ TÔI CÓ KIỂM SOÁT'. Hơn nữa, điều này trao cho bạn quyền tạm dừng, phát, bỏ qua và tua lại khi bạn thấy phù hợp. Người tham gia vẫn có thể sửa đổi cài đặt cá nhân của họ, chẳng hạn như phụ đề, ngôn ngữ và âm lượng."
       },
       {
         "id": "f4",
-        "question": "Tôi có thể kiểm soát việc phát lại trong Bữa tiệc Netflix không?",
-        "answer": "Có, máy chủ có tùy chọn cho phép toàn quyền kiểm soát cài đặt phát lại, bao gồm phát, tạm dừng, chuyển tiếp và tua lại. Tuy nhiên, người tham gia vẫn có thể điều chỉnh cài đặt âm thanh, ngôn ngữ và phụ đề của riêng mình."
+        "question": "Số lượng khách tối đa tôi có thể mời tham gia bữa tiệc Netflix là bao nhiêu?",
+        "answer": "Thật tuyệt vời, không có giới hạn về số lượng khách truy cập mà bạn có thể chào đón đến với Netflix Watch Party của mình. Phổ biến lời chào đến nhiều bạn đồng hành, đảm bảo cái nhìn sâu sắc và toàn diện về khảo sát."
       },
       {
         "id": "f5",
-        "question": "Tiện ích mở rộng Netflix Party có sẵn trên toàn cầu không?",
-        "answer": "Có, tiện ích mở rộng Netflix Party có sẵn trên toàn thế giới. Người dùng có thể tổ chức các bữa tiệc xem phim với bạn bè từ mọi nơi trên thế giới, miễn là Netflix có thể truy cập được ở quốc gia tương ứng của họ. Ngoài ra, người tham gia có thể sử dụng dịch vụ VPN để tham gia các bữa tiệc được tổ chức ở các quốc gia khác."
+        "question": "Làm cách nào để khách tham gia Bữa tiệc Netflix?",
+        "answer": "Việc tham gia Netflix Watch Party rất đơn giản: người tham gia cần cài đặt và ghim tiện ích mở rộng Netflix Party vào thanh công cụ trình duyệt của họ, tương tự như máy chủ. Sau khi họ đăng nhập vào Netflix, việc nhấp vào liên kết lời mời được chia sẻ của người tổ chức sẽ thêm họ vào buổi xem chung một cách liền mạch."
       },
       {
         "id": "f6",
-        "question": "Làm cách nào để bắt đầu Buổi xem chung của nhóm Netflix?",
-        "answer": "Để bắt đầu Buổi xem chung của nhóm Netflix, hãy chọn một nền tảng như Teleparty (trước đây là Netflix Party) hoặc Scener và cài đặt tiện ích mở rộng trình duyệt của nó. Sau khi cài đặt, hãy đăng nhập vào Netflix, chọn nội dung ưa thích của bạn và khởi động bữa tiệc thông qua tiện ích mở rộng. Chia sẻ liên kết được tạo với bạn bè để tham gia. Tận hưởng việc xem cùng với các tính năng trò chuyện tích hợp để có trải nghiệm tương tác thú vị!"
-      },
-      {
-        "id": "f7",
-        "question": "Làm cách nào tôi có thể tận dụng tối đa Buổi xem chung nhóm Netflix của mình?",
-        "answer": "Để tận dụng tối đa Buổi xem chung của nhóm Netflix, hãy làm theo các mẹo sau: Chọn trước nội dung của bạn, lên kế hoạch cho bữa tiệc và chia sẻ thông tin chi tiết sớm, tích cực sử dụng trò chuyện để thảo luận và phản ứng, nghỉ giải lao khi xem lâu, tùy chỉnh điều khiển phát lại để có trải nghiệm mượt mà và yêu cầu phản hồi sau đó để cải thiện các bữa tiệc trong tương lai."
+        "question": "Tiện ích mở rộng của Netflix Party có thể truy cập được trên toàn cầu không?",
+        "answer": "Tiện ích mở rộng của Netflix Party được thiết kế để sử dụng trên toàn cầu, tùy thuộc vào tính khả dụng của dịch vụ Netflix tại địa điểm của người tham gia. Đối với những người ở các khu vực khác nhau, VPN có thể cần thiết để đồng bộ hóa cài đặt quốc gia, cho phép mọi người tham gia buổi xem chung."
       }
     ]
   },

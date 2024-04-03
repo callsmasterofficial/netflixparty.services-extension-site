@@ -6,85 +6,85 @@
   "section": {
     "first": {
       "heading": "NETFLIX IN SPOJITE SE S PRIJATELJI PREKO ZABAVE NETFLIX.",
-      "html": "Poslovite se od zastarelih metod pretakanja in sprejmite sodoben način gledanja s prijatelji, ne glede na razdaljo, tako da brezplačno namestite razširitev Netflix Party. To inovativno orodje vam omogoča uživanje v široki paleti serij in filmov Netflix, ki so popolnoma sinhronizirani s prijatelji po vsem svetu. Ne glede na to, ali gostite ali se jim pridružite, je zabava brezhibno sinhronizirana, nanjo ne vplivajo premori ali preskoki. Poleg tega si privoščite vrhunsko pretakanje HD-kakovosti in visoke hitrosti medpomnilnika za neprimerljivo izkušnjo gledanja. Ne oklevajte več; prenesite razširitev še danes. Poleg tega odkrijte preprost postopek brezplačnega ustvarjanja globalne zabave ob ogledu ali sodelovanja v njej.",
+      "html": "Poslovite se od staromodnih metod pretakanja in pozdravite novo dobo skupinskega gledanja z razširitvijo Netflix Party, ki je na voljo brezplačno. Ta najsodobnejša funkcija omogoča vam in vašim prijateljem, kjer koli že so, da gledate širok izbor oddaj in filmov Netflix Party v popolni harmoniji. Ne glede na to, ali ste gostitelj ali se preprosto pridružite, izkušnja gledanja ostane popolnoma usklajena, brez motenj zaradi premora ali preskakovanja. Izkusite pretakanje v osupljivi kakovosti HD in uživajte v hitrih hitrostih medpomnilnika za izkušnjo gledanja. Ne čakajte več; pridobite razširitev zdaj. Poleg tega se naučite, kako preprosto je brezplačno začeti svetovno gledano zabavo ali se ji pridružiti.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
-      "heading": "Kako uporabljati razširitev Netflix Party",
-      "subHeading": "Gotovo ste že imeli izkušnjo gledanja Netflixa z ljudmi v isti sobi in na istem zaslonu. Vendar si nikoli ne bi predstavljali, da lahko pretakate skupaj z njimi kljub razdalji med vama? Zato lahko zdaj z njimi ustvarite zabavo ob ogledu v nekaj preprostih korakih, ne glede na razdaljo med vami-",
+      "heading": "Smernice za uporabo razširitve Netflix Party",
+      "subHeading": "Veliko ljudi pozna izkušnjo deljenja oddaje Netflix na enem zaslonu s prijatelji v isti sobi. Kljub temu, da sta ju kilometri narazen, se je misel na skupno uživanje v pretakanju morda nekoč zdela kot oddaljene sanje. Zdaj je premostitev te vrzeli postala resničnost. Zabavo lahko enostavno pripravite z nekaj kliki in zagotovite, da razdalja ne bo več ovirala trenutkov skupnega gledanja",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
       "accordian": [
         {
           "id": "1",
           "question": "NAMESTITE RAZŠIRITEV",
-          "answer": "Prvi korak je prenos razširitve zabave Netflix <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Kliknite tukaj</u></a> za namestitev brezplačne, uporabniku prijazne razširitve. Poleg tega se prepričajte, da imate brskalnik Google Chrome ali Microsoft Edge, da ga namestite. Poleg tega je razširitev združljiva s Chromebooki, macOS, prenosniki, Windows in računalniki."
+          "answer": "Začnite z namestitvijo razširitve Netflix Party. <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Kliknite tukaj</u></a> za brezplačno prenesite razširitev, ki slovi po enostavni uporabi. Poleg tega je pomembno, da imate Google Chrome ali Microsoft Edge kot brskalnik za namene namestitve. Ta razširitev brezhibno deluje z različnimi napravami, vključno s Chromebooki, sistemi macOS, prenosniki, osebnimi računalniki z operacijskim sistemom Windows in drugimi računalniki."
         },
         {
           "id": "2",
           "question": "PRIBNITE RAZŠIRITEV",
-          "answer": "Nato morate razširitev pripeti na orodno vrstico. Če pa ne vidite ikone razširitve zabave Netflix, kliknite ikono uganke v desnem kotu na vrhu brskalnika. Tam boste našli ikono razširitve, tako da jo lahko pripnete."
+          "answer": "Po tem morate pripeti razširitev v orodno vrstico. Če ikona za razširitev Netflix Party ni takoj vidna, preprosto tapnite ikono sestavljanke v zgornjem desnem kotu brskalnika. Tukaj boste odkrili ikono razširitve, ki vam omogoča enostavno pripenjanje."
         },
         {
           "id": "3",
           "question": "ZAČNITE NETFLIXING",
-          "answer": "Zdaj odprite Netflix in se prijavite v svoj račun. Prosimo, ne pozabite, da potrebujete svojo individualno naročnino na Netflix za ustvarjanje zabave ob ogledu. Poleg tega vsi člani skupine za spremljanje potrebujejo svoje ločene naročnine na Netflix, da se pridružijo."
+          "answer": "Nato pojdite na Netflix in se prijavite v svoj račun. Upoštevajte, da morate imeti lastno naročnino na Netflix, če želite gostiti zabavo ob ogledu, vsak udeleženec pa mora imeti tudi svojo naročnino na Netflix, da se lahko pridruži."
         },
         {
           "id": "4",
           "question": "IŠČI, NASTAVI, IGRAJ",
-          "answer": "Poleg tega poiščite svojo najljubšo Netflixovo oddajo ali film. Lahko pa poiščete kateri koli drug video, v katerem želite uživati ​​s prijatelji, in ga predvajate."
+          "answer": "Nato poiščite svojo najljubšo Netflixovo serijo, film ali videoposnetek, ki ga želite posredovati svojim sopotnikom, in ga začnite predvajati."
         },
         {
           "id": "5",
           "question": "USTVARITE URO NETFLIX PATRY",
-          "answer": "Za zadnji korak kliknite ikono pripete razširitve. Odpre se majhno pojavno okno z imenom »USTVARI OGLED ZABAVE« z gumbom »ZAČNI ZABAVO«. Kliknite ta gumb, da dobite povezavo za povabilo na zabavo z ogledom, ki jo lahko delite s prijatelji."
+          "answer": "Na koncu kliknite na prej pripeto ikono razširitve. Pojavilo se bo majhno pojavno okno z naslovom »USTVARI OGLED ZABAVE«, ki prikazuje gumb z imenom »ZAČNI ZABAVO«. Aktivirajte ta gumb, da ustvarite povezavo za povabilo za vašo zabavo, ki je pripravljena za skupno rabo s prijatelji."
         },
         {
           "id": "6",
-          "question": "DELITE VESELJE",
-          "answer": "Zdaj ste uspešno ustvarili brezhibno Netflix Watch Party. Zato delite ustvarjeni URL povabila z vsemi prijatelji, ki jih želite na zabavi ob ogledu."
+          "question": "ŠIRITE SREČO",
+          "answer": "Z lahkoto ste vzpostavili Netflix Watch Party. Nadaljujte z delitvijo vabilne povezave, ki ste jo ustvarili, s prijatelji, ki jih želite vključiti v zabavo za ogled."
         }
       ]
     },
     "three": {
-      "heading": "KAKO SE MU PRIDRUŽITI??",
-      "subHeading": "Zelo preprosto in enostavno se je pridružiti zabavi Netflix. Vendar morate slediti enakemu začetnemu postopku kot pri ustvarjanju skupine za opazovanje. Zato morate namestiti in pripeti to razširitev za chrome in se nato prijaviti v svoj račun Netflix. Poleg tega upoštevajte, da morate imeti svojo individualno naročnino na Netflix, če se želite pridružiti zabavi ob ogledu. Po vsem tem morate samo klikniti URL povabila, ki ga je prejel vaš prijatelj. In voila, kljub kilometrinam ste dosegli najboljšo zabavo ob gledanju doslej.",
+      "heading": "KAKO SE MU PRIDRUŽITI…….?",
+      "subHeading": "Sodelovanje v zabavi Netflix je gladek in preprost postopek, ki odraža nastavitvene korake za začetek zabave ob ogledu. Začnite tako, da namestite zahtevano razširitev za Chrome in jo pripnete v orodno vrstico, nato pa se prijavite v svoj račun Netflix – predpogoj za pridružitev kateri koli skupini za ogled. Ne pozabite, da je za to izkušnjo nujno imeti naročnino na Netflix. Po teh začetnih korakih kliknite povezavo s povabilom, ki vam jo je posredoval vaš prijatelj. Kar tako, ste pripravljeni, da se potopite v vznemirljivo pustolovščino zabave ob uri, ki vas približa prijateljem od daleč.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
       "accordian": [
         {
           "id": "t1",
           "question": "LIMITED WATCH ČLANI ZABAVE",
-          "answer": "Ali ste vedeli, da ni omejitev, koliko ljudi se lahko pridruži vaši zabavi ob ogledu? S to razširitvijo <b>Netflix Party</b> lahko na svojo skupino ob gledanju vključite toliko ljudi, kot želite. Ne glede na to, koliko ljudi želi biti del vaše zabave za ogled, jih lahko privabite tako, da z njimi delite URL povabila."
+          "answer": "Razširitev Netflix Party ponuja neomejen seznam gostov za vašo zabavo ob ogledu. Poleg tega lahko povabite poljubno število udeležencev. Ta prilagodljivost zagotavlja, da nikomur ni treba zamuditi; delite URL povabila in vsi, ki jih želite vključiti, se lahko nemoteno pridružijo ogledu."
         },
         {
           "id": "t2",
           "question": "NADZOR NETFLIX WATCH PARTY",
-          "answer": "Dobite lahko popoln nadzor nad nastavitvami watch party. Poleg tega lahko omogočite popoln nadzor v svoji roki tako, da gumb »SAMO JAZ IMAM NADZOR« obrnete na zeleno in pridobite nadzor nad skupino gledalcev. Zato imate pooblastilo za nastavitve predvajanja, premora, previjanja naprej in nazaj. Poleg tega upoštevajte, da sistemske nastavitve še vedno ostanejo pri članih skupine za spremljanje. Zato lahko vsi člani gledalske skupine še vedno spreminjajo svoje nastavitve zvoka, jezika in podnapisov."
+          "answer": "Pridobite popoln nadzor nad skupino gledalcev tako, da aktivirate poudarek »SAMO JAZ IMAM NADZOR«, ki vam, ko postane zelen, podeli elitni nadzor nad zmožnostmi predvajanja, premora, previjanja naprej in nazaj. Kljub temu centraliziranemu nadzoru vsak udeleženec zabave obdrži možnost prilagajanja svojih sistemskih nastavitev, kar jim omogoča prilagajanje zvoka, jezika in podnapisov po svojih željah."
         },
         {
           "id": "t3",
           "question": "UŽIVAJTE V SKUPINSKEM KLEPETU V ŽIVO",
-          "answer": "Svojo zabavo ob ogledu lahko dvignete na višjo raven s klepetom prek funkcije skupinskega klepeta pri zabavi ob ogledu. Kljub temu se bo klepet v živo prikazal v stranski vrstici zabave za ogled. Med skupnim pretakanjem lahko pošljete reakcije na določene prizore. Zato ni nič boljšega od tega, da se počutite bolj povezani s svojimi najdražjimi. Klepetajte med pretakanjem na zabavi ob ogledu."
+          "answer": "Povečajte zabavo ob zabavi z ogledom tako, da se vključite v skupinski klepet v stranski vrstici zabave ob ogledu. To interaktivno orodje vam omogoča, da takoj delite svoje misli in odzive na prizore, ko se odvijajo, ter zbliža vse skupaj kljub fizični razdalji. To je odlična metoda za krepitev občutka povezanosti s svojimi najdražjimi. Potopite se v pogovore in delite svoje odzive, medtem ko uživate v pretakanju, tako da svoji zabavi ob gledanju dodate bolj interaktivno in prijetno plast."
         },
         {
           "id": "t4",
           "question": "PRILAGODITE ZABAVO NETFLIX",
-          "answer": "Dobite možnost, da prilagodite svoj uporabniški profil in mu daste osebno noto. Zato lahko za svoj profil izberete zabaven vzdevek. Poleg tega lahko med vgrajenimi avatarji izberete tudi uporabniško ikono. Vendar bosta vaš vzdevek in ikona uporabnika prikazana v vaši zabavi ob gledanju in skupinskem klepetu."
+          "answer": "Prilagoditev vašega uporabniškega profila je preprosta, kar vam omogoča, da dodate svoj edinstven pridih. Izberite čudaški vzdevek in ga povežite z značilnim avatarjem iz ponujenega izbora. Ti osebni dodatki, vaš vzdevek in avatar, bodo prikazani med zabavami in skupinskimi klepeti, kar bo vašim interakcijam dodalo poseben element in jih naredilo izstopajoče."
         },
         {
           "id": "t5",
           "question": "NEMOŽNO SINHRONIZIRAJTE",
-          "answer": "Ni pomembno, kje ste vi ali vaši ljubljeni. Netflix lahko sinhronizirate z njimi. Razširitev ustvarja gladke zabave ob gledanju s popolno sinhronizacijo. Zato ostane sinhronizacija nedotaknjena tudi med preskokom ali premorom. Tako lahko vsi skupaj gledate v realnem času."
+          "answer": "Ko uporabite to razširitev za pretakanje Netflixa, vaša lokacija ali lokacija vaših prijateljev in družine postane nepomembna. Zagotavlja brezhibne oglede, ki so popolnoma sinhronizirani, ohranja to sinhronizacijo tudi med premori in preskoki. Tako lahko vsi sodelujejo pri skupnem postopnem opazovanju v realnem času, ne glede na to, kje so."
         },
         {
           "id": "t6",
           "question": "VRHUNSKA HD VIDEO IZKUŠNJA",
-          "answer": "Ali tudi vi opazujete in obožujete Netflix? Potem bi vam bila všeč zabava Netflix s fantastično kakovostjo videa. Zato vam ponujamo točno to. Zdaj lahko doživite video v visoki ločljivosti z visoko hitrostjo medpomnjenja v vseh svojih videoposnetkih. Zato ne čakajte več in začnite nameščati to brezplačno orodje zdaj, da boste lahko pretakali v stilu."
+          "answer": "Če je prenajedanje na Netflixu vaša obsedenost in se zanimate za odlično kakovost videoposnetkov, potem je Netflixova zabava natanko tisto, kar ste pogrešali. Tukaj smo, da zagotovimo prav to. S to ponudbo lahko uživate v svojih videoposnetkih v osupljivi kakovosti HD in hitrem medpomnjenju. Torej, nič več čakanja. Zato začnite svojo stilsko pot do pretakanja z namestitvijo tega brezplačnega orodja še danes."
         },
         {
           "id": "t7",
           "question": "BREZPLAČNO IN PO VSEM SVETU",
-          "answer": "Najboljši del je, da je razširitev popolnoma brezplačna in vam ni treba vlagati v nič, da bi uživali v zabavi ob gledanju Netflixa s prijatelji. Poleg tega je ta razširitev na voljo po vsem svetu. Zato lahko uživate v pretakanju s svojimi najdražjimi iz katerega koli konca sveta. Vendar se prepričajte, da je Netflix na voljo v vseh državah, kjer poskušate gostiti zabavo ob ogledu. Čeprav morajo biti vsi člani opazovalne skupine v isti državi, lahko ljudje še vedno uporabljajo storitev VPN in spremenijo državo, če pripadajo drugi."
+          "answer": "Največja prednost je, da vam ta brezplačna razširitev omogoča, da s prijatelji gostite zabavo ob gledanju Netflixa, ne da bi za to porabili niti centa. Poleg tega njegova globalna razpoložljivost pomeni, da lahko pretakate skupaj z ljubljenimi od kjer koli. Zagotovite, da so storitve Netflix dostopne na vseh lokacijah, ki jih nameravate vključiti v svojo skupino za ogled. Medtem ko morajo biti vsi udeleženci v isti državi, da se pridružijo, obstaja rešitev s storitvami VPN za tiste v različnih regijah, da prilagodijo svoje nastavitve države in sodelujejo."
         }
       ]
     }
@@ -94,38 +94,33 @@
     "accordian": [
       {
         "id": "f1",
-        "question": "Kako deluje razširitev Netflix Party?",
-        "answer": "Razširitev Netflix Party omogoča uporabnikom, da sinhronizirajo svoje pretoke Netflix s prijatelji in ustvarijo virtualno zabavo ob ogledu. Uporabniki lahko gostijo zabave ali se jim pridružijo ter skupaj gledajo oddaje in filme v realnem času."
+        "question": "Kako lahko sprožim zabavo Netflix?",
+        "answer": "Če želite začeti lastno Netflix Watch Party, zagotovite, da ste dodali razširitev Netflix Party v izvedljiv internetni brskalnik, kot je Google Chrome ali Microsoft Edge. Potem ko za hiter dostop uporabljate razširitev Netflix Party, se vpišite v svoj račun Netflix, izberite idealen film ali serijo in pritisnite »Predvajaj«. Nato se dotaknite simbola razširitve Netflix Party in izberite »Begin A PARTY«, da ustvarite edinstveno dobrodošlico. Delite to dobrodošlico svojim prijateljem, da začnete zabavo."
       },
       {
         "id": "f2",
-        "question": "Ali je razširitev Netflix Party brezplačna za uporabo?",
-        "answer": "Da, razširitev Netflix Party je popolnoma brezplačna za prenos in uporabo. Uporabniki lahko uživajo v sinhroniziranem pretakanju s prijatelji brez dodatnih stroškov."
+        "question": "Ali mora imeti vsak udeleženec naročnino na Netflix, če želi sodelovati na zabavi Netflix?",
+        "answer": "Dejansko mora imeti vsak udeleženec, ki se želi pridružiti Netflix Watch Partyju, aktivno naročnino na Netflix. To je ključnega pomena za popoln dostop do pretočne vsebine med zabavo z ogledom."
       },
       {
         "id": "f3",
-        "question": "Ali obstajajo kakšne omejitve glede števila udeležencev na ogledu?",
-        "answer": "Ne, ni nobenih omejitev glede števila udeležencev pri gledanju zabave Netflix Party. Uporabniki lahko povabijo poljubno število prijateljev, zaradi česar je idealen za velike skupine."
+        "question": "Ali lahko upravljam predvajanje na zabavi Netflix?",
+        "answer": "Vsekakor! Kontrolnike predvajanja znotraj Netflix Watch Party lahko upravljate tako, da izberete možnost »SAMO JAZ IMAM NADZOR«. Še več, to vam daje vajeti za premor, predvajanje, preskok in previjanje nazaj, kot se vam zdi primerno. Udeleženci lahko še vedno spreminjajo svoje individualne nastavitve, kot so podnapisi, jezik in glasnost."
       },
       {
         "id": "f4",
-        "question": "Ali lahko nadzorujem predvajanje med zabavo Netflix?",
-        "answer": "Da, gostitelji imajo možnost omogočiti popoln nadzor nad nastavitvami predvajanja, vključno s predvajanjem, premorom, previjanjem naprej in nazaj. Vendar lahko udeleženci še vedno prilagodijo svoje individualne nastavitve zvoka, jezika in podnapisov."
+        "question": "Kakšno je največje število gostov, ki jih lahko povabim na zabavo Netflix?",
+        "answer": "Čudovito je, da ni omejitve števila obiskovalcev, ki jih lahko sprejmete na svojo Netflix Watch Party. Pošljite pozdrav številnim spremljevalcem, kar zagotavlja obsežen in celovit vpogled v anketo."
       },
       {
         "id": "f5",
-        "question": "Ali je razširitev Netflix Party na voljo po vsem svetu?",
-        "answer": "Da, razširitev Netflix Party je na voljo po vsem svetu. Uporabniki lahko gostijo zabave s prijatelji s katerega koli konca sveta, če je Netflix dostopen v njihovih državah. Poleg tega lahko udeleženci uporabljajo storitve VPN za pridružitev zabavam, ki jih gostijo v drugih državah."
+        "question": "Kako se gostje pridružijo zabavi Netflix?",
+        "answer": "Pridružitev Netflix Watch Partyju je preprosta: udeleženci morajo namestiti in pripeti razširitev Netflix Party v svojo orodno vrstico brskalnika, podobno kot gostitelj. Ko se prijavijo v Netflix, jih s klikom na skupno vabilo gostitelja neopazno dodajo na skupino za ogled."
       },
       {
         "id": "f6",
-        "question": "Kako začnem Netflix Group Watch Party?",
-        "answer": "Če želite začeti skupinsko gledanje skupine Netflix, izberite platformo, kot je Teleparty (prej Netflix Party) ali Scener, in namestite njeno razširitev za brskalnik. Po namestitvi se prijavite v Netflix, izberite želeno vsebino in zaženite zabavo prek razširitve. Delite ustvarjeno povezavo s prijatelji, da se pridružijo. Uživajte v skupnem gledanju z integriranimi funkcijami klepeta za zabavno in interaktivno izkušnjo!"
-      },
-      {
-        "id": "f7",
-        "question": "Kako lahko kar najbolje izkoristim svoj Netflix Group Watch Party?",
-        "answer": "Če želite kar najbolje izkoristiti vašo Netflix Group Watch Party, upoštevajte te nasvete: Vnaprej izberite vsebino, načrtujte zabavo in zgodaj delite podrobnosti, aktivno uporabljajte klepet za razprave in odzive, vzemite odmore med dolgimi ogledi, prilagodite kontrole predvajanja za nemoteno izkušnjo , nato pa prosite za povratne informacije, da izboljšate prihodnje zabave."
+        "question": "Ali je razširitev Netflix Party dostopna globalno?",
+        "answer": "Razširitev Netflix Party je zasnovana za globalno uporabo, odvisno od razpoložljivosti storitev Netflix na lokaciji udeleženca. Za tiste v različnih regijah bo morda potreben VPN za sinhronizacijo nastavitev države, kar bo vsem omogočilo sodelovanje pri ogledu."
       }
     ]
   },

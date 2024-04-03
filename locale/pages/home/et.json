@@ -6,85 +6,85 @@
   "section": {
     "first": {
       "heading": "NETFLIX JA LÕHTUGE SÕPRADEGA NETFLIX PARTY LÄBI.",
-      "html": "Jätke hüvasti aegunud voogesitusmeetoditega ja võtke omaks tänapäevane viis oma sõpradega vaatamiseks, olenemata vahemaast, installides tasuta Netflixi peo laienduse. See uuenduslik tööriist võimaldab teil nautida laia valikut Netflixi sarju ja filme, mis on täiuslikult sünkroonitud sõpradega üle kogu maailma. Olenemata sellest, kas võõrustate või liitute, jääb vaatamispidu veatult sünkroonis, pausid või vahelejätmised ei mõjuta. Lisaks nautige suurepärase HD-kvaliteediga voogesitust ja kiiret puhverduskiirust, et saada võrratu vaatamiskogemus. Ärge kõhelge enam; laadige laiendus alla juba täna. Lisaks avastage tasuta globaalse vaatamispeo loomise või sellel osalemise lihtne protsess.",
+      "html": "Jätke vanamoodsate voogedastusmeetoditega hüvasti ja tervitage uut grupivaatamise ajastut Netflix Party laiendusega, mis on saadaval tasuta. See tipptasemel funktsioon võimaldab teil ja teie sõpradel, kus nad ka ei viibiks, vaadata laias valikus Netflixi peo saateid ja filme täiuslikus harmoonias. Olenemata sellest, kas olete võõrustaja või lihtsalt liitute, püsib vaatamiskogemus täiuslikult ühtlane, ilma peatamise või vahelejätmiseta. Kogege voogesitust vapustava HD-kvaliteediga ja nautige vaatamiskogemuse tagamiseks kiiret puhverduskiirust. Ärge oodake enam; hankige laiendus kohe. Lisaks saate teada, kui lihtne on tasuta ülemaailmset vaatamispidu alustada või sellega liituda.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
-      "heading": "Kuidas kasutada Netflixi peolaiendit",
-      "subHeading": "Peate olema kogenud Netflixi vaatamist inimestega samas ruumis ja samal ekraanil. Kuid te poleks kunagi ette kujutanud, et saate nendega koos striimida hoolimata teievahelisest vahemaast? Seetõttu saate nüüd luua koos nendega mõne lihtsa sammuga kellapeo, olenemata teievahelisest vahemaast.",
+      "heading": "Juhised Netflixi peo laienduse kasutamiseks",
+      "subHeading": "Paljud inimesed on tuttavad kogemusega jagada Netflixi saadet ühel ekraanil sõpradega samas ruumis. Vaatamata sellele, et nad on üksteisest kilomeetrite kaugusel, võis mõte ühest voogedastusseanssi nautida kunagi kauge unenäona. Nüüd on selle lõhe ületamine muutunud reaalsuseks. Saate lihtsalt mõne klõpsuga kellapeo üles seada, tagades, et vahemaa ei takista enam jagatud vaatamishetki",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
       "accordian": [
         {
           "id": "1",
           "question": "PAIGALDAGE LAIEND",
-          "answer": "Esimene samm on Netflixi peolaienduse allalaadimine <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Klõpsake siin</u></a> tasuta kasutajasõbraliku laienduse installimiseks. Lisaks veenduge, et teil oleks selle installimiseks kas Google Chrome või Microsoft Edge brauser. Lisaks ühildub laiendus Chromebookide, macOS-i, sülearvutite, Windowsi ja arvutitega."
+          "answer": "Alustage Netflix Party laienduse installimisega. <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Klõpsake siin</u></a>, et laadige tasuta alla laiendus, mis on tuntud oma kasutuslihtsuse poolest. Lisaks on oluline, et teie brauser oleks installimiseks Google Chrome või Microsoft Edge. See laiendus töötab sujuvalt mitmesuguste seadmetega, sealhulgas Chromebookide, macOS-süsteemide, sülearvutite, Windowsi personaalarvutite ja muude arvutitega."
         },
         {
           "id": "2",
           "question": "KINNITA LAIEND",
-          "answer": "Järgmisena peate laienduse tööriistaribale kinnitama. Kui te aga Netflixi peo laienduse ikooni ei näe, klõpsake brauseri ülaosas paremas nurgas oleval pusleikoonil. Sealt leiate laienduse ikooni, nii et saate selle kinnitada."
+          "answer": "Pärast seda peate laienduse tööriistaribale lisama. Kui Netflix Party laienduse ikoon pole kohe nähtav, puudutage lihtsalt oma brauseri paremas ülanurgas olevat pusleikooni. Siit leiate laienduse ikooni, mis võimaldab teil seda hõlpsalt kinnitada."
         },
         {
           "id": "3",
           "question": "ALUSTA NETFLIXIT",
-          "answer": "Nüüd avage Netflix ja logige sisse oma kontole. Pidage meeles, et vaatamispeo loomiseks vajate Netflixi individuaalset tellimust. Lisaks vajavad kõik vaatamispartei liikmed liitumiseks eraldi Netflixi tellimusi."
+          "answer": "Seejärel navigeerige Netflixi ja logige sisse oma kontole. Pidage meeles, et vaatamispeo korraldamiseks peab teil olema oma Netflixi tellimus ja igal osalejal peab olema liitumiseks ka oma Netflixi tellimus."
         },
         {
           "id": "4",
           "question": "OTSI, SEADISTA, MÄNGI",
-          "answer": "Lisaks otsige oma Netflixi lemmiksaadet või -filmi. Või võite otsida mõnda muud videot, mida soovite oma sõpradega nautida, ja seda esitada."
+          "answer": "Seejärel otsige üles oma lemmik Netflixi sari, film või video, mida soovite oma kaaslastele edastada, ja alustage selle esitamist."
         },
         {
           "id": "5",
           "question": "LOOGE NETFLIXI KELLAPATRY",
-          "answer": "Viimase sammu jaoks klõpsake kinnitatud laienduse ikooni. Avaneb väike hüpikaken nimega \"LOO VAATAMISPIDU\" nupuga \"ALATA PIDU\". Klõpsake sellel nupul, et saada vaatamispeo kutse link, mida saaksite oma sõpradega jagada."
+          "answer": "Lõpuks klõpsake eelnevalt kinnitatud laienduse ikooni. Ilmub väike hüpikaken pealkirjaga \"LOO VAATAMISPIDU\", kus kuvatakse nupp nimega \"ALA PIDU\". Aktiveerige see nupp, et luua oma vaatamispeo jaoks kutse link, mis on valmis sõpradega jagamiseks."
         },
         {
           "id": "6",
-          "question": "JAGA RÕÕMU",
-          "answer": "Nüüd olete edukalt loonud sujuva Netflixi vaatamispeo. Seetõttu jagage loodud kutse URL-i kõigi sõpradega, keda soovite vaatamispeol."
+          "question": "LEVITA ÕNNE",
+          "answer": "Olete nüüd vaevata loonud Netflixi vaatamispeo. Jagage loodud kutse linki kõigi sõpradega, keda soovite vaatamispeole kaasata."
         }
       ]
     },
     "three": {
-      "heading": "KUIDAS LIITUDA??",
-      "subHeading": "Netflixi peoga liitumine on väga lihtne ja vaevatu. Siiski peate järgima sama alustamisprotseduuri, mis vaatamispeo loomisel. Seetõttu peate installima ja kinnitama selle kroomi laienduse ning seejärel logima sisse oma Netflixi kontole. Lisaks pange tähele, et vaatamispeoga liitumiseks peab teil olema isiklik Netflixi tellimus. Pärast kõike seda peate lihtsalt klõpsama teie sõbra saadud kutse URL-il. Ja Voila, olete jõudnud kõigi aegade parimale kellapeole isegi miilidest hoolimata.",
+      "heading": "KUIDAS LIITUDA……?",
+      "subHeading": "Netflixi peol osalemine on sujuv ja arusaadav protsess, mis peegeldab kellapeo algatamise seadistusetappe. Alustuseks installige vajalik Chrome'i laiendus ja kinnitage see oma tööriistaribale, seejärel logige sisse oma Netflixi kontole – see on mis tahes vaatamispeoga liitumise eeltingimus. Pidage meeles, et Netflixi tellimuse omamine on selle kogemuse jaoks hädavajalik. Pärast neid esialgseid samme klõpsake oma sõbra pakutud kutse lingil. Just nii oledki valmis sukelduma põnevasse kellapeoseiklusesse, tuues sind lähedasemaks sõpradega kaugelt.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
       "accordian": [
         {
           "id": "t1",
           "question": "PIIRAMATU VAATAMISPEO LIIKMEID",
-          "answer": "Kas teadsite, et teie vaatamispeoga liitumiseks pole piiranguid? Selle <b>Netflix Party</b> laienduse abil saate oma vaatamispeole kutsuda nii palju inimesi, kui soovite. Seega, olenemata sellest, kui palju inimesi soovib teie vaatamispeost osa saada, võite nad lihtsalt osaleda, kui jagate nendega kutse URL-i."
+          "answer": "Netflix Party laiendus pakub teie vaatamispeo jaoks piiramatut külaliste nimekirja. Lisaks saate kutsuda nii palju osalejaid, kui soovite. See paindlikkus tagab, et keegi ei pea ilma jääma; jagage kutse URL-i ja kõik, keda soovite kaasata, saavad sujuvalt vaatamispeoga liituda."
         },
         {
           "id": "t2",
           "question": "JUHTIMISE NETFLIXI VAATAMISPIDU",
-          "answer": "Saate täieliku kontrolli kellapeo seadete üle. Lisaks saate täieliku kontrolli oma käes lubada, keerates nupu „AINULT I HAVE CONTROL” roheliseks ja omandades kontrolli kellapartii üle. Seetõttu on teil esitus-, peatamis-, edasi- ja tagasikerimise sätete üle õigus. Lisaks pange tähele, et süsteemi sätted jäävad siiski valvepartei liikmetele. Seetõttu saavad kõik vaatamisgrupi liikmed siiski muuta oma heli-, keele- ja subtiitrite seadeid."
+          "answer": "Omandage täielik kontroll kellapartii üle, aktiveerides esiletõstmise „AINULT MUL JUHTIMINE”, mis roheliseks muutudes annab teile esituse, pausi, edasi- ja tagasikerimise funktsioonide eliidi juhtimise. Vaatamata sellele tsentraliseeritud juhtimisele säilitab iga kellaosas osaleja võimaluse reguleerida oma süsteemiseadeid, võimaldades neil kohandada heli, keele ja subtiitrite eelistusi oma maitse järgi."
         },
         {
           "id": "t3",
-          "question": "NAUTIGE REAALAJAS GRUPPI VESTLUST",
-          "answer": "Saate oma vaatamispeo järgmisele tasemele lõbustada, vesteldes jälgimispeo grupivestluse funktsiooni kaudu. Otsevestlus ilmub aga vaatamispeo külgribale. Saate saata reaktsioone konkreetsetele stseenidele koos voogesituse ajal. Seetõttu pole midagi paremat, kui tunnete oma lähedastega rohkem sidet. Vestelge oma vaatamispeol voogesituse ajal."
+          "question": "NAUTIGE REAALAJAS GRUPIDE VESTLUST",
+          "answer": "Suurendage oma kellapeo lõbusust, kasutades kellapeo külgribal grupivestluse funktsiooni. See interaktiivne tööriist võimaldab teil koheselt jagada oma mõtteid ja reaktsioone stseenidele nende arenemisel, tuues kõik üksteisele vaatamata füüsilisele kaugusele. See on suurepärane meetod oma lähedastega ühtekuuluvustunde suurendamiseks. Sukelduge vestlustesse ja jagage oma reaktsioone, kui naudite voogesitust, lisades oma vaatamispeole interaktiivsema ja nauditavama kihi."
         },
         {
           "id": "t4",
           "question": "Isikupärastage NETFLIX PARTY",
-          "answer": "Saate oma kasutajaprofiili kohandada ja anda sellele isikupära. Seetõttu saate oma profiilile valida lõbusa hüüdnime. Lisaks saate sisseehitatud avataride hulgast valida ka kasutajaikooni. Teie hüüdnimi ja kasutajaikoon ilmuvad aga teie vaatamispeol ja grupivestluses."
+          "answer": "Kasutajaprofiili isikupärastamine on lihtne, võimaldades teil lisada oma unikaalset puudutust. Valige veider hüüdnimi ja sobitage see pakutavast valikust iseloomuliku avatariga. Need isiklikud puudutused, teie hüüdnimi ja avatar, kuvatakse kellapidude ja grupivestluste ajal, lisades teie suhtlusele erilise elemendi ja muutes need silma paistma."
         },
         {
           "id": "t5",
           "question": "SÜNKROONI LAHTI",
-          "answer": "Pole tähtis, kus teie või teie lähedased olete. Saate Netflixi nendega sünkroonis voogesitada. Laiendus loob sujuvad kellapeod täiusliku sünkroonimisega. Seetõttu jääb sünkroonimine isegi vahelejätmise või peatamise ajal puutumata. Seega saate kõik koos reaalajas vaadata."
+          "answer": "Kui kasutate seda laiendust Netflixi voogesitamiseks, muutub teie või teie sõprade ja pere asukoht ebaoluliseks. See tagab sujuvad kellapeod, mis on ideaalselt sünkroonis, säilitades selle sünkroonimise isegi pauside ja vahelejätmiste korral. Seega saavad kõik järk-järgult koos reaalajas vaatlemisest osa saada, olenemata nende asukohast."
         },
         {
           "id": "t6",
           "question": "ÜLIMAALNE HD-VIDEOKOGEMUS",
-          "answer": "Kas olete ka hullvaataja ja Netflixi armastaja? Siis meeldiks teile fantastilise videokvaliteediga Netflixi pidu. Seetõttu on see just see, mida me teile pakume. Nüüd saate kõigis oma videotes kogeda HD-kvaliteediga videot kiire puhverduskiirusega. Seetõttu ärge enam oodake ja alustage selle tasuta tööriista installimist kohe, et saaksite stiilselt voogesitada."
+          "answer": "Kui Netflixis liigne vaatamine on teie kinnisidee ja teie eesmärk on suurepärane videokvaliteet, siis Netflixi pidu on just see, millest olete puudust tundnud. Oleme siin selleks, et pakkuda just seda. Selle pakkumisega saate nautida oma videoid vapustava HD-kvaliteedi ja kiire puhverduskiirusega. Seega pole enam vaja oodata. Seetõttu alustage oma stiilset voogesituse teekonda, installides selle tasuta tööriista juba täna."
         },
         {
           "id": "t7",
           "question": "TASUTA JA ÜLEMAAILMA",
-          "answer": "Parim osa on see, et laiendus on täiesti tasuta ja te ei pea millessegi investeerima, et sõpradega Netflixi kellapidu nautida. Peale selle on see laiendus saadaval kogu maailmas. Seetõttu saate nautida voogesitust oma lähedastega igast maailmanurgast. Siiski veenduge, et Netflix oleks saadaval kõigis riikides, kus proovite vaatamispidu korraldada. Kuigi kõik vaatamispartei liikmed peavad asuma samas riigis, saavad inimesed siiski VPN-teenust kasutada ja riiki vahetada, kui nad kuuluvad mõnda teise riiki."
+          "answer": "Suurim eelis on see, et see tasuta laiendus võimaldab teil oma sõpradega Netflixi vaatamispidu korraldada, kulutamata peenraha. Lisaks tähendab selle ülemaailmne kättesaadavus, et saate voogesitada koos lähedastega kõikjal. Veenduge, et Netflixi teenused oleksid juurdepääsetavad kõigis kohtades, mida kavatsete oma vaatamispeole kaasata. Kuigi liitumiseks peavad kõik osalejad asuma samas riigis, on VPN-teenustega lahendus, mis võimaldab eri piirkondades asuvatel inimestel oma riigi seadeid kohandada ja osaleda."
         }
       ]
     }
@@ -94,38 +94,33 @@
     "accordian": [
       {
         "id": "f1",
-        "question": "Kuidas Netflix Party laiendus töötab?",
-        "answer": "Netflix Party laiendus võimaldab kasutajatel oma Netflixi vooge sõpradega sünkroonida, luues virtuaalse vaatamispeo. Kasutajad saavad korraldada pidusid või nendega liituda ning vaadata koos saateid ja filme reaalajas."
+        "question": "Kuidas ma saan Netflixi peo algatada?",
+        "answer": "Omaenda Netflixi vaatamispeo alustamiseks veenduge, et oleksite lisanud Netflix Party laienduse toimivasse Interneti-brauserisse, nagu Google Chrome või Microsoft Edge. Pärast seda, kui kasutate kiiret juurdepääsu Netflix Party laiendust, logige sisse oma Netflixi kontole, valige oma ideaalne film või sari ja klõpsake nuppu Esita. Seejärel puudutage Netflixi peo laienduse sümbolit ja valige kordumatu tervitusühenduse loomiseks „Alusta PIDU”. Jagage seda tervitust oma sõpradega, et pidu käima lükata."
       },
       {
         "id": "f2",
-        "question": "Kas Netflix Party laiendus on tasuta kasutamiseks?",
-        "answer": "Jah, Netflix Party laiendus on allalaadimiseks ja kasutamiseks täiesti tasuta. Kasutajad saavad nautida sünkroonitud voogesitust sõpradega ilma lisatasuta."
+        "question": "Kas igal osalejal peab Netflixi peol osalemiseks olema Netflixi tellimus?",
+        "answer": "Tõepoolest, igal osalejal, kes soovib Netflixi vaatamispeoga liituda, peab olema aktiivne Netflixi tellimus. See on vaatamispeo ajal voogesituse sisule täieliku juurdepääsu tagamiseks ülioluline."
       },
       {
         "id": "f3",
-        "question": "Kas valvepeol on osalejate arvule mingeid piiranguid?",
-        "answer": "Ei, Netflix Party vaatamispeol osalejate arv ei ole piiratud. Kasutajad saavad kutsuda nii palju sõpru, kui neile meeldib, mistõttu on see ideaalne suurte rühmade jaoks."
+        "question": "Kas ma saan Netflixi peol taasesitust hallata?",
+        "answer": "Kindlasti! Saate juhtida Netflixi vaatamispeo taasesituse juhtelemente, valides suvandi „AINULT MINU JUHTIMINE”. Lisaks annab see ohjad teie äranägemise järgi peatamiseks, mängimiseks, vahelejätmiseks ja tagasikerimiseks. Osalejad saavad siiski muuta oma individuaalseid seadeid, nagu subtiitrid, keel ja helitugevus."
       },
       {
         "id": "f4",
-        "question": "Kas ma saan Netflixi peo ajal taasesitust juhtida?",
-        "answer": "Jah, hostidel on võimalus lubada täielik kontroll taasesituse seadete üle, sealhulgas esitamine, peatamine, edasi- ja tagasikerimine. Osalejad saavad siiski kohandada oma individuaalseid heli-, keele- ja subtiitrite seadeid."
+        "question": "Kui suur on maksimaalne külaliste arv, keda saan Netflixi peole kutsuda?",
+        "answer": "Hämmastav on see, et Netflixi vaatamispeole oodata ei ole külastajate arvul piiri. Levitage tervitus paljudele kaaslastele, tagades laiaulatusliku ja põhjaliku ülevaate ülevaatest."
       },
       {
         "id": "f5",
-        "question": "Kas Netflix Party laiendus on ülemaailmselt saadaval?",
-        "answer": "Jah, Netflix Party laiendus on saadaval kogu maailmas. Kasutajad saavad korraldada vaatamispidusid sõpradega kõikjalt maailmast, eeldusel, et Netflix on nende riigis kättesaadav. Lisaks saavad osalejad kasutada VPN-teenuseid teistes riikides korraldatavate pidudega liitumiseks."
+        "question": "Kuidas külalised Netflixi peoga liituvad?",
+        "answer": "Netflixi vaatamispeoga liitumine on lihtne: osalejad peavad installima ja kinnitama oma brauseri tööriistaribale laienduse Netflix Party, sarnaselt hostiga. Kui nad on Netflixi sisse loginud, lisab nad võõrustaja jagatud kutselingil klõpsates sujuvalt vaatamispeole."
       },
       {
         "id": "f6",
-        "question": "Kuidas alustada Netflixi grupivaatamispidu?",
-        "answer": "Netflixi grupivaatamispeo algatamiseks valige platvorm nagu Teleparty (endine Netflix Party) või Scener ja installige selle brauseri laiendus. Pärast installimist logige sisse Netflixi, valige oma eelistatud sisu ja käivitage pidu laienduse kaudu. Liitumiseks jagage loodud linki sõpradega. Nautige koos vaatamist integreeritud vestlusfunktsioonidega, et saada lõbus ja interaktiivne kogemus!"
-      },
-      {
-        "id": "f7",
-        "question": "Kuidas saan oma Netflixi grupivaatamispeost maksimumi võtta?",
-        "answer": "Oma Netflixi grupivaatamispeost maksimaalse kasu saamiseks järgige neid nõuandeid: valige oma sisu eelnevalt, planeerige pidu ja jagage üksikasju varakult, kasutage vestlust aktiivselt aruteludeks ja reaktsioonideks, tehke pikkade vaatamiste ajal pause, kohandage taasesituse juhtelemente sujuvaks kogemuseks. , ja küsige pärast tagasisidet, et tulevasi pidusid paremaks muuta."
+        "question": "Kas Netflixi peolaiendus on ülemaailmselt kättesaadav?",
+        "answer": "Netflix Party laiendus on mõeldud ülemaailmseks kasutamiseks, olenevalt Netflixi teenuste saadavusest osaleja asukohas. Erinevates piirkondades elavate inimeste jaoks võib riigi seadete sünkroonimiseks olla vajalik VPN, mis võimaldab kõigil vaatamispeol osaleda."
       }
     ]
   },
@@ -135,7 +130,7 @@
     "blog": "Blogi",
     "popularSearches": "Populaarsed otsingud",
     "disclaimer": "Vastutusest loobumine",
-    "disclaimerContent": "Netflix on Netflix, Inc. kaubamärk. See veebisait",
+    "disclaimerContent": "Netflix on ettevõtte Netflix, Inc. kaubamärk. See veebisait",
     "footerTags": [
       "Netflixi vaatamispidu, Netflixi pidu, Netflixi peopikendus, Netflixi peo Chrome'i laiendus, Netflixi kellapidu, Netflixi pidu, kuidas Netflixi pidu kasutada, Netflixi pidusid teha, Netflixi kellapidu, Netflixi peo laiendus, Chrome'i laiendus Netflixi peol alla laadida, Installige Netflixi Chrome'i laiendus"
     ]

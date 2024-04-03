@@ -6,85 +6,85 @@
   "section": {
     "first": {
       "heading": "NETFLIX ÉS NYILVÁNOSSÁG BARÁTAIVAL A NETFLIX PARTYN ÁLTAL.",
-      "html": "Ingyen búcsút az elavult streamelési módszerektől, és a Netflix Party bővítmény ingyenes telepítésével ölelje fel a barátaival való nézés modern módját, a távolságtól függetlenül. Ezzel az innovatív eszközzel a Netflix sorozatok és filmek széles választékát élvezheti, tökéletesen szinkronizálva barátaival szerte a világon. Akár vendéglátó, akár csatlakozik, az óraparti hibátlanul szinkronban marad, nem befolyásolják a szünetek vagy kihagyások. Ezenkívül élvezze a kiváló HD-minőségű streamelést és a gyors pufferelési sebességet a páratlan megtekintési élmény érdekében. Ne habozzon tovább; töltse le a bővítményt még ma. Ezenkívül fedezze fel a globális óraparti létrehozásának vagy az azon való részvételnek egyszerű folyamatát, ingyenesen.",
+      "html": "Mondjon búcsút a régimódi streamelési módszereknek, és üdvözölje a csoportos megtekintés új korszakát a Netflix Party bővítménnyel, amely ingyenesen elérhető. Ezzel az élvonalbeli funkcióval Ön és barátai, bárhol is legyenek, a Netflix Party műsorok és filmek széles választékát nézhetik tökéletes harmóniában. Függetlenül attól, hogy Ön a házigazda, vagy egyszerűen csak csatlakozik, a megtekintési élmény tökéletesen igazodik, a szünet vagy a kihagyás megszakítása nélkül. Tapasztalja meg a streamelést lenyűgöző HD minőségben, és élvezze a gyors pufferelési sebességet a megtekintési élmény érdekében. Ne várjon tovább; szerezze be a kiterjesztést most. Ezenkívül megtudhatja, milyen egyszerű ingyenesen elindítani egy világméretű órapartit, vagy csatlakozni hozzá.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
-      "heading": "A Netflix Party Extension használata",
-      "subHeading": "Biztosan tapasztaltad, hogy Netflixet néztél emberekkel ugyanabban a szobában és ugyanazon a képernyőn. Azonban soha nem gondoltad volna, hogy a köztetek lévő távolság ellenére együtt streamelhetsz velük? Ezért most néhány egyszerű lépésben órapartit hozhat létre velük, függetlenül attól, hogy mekkora távolság van köztetek.",
+      "heading": "Útmutató a Netflix Party-bővítmény használatához",
+      "subHeading": "Sokan ismerik azt az élményt, amikor egy Netflix-műsort egyetlen képernyőn osztanak meg barátaikkal, ugyanabban a szobában. Mégis, annak ellenére, hogy mérföldekre vagyunk egymástól, a gondolat, hogy együtt élvezzünk egy streamelést, valaha távoli álomnak tűnhetett. Mára ennek a szakadéknak az áthidalása valósággá vált. Egyszerűen, néhány kattintással összeállíthat egy órapartit, így biztosítva, hogy a távolság többé ne akadályozza a közös megtekintési pillanatokat",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
       "accordian": [
         {
           "id": "1",
           "question": "TELEPÍTSE A KIEGÉSZÍTŐT",
-          "answer": "Az első lépés a Netflix party-bővítmény letöltése. <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Kattintson itt</u></a> az ingyenes, felhasználóbarát bővítmény telepítéséhez. Ezenkívül győződjön meg arról, hogy rendelkezik a Google Chrome vagy a Microsoft Edge böngészővel a telepítéshez. Ezenkívül a bővítmény kompatibilis a Chromebookokkal, a macOS-sel, a laptopokkal, a Windows-szal és a számítógépekkel."
+          "answer": "Kezdje a Netflix Party bővítmény telepítésével. <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Kattintson ide</u></a> a ingyenesen letöltheti a bővítményt, amely az egyszerű használatáról híres. Ezenkívül fontos, hogy a telepítéshez a Google Chrome vagy a Microsoft Edge legyen a böngészője. Ez a bővítmény zökkenőmentesen működik számos eszközzel, beleértve a Chromebookokat, macOS rendszereket, laptopokat, Windows PC-ket és más számítógépeket."
         },
         {
           "id": "2",
           "question": "RÚZZA A KIEGÉSZÍTŐT",
-          "answer": "Ezután rögzítenie kell a bővítményt az eszköztárhoz. Ha azonban nem látja a Netflix party-bővítmény ikonját, kattintson a jobb sarokban lévő rejtvény ikonra a böngésző tetején. Ott találja a kiterjesztés ikonját, így rögzítheti."
+          "answer": "Ezt követően csatolnia kell a bővítményt az eszköztárhoz. Ha a Netflix Party bővítmény ikonja nem látható azonnal, egyszerűen érintse meg a böngésző jobb felső sarkában található puzzle ikont. Itt megtalálja a bővítmény ikonját, amely lehetővé teszi annak egyszerű rögzítését."
         },
         {
           "id": "3",
           "question": "INDÍTSA EL A NETFLIXINGET",
-          "answer": "Most nyissa meg a Netflixet, és jelentkezzen be fiókjába. Ne feledje, hogy egy megtekintő parti létrehozásához egyéni előfizetésre van szüksége a Netflixen. Ezen túlmenően az összes nézőpárti tagnak külön Netflix-előfizetésre van szüksége a csatlakozáshoz."
+          "answer": "Ezután lépjen a Netflix oldalára, és jelentkezzen be fiókjába. Ne feledje, hogy saját Netflix-előfizetéssel kell rendelkeznie egy megtekintési parti megszervezéséhez, és minden résztvevőnek rendelkeznie kell saját Netflix-előfizetéssel is, hogy csatlakozhasson."
         },
         {
           "id": "4",
           "question": "KERESÉS, BEÁLLÍTÁS, JÁTSZÁS",
-          "answer": "Ezenkívül keresse meg kedvenc Netflix-műsorát vagy filmjét. Vagy kereshet bármilyen más videót, amelyet meg szeretne nézni barátaival, és lejátszhatja."
+          "answer": "Ezután keresse meg kedvenc Netflix-sorozatát, filmjét vagy videóját, amelyet át szeretne adni társainak, és kezdje el játszani."
         },
         {
           "id": "5",
           "question": "HOZZÁ LÉTREHOZÁSA A NETFLIX ÓRA KÉSZÜLÉKET",
-          "answer": "Az utolsó lépéshez kattintson a rögzített bővítmény ikonjára. Megnyílik egy kis előugró ablak, melynek neve „NÉZÉS PARTY” a „BULI INDÍTÁSA” gombbal. Kattintson erre a gombra, hogy meghívó linket kapjon a megtekintési partira, amelyet megoszthat barátaival."
+          "answer": "Végül kattintson a korábban rögzített bővítmény ikonjára. Megjelenik egy kis felugró ablak „CREATE A WATCH PARTY” címmel, és megjelenik egy „START A PARTY” gomb. Aktiválja ezt a gombot, hogy meghívó linket hozzon létre az órapartihoz, amely készen áll arra, hogy megoszthassa barátaival."
         },
         {
           "id": "6",
-          "question": "OSZD MEG AZ ÖRÖMET",
-          "answer": "Sikeresen létrehoztál egy zökkenőmentes Netflix Watch Partyt. Ezért ossza meg a generált meghívó URL-t az összes barátjával, akit szeretne a megtekintési bulin."
+          "question": "TERJESZD A BOLDOGSÁGOT",
+          "answer": "Most könnyedén létrehozta a Netflix Watch Party-t. Folytassa a létrehozott meghívó link megosztásával azokkal az ismerőseivel, akiket be szeretne vonni a megtekintési partiba."
         }
       ]
     },
     "three": {
-      "heading": "HOGYAN KELL CSATLAKOZNI??",
-      "subHeading": "Nagyon egyszerű és könnyű csatlakozni a Netflix Partyhoz. Mindazonáltal ugyanazt az indulási eljárást kell követnie, mint egy óraparti létrehozásánál. Ezért telepítenie és rögzítenie kell ezt a Chrome-bővítményt, majd ezt követően jelentkezzen be Netflix-fiókjába. Ezenkívül kérjük, vegye figyelembe, hogy a megtekintési partihoz való csatlakozáshoz egyéni Netflix-előfizetéssel kell rendelkeznie. Mindezek után csak rá kell kattintania az ismerőse által kapott meghívó URL-re. És Voila, a mérföldek ellenére elérted a valaha volt legjobb órapartit.",
+      "heading": "HOGYAN KELL CSATLAKOZNI……?",
+      "subHeading": "A Netflix Party-n való részvétel zökkenőmentes és egyszerű folyamat, amely tükrözi az óraparti kezdeményezésének beállítási lépéseit. Először telepítse a szükséges Chrome-bővítményt, rögzítse az eszköztárhoz, majd jelentkezzen be Netflix-fiókjába – ez az előfeltétele annak, hogy csatlakozzon bármely nézegetős partihoz. Ne feledje, hogy ehhez az élményhez elengedhetetlen a Netflix-előfizetés. A kezdeti lépések után kattintson a barátja által biztosított meghívó hivatkozásra. Így készen állsz egy izgalmas óraparti kalandba merülni, közelebb hozva a távoli barátokhoz.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
       "accordian": [
         {
           "id": "t1",
           "question": "KORLÁTOZATLAN PARTYTAGOK",
-          "answer": "Tudtad, hogy nincs korlátozva az, hogy hány ember csatlakozhat a megtekintési partijához? Ezzel a <b>Netflix Party</b> bővítménnyel annyi embert nevezhet be, amennyit csak szeretne. Ezért nem számít, hányan szeretnének részt venni a megtekintési partiján, egyszerűen bejuthat a meghívó URL-címének megosztásával."
+          "answer": "A Netflix Party-bővítmény korlátlan vendéglistát kínál a parti nézéshez. Ezenkívül annyi résztvevőt hívhat meg, amennyit csak szeretne. Ez a rugalmasság biztosítja, hogy senkinek ne kelljen kimaradnia; ossza meg a meghívó URL-jét, és mindenki, akit fel szeretne venni, zökkenőmentesen csatlakozhat a megtekintési partihoz."
         },
         {
           "id": "t2",
           "question": "IRÁNYÍTSA A NETFLIX WATCH PARTY-T",
-          "answer": "Teljes mértékben kézhez veheti az óraparti beállításait. Sőt, a teljes irányítást a kezében is engedélyezheti, ha zöldre fordítja a „CSAK I HAVE CONTROL” gombot, és átveszi az irányítást az óraparti felett. Ezért Ön jogosult a Lejátszás, Szünet, Előre és Visszatekerés beállítások felett. Ezenkívül vegye figyelembe, hogy a rendszerbeállítások továbbra is a figyelőcsapat tagjainál maradnak. Emiatt az összes nézőpáros továbbra is módosíthatja hang-, nyelv- és feliratbeállításait."
+          "answer": "Szerezze meg a teljes irányítást az óraparti felett az 'ONLY I HAVE CONTROL' kiemelés aktiválásával, amely, ha zöldre vált, elit parancsot ad a Lejátszás, Szünet, Előre és Visszatekerés képességei felett. A központosított vezérlés ellenére az óraparti minden résztvevője továbbra is módosíthatja rendszerbeállításait, lehetővé téve számukra a hang-, nyelv- és feliratbeállítások tetszés szerinti testreszabását."
         },
         {
           "id": "t3",
           "question": "ÉLVEZZE AZ ÉLŐ CSOPORTOS CSEVETÉST",
-          "answer": "Az óraparti csoportos csevegési funkcióján keresztül csevegve új szintre emelheti az órapartit. Az élő csevegés azonban megjelenik a figyelőparti oldalsávjában. Egyes streamelés közben reakciókat küldhet adott jelenetekre. Ezért nincs is jobb ennél, ha jobban kötődik szeretteihez. Csevegés közben streamelsz a partikon."
+          "answer": "Fokozza az óraparti szórakozását az óraparti oldalsávján található csoportos csevegés funkcióval. Ezzel az interaktív eszközzel azonnal megoszthatja gondolatait és reakcióit a jelenetekkel, ahogy azok kibontakoznak, így mindenki közelebb kerül egymáshoz a fizikai távolság ellenére. Tökéletes módszer a szeretteivel való összetartozás érzésének fokozására. Merüljön el a beszélgetésekben, és ossza meg reakcióit, miközben élvezi a streamelést, interaktívabb és élvezetesebb réteget adva az órapartihoz."
         },
         {
           "id": "t4",
           "question": "SZEMÉLYRE A NETFLIX PARTY",
-          "answer": "Lehetőséged van felhasználói profilod személyre szabására és személyessé tételére. Ezért választhat egy szórakoztató becenevet a profiljához. Ezenkívül kiválaszthat egy felhasználói ikont a beépített avatarok közül. A beceneved és a felhasználói ikonod azonban megjelenik a partikon és a csoportos csevegésedben."
+          "answer": "Felhasználói profilja személyre szabása egyszerű, lehetővé téve egyedi megjelenését. Válassz egy szeszélyes becenevet, és párosítsd egy jellegzetes avatárral a rendelkezésre álló választékból. Ezek a személyes érintések, a beceneved és az avatarod megjelennek az órapartik és a csoportos csevegés során, különleges elemet adva interakcióidhoz, és kiemelve őket."
         },
         {
           "id": "t5",
           "question": "Zökkenőmentesen SZinkronizálás",
-          "answer": "Nem számít, hol van Ön vagy szerettei. A Netflixet velük szinkronban streamelheti. A bővítmény zökkenőmentes órapartikat hoz létre tökéletes szinkronnal. Ezért a szinkronizálás még kihagyás vagy szüneteltetés közben is érintetlen marad. Így mindannyian együtt, valós időben nézhetik."
+          "answer": "Ha ezt a bővítményt használja a Netflix streamelésére, az Ön tartózkodási helye, illetve a barátai és családtagjai tartózkodási helye irrelevánssá válik. Biztosítja a zökkenőmentes, tökéletesen szinkronban lévő partikat, és fenntartja ezt a szinkronizálást a szünetek és kihagyások során is. Így mindenki részt vehet a közös megfigyelésben, valós időben, függetlenül attól, hogy hol van."
         },
         {
           "id": "t6",
           "question": "VÉGSŐ HD VIDEÓÉLMÉNY",
-          "answer": "Ön is bágyadt figyelő és Netflix-szerető? Akkor imádni fog egy Netflix Partyt a fantasztikus videóminőséggel. Ezért pontosan ezt kínáljuk Önnek. Mostantól HD minőségű videót élvezhet a gyors pufferelési sebességgel minden videójában. Ezért ne várjon tovább, és kezdje el most telepíteni ezt az ingyenes eszközt, hogy stílusosan streamelhessen."
+          "answer": "Ha a Netflix mámoros nézése a mániája, és a kiváló videóminőségre vágyik, akkor a Netflix Party pontosan az, amiről hiányzott. Azért vagyunk itt, hogy ezt biztosítsuk. Ezzel az ajánlattal lenyűgöző HD minőségben és gyors pufferelési sebességgel élvezheti videóit. Szóval nincs több várakozás. Ezért indítsa el stílusos streamelési utazását az ingyenes eszköz telepítésével még ma."
         },
         {
           "id": "t7",
           "question": "INGYENES ÉS VILÁGSZERTE",
-          "answer": "A legjobb az egészben az, hogy a kiterjesztés teljesen ingyenes, és nem kell semmibe sem fektetni, hogy barátaival együtt élvezhesse a Netflix nézegető partit. Ezen kívül ez a bővítmény világszerte elérhető. Ezért a világ bármely sarkából élvezheti a streamelést szeretteivel. Ügyeljen azonban arra, hogy a Netflix minden olyan országban elérhető legyen, ahol a partit rendezni kívánja. Bár az összes figyelőpárt tagnak ugyanabban az országban kell lennie, az emberek továbbra is használhatják a VPN-szolgáltatást, és megváltoztathatják országukat, ha egy másik országhoz tartoznak."
+          "answer": "A legnagyobb előny az, hogy ezzel az ingyenes bővítménnyel egy fillért sem költenél Netflix-nézőpartit rendezhetsz barátaiddal. Ezenkívül globális elérhetősége azt jelenti, hogy bárhonnan streamelhet szeretteivel. Győződjön meg arról, hogy a Netflix-szolgáltatások minden olyan helyen elérhetőek, ahol részt kívánnak venni a partikon. Bár a csatlakozáshoz minden résztvevőnek ugyanabban az országban kell lennie, van egy megoldás a VPN-szolgáltatásokkal a különböző régiókban élők számára az országbeállítások módosításához és a részvételhez."
         }
       ]
     }
@@ -94,38 +94,33 @@
     "accordian": [
       {
         "id": "f1",
-        "question": "Hogyan működik a Netflix Party bővítmény?",
-        "answer": "A Netflix Party bővítmény lehetővé teszi a felhasználók számára, hogy szinkronizálják Netflix streameiket a barátaikkal, így virtuális partit hoznak létre. A felhasználók partikat szervezhetnek vagy csatlakozhatnak hozzájuk, és együtt nézhetnek műsorokat és filmeket valós időben."
+        "question": "Hogyan kezdeményezhetek egy Netflix-partit?",
+        "answer": "Saját Netflix Watch Party indításához győződjön meg arról, hogy hozzáadta a Netflix Party bővítményt egy működőképes internetböngészőhöz, például a Google Chrome-hoz vagy a Microsoft Edge-hez. Miután ragaszkodott a Netflix Party bővítményhez a gyors hozzáférés érdekében, jelentkezzen be Netflix-fiókjába, válassza ki az ideális filmet vagy sorozatot, és nyomja meg a lejátszás gombot. Ezután érintse meg a Netflix Party bővítmény szimbólumát, és válassza a „Bulit indítása” lehetőséget, hogy egyedi üdvözlő kapcsolatot alakítson ki. Oszd meg ezt az üdvözlést a haverjaiddal, hogy beindíthasd a bulit."
       },
       {
         "id": "f2",
-        "question": "Ingyenesen használható a Netflix Party bővítmény?",
-        "answer": "Igen, a Netflix Party bővítmény teljesen ingyenesen letölthető és használható. A felhasználók további költségek nélkül élvezhetik a szinkronizált streamelést barátaikkal."
+        "question": "Minden résztvevőnek Netflix-előfizetéssel kell rendelkeznie, hogy részt vegyen egy Netflix-partin?",
+        "answer": "Valójában minden résztvevőnek, aki csatlakozni kíván egy Netflix Watch Party-hoz, aktív Netflix-előfizetéssel kell rendelkeznie. Ez kulcsfontosságú a streaming tartalomhoz való teljes hozzáféréshez a megtekintési parti során."
       },
       {
         "id": "f3",
-        "question": "Vannak-e korlátozások az óraparti résztvevőinek számára?",
-        "answer": "Nem, a Netflix Party-nézőpartin résztvevők száma nincs korlátozva. A felhasználók tetszőleges számú barátot hívhatnak meg, így ideális nagy csoportok számára."
+        "question": "Kezelhetem a lejátszást egy Netflix Party-n?",
+        "answer": "Biztosan! A Netflix Watch Party-n belül a lejátszásvezérlőket a „CSAK ÉN VAN IRÁNYOM” lehetőség kiválasztásával szabályozhatja. Sőt, ez átadja a gyeplőt a Szünet, Lejátszás, Átugrás és Visszatekerés tetszés szerint. A résztvevők továbbra is módosíthatják egyéni beállításaikat, például a feliratokat, a nyelvet és a hangerőt."
       },
       {
         "id": "f4",
-        "question": "Vezérelhetem a lejátszást Netflix Party közben?",
-        "answer": "Igen, a gazdagépeknek lehetőségük van a lejátszási beállítások teljes ellenőrzésére, beleértve a lejátszást, szünetet, előre- és visszatekerést. A résztvevők azonban továbbra is módosíthatják egyéni hang-, nyelv- és feliratbeállításaikat."
+        "question": "Maximum hány vendéget hívhatok meg egy Netflix-partira?",
+        "answer": "Csodálatos módon nincs korlátozva a Netflix Watch Party-n fogadható látogatók száma. Ossza meg az üdvözletet sok társával, garantálva a széles körű és átfogó felmérési betekintést."
       },
       {
         "id": "f5",
-        "question": "Globálisan elérhető a Netflix Party bővítmény?",
-        "answer": "Igen, a Netflix Party kiterjesztése világszerte elérhető. A felhasználók a világ bármely pontjáról rendezhetnek megtekintési partikat barátaikkal, feltéve, hogy a Netflix elérhető az adott országukban. Ezenkívül a résztvevők VPN-szolgáltatások segítségével csatlakozhatnak más országokban rendezett partikhoz."
+        "question": "Hogyan csatlakozhatnak a vendégek egy Netflix Partyhoz?",
+        "answer": "A Netflix Watch Partyhoz való csatlakozás egyszerű: a résztvevőknek telepíteniük kell és rögzíteniük kell a Netflix Party bővítményt a böngésző eszköztárához, hasonlóan a gazdagéphez. Miután bejelentkeztek a Netflixbe, a házigazda megosztott meghívó linkjére kattintva zökkenőmentesen hozzáadják őket a megtekintési bulihoz."
       },
       {
         "id": "f6",
-        "question": "Hogyan indíthatok el egy Netflix Group Watch Party-t?",
-        "answer": "Netflix Group Watch Party indításához válasszon olyan platformot, mint a Teleparty (korábban Netflix Party) vagy a Scener, és telepítse a böngészőbővítményét. A telepítés után jelentkezzen be a Netflixbe, válassza ki a kívánt tartalmat, és indítsa el a bulit a bővítményen keresztül. Oszd meg a generált linket ismerőseiddel a csatlakozáshoz. Élvezze a közös nézést az integrált csevegési funkciókkal a szórakoztató, interaktív élmény érdekében!"
-      },
-      {
-        "id": "f7",
-        "question": "Hogyan hozhatom ki a legtöbbet a Netflix Group Watch Party-mból?",
-        "answer": "Ha a legtöbbet szeretné kihozni a Netflix Group Watch Party-ból, kövesse az alábbi tippeket: válassza ki a tartalmat előre, tervezze meg a bulit és ossza meg a részleteket korán, aktívan használja a chat beszélgetéseket és reakciókat, tartson szünetet a hosszú nézések során, testreszabhatja a lejátszásvezérlőket a zökkenőmentes élmény érdekében , és utána kérjen visszajelzést a jövőbeli bulik javítása érdekében."
+        "question": "Globálisan elérhető a Netflix Party-bővítmény?",
+        "answer": "A Netflix Party bővítményt globális használatra tervezték, attól függően, hogy a résztvevő tartózkodási helyén rendelkezésre állnak-e a Netflix-szolgáltatások. A különböző régiókban élők számára szükség lehet VPN-re az országbeállítások szinkronizálásához, így mindenki részt vehet a megtekintési partiban."
       }
     ]
   },

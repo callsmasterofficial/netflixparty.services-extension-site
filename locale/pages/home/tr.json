@@ -6,85 +6,85 @@
   "section": {
     "first": {
       "heading": "NETFLIX VE NETFLIX PARTY ARACILIĞIYLA ARKADAŞLARINIZLA DAHİLİN.",
-      "html": "Netflix Party uzantısını ücretsiz olarak yükleyerek modası geçmiş yayın yöntemlerine veda edin ve mesafe ne olursa olsun arkadaşlarınızla izlemenin modern yolunu benimseyin. Bu yenilikçi araç, dünyanın dört bir yanındaki arkadaşlarınızla mükemmel şekilde senkronize edilmiş çok çeşitli Netflix dizilerinin ve filmlerinin keyfini çıkarmanızı sağlar. İster düzenliyor olun, ister katılıyor olun, izleme partisi duraklamalardan veya atlamalardan etkilenmeden kusursuz bir şekilde senkronize kalır. Ayrıca, benzersiz bir izleme deneyimi için üstün HD kalitesinde akışın ve hızlı ara belleğe alma hızlarının keyfini çıkarın. Artık tereddüt etmeyin; Uzantıyı bugün indirin. Ek olarak, hiçbir ücret ödemeden küresel bir izleme partisi oluşturmanın veya katılmanın basit sürecini keşfedin.",
+      "html": "Eski moda yayın yöntemlerine elveda deyin ve ücretsiz olarak sunulan Netflix Party uzantısıyla yeni bir grup izleme çağına hoş geldiniz. Bu son teknoloji özellik, sizin ve arkadaşlarınızın, nerede olurlarsa olsunlar, çok çeşitli Netflix Parti şovlarını ve filmlerini mükemmel bir uyum içinde izlemenize olanak tanır. İster toplantı sahibi olun ister yalnızca katılın, izleme deneyimi duraklatma veya atlama nedeniyle herhangi bir kesinti olmadan mükemmel şekilde uyumlu kalır. Çarpıcı HD kalitesinde akış deneyimini yaşayın ve izleme deneyimi için yüksek ara belleğe alma hızlarının keyfini çıkarın. Daha fazla beklemeyin; Uzantıyı şimdi edinin. Ayrıca dünya çapında ücretsiz bir izleme partisi başlatmanın veya katılmanın ne kadar kolay olduğunu öğrenin.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
-      "heading": "Netflix Parti Uzantısı nasıl kullanılır?",
-      "subHeading": "Netflix'i insanlarla aynı odada, aynı ekranda izleme deneyimini mutlaka yaşamışsınızdır. Ancak aranızdaki mesafeye rağmen onlarla birlikte yayın yapabileceğinizi hiç düşünmez miydiniz? Bu nedenle artık aranızdaki mesafe ne olursa olsun, onlarla birkaç basit adımda bir izleme partisi oluşturabilirsiniz.",
+      "heading": "Netflix Parti Uzantısını Kullanma Yönergeleri",
+      "subHeading": "Birçok kişi, bir Netflix şovunu tek bir ekranda aynı odadaki arkadaşlarıyla paylaşma deneyimine aşinadır. Ancak kilometrelerce uzakta olmalarına rağmen, birlikte bir yayın seansının keyfini çıkarma düşüncesi bir zamanlar uzak bir hayal gibi görünebilirdi. Artık bu açığı kapatmak bir gerçek haline geldi. Yalnızca birkaç tıklamayla kolayca bir izleme partisi düzenleyebilir, böylece mesafelerin artık paylaşılan izleme anlarının önünde durmamasını sağlayabilirsiniz.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
       "accordian": [
         {
           "id": "1",
           "question": "UZATMAYI YÜKLEYİN",
-          "answer": "İlk adım Netflix parti uzantısını indirmektir <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Tıklayın Ücretsiz, kullanıcı dostu uzantıyı yüklemek için buraya</u></a> gidin. Ayrıca, yüklemek için lütfen Google Chrome veya Microsoft Edge tarayıcınızın olduğundan emin olun. Ayrıca uzantı Chromebook'lar, macOS, Dizüstü Bilgisayarlar, Windows ve Bilgisayarlarla uyumludur."
+          "answer": "Netflix Party uzantısını yükleyerek başlayın. <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Burayı tıklayın</u></a> Kullanım kolaylığıyla tanınan uzantıyı ücretsiz olarak indirin. Ayrıca, kurulum amacıyla tarayıcınız olarak Google Chrome veya Microsoft Edge'in olması önemlidir. Bu uzantı, Chromebook'lar, macOS sistemleri, dizüstü bilgisayarlar, Windows PC'ler ve diğer bilgisayarlar dahil olmak üzere çeşitli cihazlarla sorunsuz bir şekilde çalışır."
         },
         {
           "id": "2",
           "question": "Uzantıyı PIN'le",
-          "answer": "Daha sonra uzantıyı araç çubuğuna sabitlemeniz gerekir. Ancak Netflix parti uzantısı simgesini görmüyorsanız tarayıcının sağ üst köşesindeki bulmaca simgesine tıklayın. Uzantı simgesini orada bulacaksınız, böylece sabitleyebilirsiniz."
+          "answer": "Bunu takiben uzantıyı araç çubuğunuza eklemeniz gerekir. Netflix Party uzantısının simgesi hemen görünmüyorsa tarayıcınızın sağ üst köşesinde bulunan bulmaca simgesine dokunmanız yeterlidir. Burada, kolayca sabitlemenize olanak tanıyan uzantının simgesini bulacaksınız."
         },
         {
           "id": "3",
           "question": "NETLIX'E BAŞLAYIN",
-          "answer": "Şimdi Netflix'i açın ve hesabınıza giriş yapın. İzleme partisi oluşturmak için Netflix'te bireysel aboneliğinizin olması gerektiğini lütfen unutmayın. Üstelik tüm izleme partisi üyelerinin katılmak için ayrı Netflix aboneliklerine ihtiyaçları var."
+          "answer": "Ardından Netflix'e gidin ve hesabınızda oturum açın. Bir izleme partisine ev sahipliği yapmak için kendi Netflix aboneliğinizin olması gerektiğini ve katılabilmek için her katılımcının kendi Netflix aboneliğine de sahip olması gerektiğini unutmayın."
         },
         {
           "id": "4",
           "question": "ARAYIN, AYARLAYIN, OYNATIN",
-          "answer": "Ayrıca en sevdiğiniz Netflix şovunu veya filmini arayın. Veya arkadaşlarınızla keyfini çıkarmak istediğiniz başka bir videoyu arayabilir ve oynatabilirsiniz."
+          "answer": "Ardından lütfen arkadaşlarınıza aktarmak istediğiniz favori Netflix dizisini, filmini veya videosunu arayın ve oynatmaya başlayın."
         },
         {
           "id": "5",
           "question": "NETFLIX İZLEME PATRİNİ OLUŞTURUN",
-          "answer": "Son adım için sabitlenmiş uzantı simgesine tıklayın. \"PARTİ BAŞLAT\" adlı düğmeyle birlikte \"İZLEME PARTİSİ OLUŞTUR\" adlı küçük bir açılır pencere açılacaktır. Arkadaşlarınızla paylaşabileceğiniz izleme partisine davet bağlantısını almak için bu düğmeye tıklayın."
+          "answer": "Son olarak, önceden sabitlenmiş uzantı simgesine tıklayın. “PARTİ BAŞLAT” adlı bir düğmenin görüntülendiği “BİR İZLEME PARTİSİ OLUŞTUR” başlıklı küçük bir açılır pencere açılacaktır. Arkadaşlarınızla paylaşmaya hazır olan izleme partiniz için bir davet bağlantısı oluşturmak için bu düğmeyi etkinleştirin."
         },
         {
           "id": "6",
-          "question": "MUTLULUĞU PAYLAŞIN",
-          "answer": "Artık sorunsuz bir Netflix İzleme Partisini başarıyla oluşturdunuz. Bu nedenle oluşturulan davet URL'sini izleme partisinde olmasını istediğiniz tüm arkadaşlarınızla paylaşın."
+          "question": "MUTLULUĞU YAYIN",
+          "answer": "Artık zahmetsizce bir Netflix İzleme Partisi kurdunuz. Oluşturduğunuz davet bağlantısını izleme partisine dahil etmek istediğiniz arkadaşlarınızla paylaşmaya devam edin."
         }
       ]
     },
     "three": {
-      "heading": "NASIL KATILINIR?",
-      "subHeading": "Netflix Partisine katılmak çok basit ve zahmetsiz. Ancak bir izleme partisi oluştururken uyguladığınız başlangıç ​​prosedürünün aynısını izlemelisiniz. Bu nedenle, bu krom uzantısını kurup sabitlemeniz ve ardından Netflix hesabınıza giriş yapmanız gerekir. Üstelik izleme partisine katılabilmek için bireysel Netflix aboneliğinizin olması gerektiğini lütfen unutmayın. Tüm bunlardan sonra arkadaşınızın aldığı davet URL'sine tıklamanız yeterli. Ve Voila, kilometrelere rağmen şimdiye kadarki en iyi izleme partisine ulaştın.",
+      "heading": "NASIL KATILINIR…….?",
+      "subHeading": "Netflix Partisine katılmak, izleme partisi başlatmanın kurulum adımlarını yansıtan sorunsuz ve basit bir süreçtir. Gerekli Chrome uzantısını yükleyip araç çubuğunuza sabitleyerek başlayın, ardından herhangi bir izleme partisine katılmanın ön koşulu olan Netflix hesabınıza giriş yapın. Netflix aboneliğine sahip olmanın bu deneyim için şart olduğunu unutmayın. Bu ilk adımlardan sonra arkadaşınızın verdiği davet bağlantısına tıklayın. İşte böyle, sizi uzaktan arkadaşlarınıza yaklaştıracak heyecan verici bir parti izleme macerasına dalmaya hazırsınız.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
       "accordian": [
         {
           "id": "t1",
           "question": "SINIRSIZ İZLE PARTİ ÜYELERİ",
-          "answer": "İzleme partinize kaç kişinin katılabileceğinin bir sınırı olmadığını biliyor muydunuz? Bu <b>Netflix Partisi</b> uzantısıyla izleme partinize istediğiniz kadar kişiyi dahil edebilirsiniz. Bu nedenle izleme partinize kaç kişi katılmak isterse isteyin, yalnızca davet URL'sini onlarla paylaşarak onları da partinize dahil edebilirsiniz."
+          "answer": "Netflix Party uzantısı, izleme partiniz için sınırsız bir davetli listesi sunar. Üstelik dilediğiniz kadar katılımcı davet edebilirsiniz. Bu esneklik kimsenin kaçırmak zorunda kalmamasını sağlar; Davetiye URL'sini paylaşın ve dahil etmek istediğiniz herkes izleme partisine sorunsuz bir şekilde katılabilir."
         },
         {
           "id": "t2",
           "question": "NETFLIX İZLEME PARTİSİ'Nİ KONTROL EDİN",
-          "answer": "Parti izleme ayarlarının tam kontrolünü elinize alabilirsiniz. Üstelik “SADECE BENDE KONTROL VAR” butonunu yeşile çevirerek nöbet partisinin kontrolünü ele geçirerek tam kontrolü elinizde sağlayabilirsiniz. Bu nedenle Oynat, Duraklat, İleri ve Geri Sar ayarları üzerinde yetkiye sahipsiniz. Buna ek olarak, sistem ayarlarının hala nöbetçi parti üyelerinde kaldığını unutmayın. Bu nedenle tüm izleme partisi üyeleri ses, dil ve altyazı ayarlarını değiştirmeye devam edebilir."
+          "answer": "'YALNIZCA BENİM KONTROLÜM VAR' vurgusunu etkinleştirerek izleme partisi üzerinde tam kontrol sahibi olun; bu, yeşil olduğunda size Oynatma, Duraklatma, İleri ve Geri Sarma yetenekleri üzerinde elit bir kontrol kazandırır. Bu merkezi kontrole rağmen, her izleme partisi katılımcısı kendi sistem ayarlarını yapma olanağını korur; bu da ses, dil ve altyazı tercihlerini kendi beğenilerine göre özelleştirmelerine olanak tanır."
         },
         {
           "id": "t3",
           "question": "CANLI GRUP SOHBETİNİN KEYFİNİ ÇIKARIN",
-          "answer": "Seyir partisinin grup sohbet özelliği sayesinde sohbet ederek seyir partinizi bir üst seviyeye taşıyabilirsiniz. Ancak canlı sohbet, izleme partisinin kenar çubuğunda görünecektir. Birlikte yayın yaparken belirli sahnelere tepkiler gönderebilirsiniz. Bu nedenle sevdiklerinize daha fazla bağlı hissetmeniz için bundan daha iyi bir şey olamaz. İzleme partinizde yayın yaparken sohbet edin."
+          "answer": "İzleme partisinin kenar çubuğundaki grup sohbeti özelliğini kullanarak izleme partisi eğlencenizi artırın. Bu etkileşimli araç, sahneler ortaya çıktıkça düşüncelerinizi ve tepkilerinizi anında paylaşmanıza olanak tanır ve fiziksel mesafeye rağmen herkesi birbirine yakınlaştırır. Sevdiklerinizle birliktelik duygusunu geliştirmek için mükemmel bir yöntemdir. Yayının tadını çıkarırken sohbetlere dalın ve tepkilerinizi paylaşın; izleme partinize daha etkileşimli ve eğlenceli bir katman ekleyin."
         },
         {
           "id": "t4",
           "question": "NETFLIX PARTİ'Yİ KİŞİSELLEŞTİRİN",
-          "answer": "Kullanıcı profilinizi kişiselleştirme ve ona kişisel bir dokunuş verme seçeneğine sahip olursunuz. Bu nedenle profiliniz için eğlenceli bir takma ad seçebilirsiniz. Üstelik dahili avatarlardan bir kullanıcı simgesi de seçebilirsiniz. Ancak takma adınız ve kullanıcı simgeniz izleme partinizde ve grup sohbetinizde görünecektir."
+          "answer": "Kullanıcı profilinizi kişiselleştirmek kolaydır ve benzersiz dokunuşunuzu eklemenize olanak tanır. İlginç bir takma ad seçin ve bunu, sunulan seçeneklerden farklı bir avatarla eşleştirin. Takma adınız ve avatarınızdan oluşan bu kişisel dokunuşlar, izleme partileri ve grup sohbetleri sırasında görüntülenecek, etkileşimlerinize özel bir unsur ekleyecek ve onları öne çıkaracaktır."
         },
         {
           "id": "t5",
           "question": "KUSURSUZ SENKRONİZASYON",
-          "answer": "Sizin veya sevdiklerinizin nerede olduğu önemli değil. Netflix'i onlarla senkronize olarak yayınlayabilirsiniz. Uzantı, mükemmel senkronizasyonla sorunsuz izleme partileri oluşturur. Bu nedenle, atlarken veya duraklatırken bile senkronizasyon bozulmadan kalır. Böylece hepiniz gerçek zamanlı olarak birlikte izleyeceksiniz."
+          "answer": "Netflix'i izlemek için bu uzantıyı kullandığınızda, konumunuz veya arkadaşlarınızın ve ailenizin konumu önemsiz hale gelir. Duraklatmalar ve atlamalar sırasında bile bu senkronizasyonu sürdürerek kusursuz bir şekilde senkronize olan kesintisiz izleme partileri sağlar. Böylece herkes, nerede olursa olsun, gerçek zamanlı olarak aşamalı olarak birlikte gözlem yapma olanağına sahip olabiliyor."
         },
         {
           "id": "t6",
           "question": "EN ÜST DÜZEY HD VİDEO DENEYİMİ",
-          "answer": "Siz de bir art arda izleyici ve Netflix aşığı mısınız? O halde muhteşem video kalitesine sahip bir Netflix Partisini seveceksiniz. Bu nedenle size tam olarak bunu sunuyoruz. Artık tüm videolarınızda hızlı ara belleğe alma hızıyla HD kalitesinde video deneyimi yaşayabilirsiniz. Bu nedenle, daha fazla beklemeyin ve bu ücretsiz aracı hemen yüklemeye başlayın, böylece şık bir şekilde yayın yapabilirsiniz."
+          "answer": "Netflix'te art arda izleme takıntınız varsa ve mükemmel video kalitesine önem veriyorsanız, o zaman bir Netflix Partisi tam olarak özlediğiniz şeydir. Tam da bunu sağlamak için buradayız. Bu teklifle videolarınızın keyfini büyüleyici HD kalitesinde ve yüksek ara belleğe alma hızlarında çıkarabilirsiniz. Yani artık beklemeye gerek yok. Bu nedenle, bu ücretsiz aracı bugün yükleyerek şık yayın yolculuğunuza başlayın."
         },
         {
           "id": "t7",
           "question": "ÜCRETSİZ VE DÜNYA ÇAPINDA",
-          "answer": "En iyi yanı, uzantının tamamen ücretsiz olması ve arkadaşlarınızla Netflix izleme partisinin keyfini çıkarmak için herhangi bir yatırım yapmanıza gerek olmamasıdır. Bunun dışında bu uzantı dünya çapında mevcuttur. Bu nedenle dünyanın her köşesinden sevdiklerinizle yayın keyfini yaşayabilirsiniz. Ancak lütfen izleme partisi düzenlemeye çalıştığınız tüm ülkelerde Netflix'in mevcut olduğundan emin olun. Tüm izleme partisi üyelerinin aynı ülkede olması gerekse de, insanlar yine de VPN hizmetini kullanabilir ve başka bir ülkeye aitlerse ülkelerini değiştirebilirler."
+          "answer": "En büyük avantajı, bu ücretsiz uzantının, tek kuruş harcamadan arkadaşlarınızla Netflix izleme partisi düzenlemenize olanak sağlamasıdır. Üstelik küresel kullanılabilirliği, sevdiklerinizle birlikte her yerden yayın yapabileceğiniz anlamına gelir. İzleme partinize dahil etmeyi düşündüğünüz tüm konumlarda Netflix hizmetlerinin erişilebilir olduğundan emin olun. Katılmak için tüm katılımcıların aynı ülkede olması gerekli olsa da, farklı bölgelerde bulunanların ülke ayarlarını düzenleyip katılabilmeleri için VPN hizmetlerinde geçici bir çözüm bulunmaktadır."
         }
       ]
     }
@@ -94,38 +94,33 @@
     "accordian": [
       {
         "id": "f1",
-        "question": "Netflix Party uzantısı nasıl çalışır?",
-        "answer": "Netflix Party uzantısı, kullanıcıların Netflix akışlarını arkadaşlarıyla senkronize ederek sanal bir izleme partisi oluşturmalarına olanak tanır. Kullanıcılar partilere ev sahipliği yapabilir veya partilere katılabilir, gösterileri ve filmleri gerçek zamanlı olarak birlikte izleyebilir."
+        "question": "Netflix Partisini Nasıl Başlatabilirim?",
+        "answer": "Kendi Netflix İzleme Partinizi başlatmak için Netflix Party uzantısını Google Chrome veya Microsoft Edge gibi geçerli bir internet tarayıcısına eklediğinizden emin olun. Hızlı erişim için Netflix Party uzantısını kullanmaya devam ettikten sonra Netflix hesabınızda oturum açın, ideal filminizi veya dizinizi seçin ve oynat tuşuna basın. Ardından, Netflix Parti uzantısı sembolüne dokunun ve benzersiz bir karşılama bağlantısı oluşturmak için 'PARTİ BAŞLAT'ı seçin. Partiyi başlatmak için bu karşılamayı arkadaşlarınızla paylaşın."
       },
       {
         "id": "f2",
-        "question": "Netflix Party uzantısının kullanımı ücretsiz mi?",
-        "answer": "Evet, Netflix Party uzantısını indirmek ve kullanmak tamamen ücretsizdir. Kullanıcılar herhangi bir ek ücret ödemeden arkadaşlarıyla senkronize akışın keyfini çıkarabilir."
+        "question": "Netflix Partisine Katılmak İçin Her Katılımcının Netflix Aboneliği Olmalı mı?",
+        "answer": "Aslında Netflix İzleme Partisine katılmak isteyen her katılımcının aktif bir Netflix aboneliğine sahip olması gerekir. Bu, izleme partisi sırasında akış içeriğine tam erişim için çok önemlidir."
       },
       {
         "id": "f3",
-        "question": "İzleme partisine katılımcı sayısında herhangi bir kısıtlama var mı?",
-        "answer": "Hayır, Netflix Partisi izleme partisinde katılımcı sayısında herhangi bir sınırlama yoktur. Kullanıcılar istedikleri kadar arkadaşlarını davet edebilirler, bu da onu büyük gruplar için ideal kılar."
+        "question": "Netflix Partisinde Oynatmayı Yönetebilir miyim?",
+        "answer": "Kesinlikle! 'YALNIZCA KONTROL BENDE' seçeneğini belirleyerek Netflix İzleme Partisi içindeki oynatma kontrollerini yönetebilirsiniz. Üstelik bu, uygun gördüğünüz şekilde Duraklatma, Oynatma, Atlama ve Geri Sarma dizginlerini size verir. Katılımcılar altyazı, dil ve ses düzeyi gibi kendi kişisel ayarlarını değiştirmeye devam edebilir."
       },
       {
         "id": "f4",
-        "question": "Netflix Partisi sırasında oynatmayı kontrol edebilir miyim?",
-        "answer": "Evet, toplantı sahipleri oynatma, duraklatma, ileri ve geri sarma dahil oynatma ayarları üzerinde tam kontrol sağlama seçeneğine sahiptir. Ancak katılımcılar yine de kendi ses, dil ve altyazı ayarlarını yapabilirler."
+        "question": "Netflix Partisine Davet Edebileceğim Maksimum Konuk Sayısı Ne Kadardır?",
+        "answer": "Harika bir şekilde, Netflix İzleme Partinize davet edebileceğiniz ziyaretçi sayısında bir sınır yoktur. Selamlamanızı birçok arkadaşınıza dağıtarak geniş kapsamlı ve kapsamlı bir anket anlayışını garanti edin."
       },
       {
         "id": "f5",
-        "question": "Netflix Party uzantısı dünya çapında mevcut mu?",
-        "answer": "Evet, Netflix Party uzantısı dünya çapında kullanılabilir. Kullanıcılar, Netflix'in kendi ülkelerinde erişilebilir olması koşuluyla, dünyanın her köşesinden arkadaşlarıyla izleme partileri düzenleyebilir. Ayrıca katılımcılar, diğer ülkelerde düzenlenen partilere katılmak için VPN hizmetlerini kullanabilirler."
+        "question": "Konuklar Netflix Partisine nasıl katılır?",
+        "answer": "Netflix İzleme Partisine katılmak oldukça basittir: Katılımcıların Netflix Party uzantısını, sunucuya benzer şekilde yüklemeleri ve tarayıcı araç çubuklarına sabitlemeleri gerekir. Netflix'te oturum açtıktan sonra, sunucunun paylaşılan davet bağlantısına tıklamak onları sorunsuz bir şekilde izleme partisine ekler."
       },
       {
         "id": "f6",
-        "question": "Netflix Grup İzleme Partisini nasıl başlatırım?",
-        "answer": "Netflix Grup İzleme Partisi başlatmak için Teleparty (eski adıyla Netflix Party) veya Scener gibi bir platform seçin ve tarayıcı uzantısını yükleyin. Kurulumdan sonra Netflix'te oturum açın, tercih ettiğiniz içeriği seçin ve uzantı aracılığıyla partiyi başlatın. Katılmak için oluşturulan bağlantıyı arkadaşlarınızla paylaşın. Eğlenceli, etkileşimli bir deneyim için entegre sohbet özellikleriyle birlikte izlemenin tadını çıkarın!"
-      },
-      {
-        "id": "f7",
-        "question": "Netflix Grup İzleme Partimden en iyi şekilde nasıl yararlanabilirim?",
-        "answer": "Netflix Grup İzleme Partinizden en iyi şekilde yararlanmak için şu ipuçlarını izleyin: İçeriğinizi önceden seçin, partiyi planlayın ve ayrıntıları erken paylaşın, tartışmalar ve tepkiler için sohbeti aktif olarak kullanın, uzun izlemeler sırasında ara verin, sorunsuz bir deneyim için oynatma kontrollerini özelleştirin ve daha sonra gelecekteki tarafları iyileştirmek için geri bildirim isteyin."
+        "question": "Netflix Parti Uzantısına Dünyanın Her Yerinden Erişilebilir mi?",
+        "answer": "Netflix Party uzantısı, katılımcının bulunduğu yerde Netflix hizmetlerinin kullanılabilirliğine bağlı olarak küresel kullanım için tasarlanmıştır. Farklı bölgelerde bulunanlar için, ülke ayarlarını senkronize etmek ve herkesin izleme partisine katılmasını sağlamak için bir VPN gerekli olabilir."
       }
     ]
   },

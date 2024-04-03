@@ -6,85 +6,85 @@
   "section": {
     "first": {
       "heading": "NETFLIX A CHILL S PŘÁTELI PROSTŘEDNICTVÍM NETFLIX PARTY.",
-      "html": "Rozlučte se se zastaralými metodami streamování a osvojte si moderní způsob sledování se svými přáteli bez ohledu na vzdálenost instalací rozšíření Netflix Party zdarma. Tento inovativní nástroj vám umožní vychutnat si širokou škálu seriálů a filmů Netflix dokonale synchronizovaných s přáteli po celém světě. Ať už hostujete nebo se připojujete, sledovací párty zůstává bezchybně synchronizovaná, neovlivňuje ji pauzy nebo přeskakování. Navíc si dopřejte streamování ve špičkové kvalitě HD a vysoké rychlosti ukládání do vyrovnávací paměti pro jedinečný zážitek ze sledování. Neváhejte déle; stáhněte si rozšíření ještě dnes. Navíc objevte přímočarý proces vytvoření nebo účasti na globálním večírku bez nákladů.",
+      "html": "Rozlučte se se staromódními metodami streamování a přivítejte novou éru skupinového sledování s rozšířením Netflix Party, které je k dispozici zdarma. Tato špičková funkce umožňuje vám a vašim přátelům, ať jsou kdekoli, sledovat široký výběr pořadů a filmů Netflix Party v dokonalé harmonii. Ať už jste hostitelem nebo se jen připojíte, zážitek ze sledování zůstane dokonale sladěný, bez přerušení nebo přeskakování. Zažijte streamování v ohromující kvalitě HD a vychutnejte si vysokou rychlost ukládání do vyrovnávací paměti pro zážitek ze sledování. Nečekejte déle; získat rozšíření nyní. Dále se dozvíte, jak snadné je zdarma zahájit celosvětovou sledovací párty nebo se k ní připojit.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
-      "heading": "Jak používat rozšíření Netflix Party Extension",
-      "subHeading": "Určitě jste zažili sledování Netflixu s lidmi ve stejné místnosti a na stejné obrazovce. Nikdy by vás však nenapadlo, že byste mohli streamovat společně s nimi i přes vzdálenost mezi vámi? Proto nyní s nimi můžete v několika jednoduchých krocích vytvořit hodinovou párty, bez ohledu na vzdálenost mezi vámi –",
+      "heading": "Pokyny pro používání rozšíření Netflix Party Extension",
+      "subHeading": "Mnoho lidí zná zkušenost sdílení pořadu Netflix na jedné obrazovce s přáteli ve stejné místnosti. Přesto, i když jsou od sebe na míle daleko, myšlenka na společné streamování se kdysi mohla zdát jako vzdálený sen. Nyní se překlenutí této propasti stalo realitou. Pár kliknutí můžete snadno uspořádat večírek, takže vzdálenost již nebude stát v cestě sdíleným okamžikům sledování",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
       "accordian": [
         {
           "id": "1",
           "question": "NAINSTALUJTE ROZŠÍŘENÍ",
-          "answer": "Prvním krokem je stažení party rozšíření Netflix <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Klikněte zde</u></a> nainstalujte bezplatné a uživatelsky přívětivé rozšíření. Kromě toho se prosím ujistěte, že máte k instalaci prohlížeč Google Chrome nebo Microsoft Edge. Kromě toho je rozšíření kompatibilní s Chromebooky, macOS, notebooky, Windows a počítači."
+          "answer": "Začněte instalací rozšíření Netflix Party. <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Kliknutím sem</u></a> stáhněte si zdarma rozšíření, které je známé pro své snadné použití. Pro účely instalace je navíc důležité mít jako prohlížeč Google Chrome nebo Microsoft Edge. Toto rozšíření bezproblémově funguje s řadou zařízení, včetně Chromebooků, systémů macOS, notebooků, počítačů se systémem Windows a dalších počítačů."
         },
         {
           "id": "2",
           "question": "PŘIPOJTE PRODLOUŽENÍ",
-          "answer": "Dále musíte rozšíření připnout na panel nástrojů. Pokud však ikonu rozšíření Netflix party nevidíte, klikněte na ikonu puzzle v pravém rohu v horní části prohlížeče. Najdete tam ikonku rozšíření, takže si ji můžete připnout."
+          "answer": "Poté musíte rozšíření připojit k panelu nástrojů. Pokud ikona rozšíření Netflix Party není okamžitě viditelná, jednoduše klepněte na ikonu puzzle umístěnou v pravém horním rohu prohlížeče. Zde najdete ikonu rozšíření, která vám umožní jej snadno připnout."
         },
         {
           "id": "3",
           "question": "ZAČNĚTE NETFLIXOVAT",
-          "answer": "Nyní otevřete Netflix a přihlaste se ke svému účtu. Pamatujte, že k vytvoření party potřebujete své individuální předplatné na Netflixu. Navíc všichni členové sledovací party potřebují, aby se mohli připojit k samostatnému předplatnému Netflix."
+          "answer": "Poté přejděte na Netflix a přihlaste se ke svému účtu. Mějte na paměti, že pro pořádání večírku musíte mít vlastní předplatné Netflix a každý účastník musí mít také vlastní předplatné Netflix, aby se mohl připojit."
         },
         {
           "id": "4",
-          "question": "HLEDAT, NASTAVIT, HRÁT",
-          "answer": "Dále vyhledejte svůj oblíbený pořad nebo film Netflix. Nebo můžete vyhledat jakékoli jiné video, které si chcete užít se svými přáteli, a přehrát si ho."
+          "question": "VYHLEDAT, NASTAVIT, HRÁT",
+          "answer": "Poté vyhledejte svůj oblíbený seriál, film nebo video Netflix, které chcete předat svým společníkům, a začněte je hrát."
         },
         {
           "id": "5",
           "question": "VYTVOŘTE PATRY HODINEK NETFLIX",
-          "answer": "Pro poslední krok klikněte na ikonu připnutého rozšíření. Otevře se malé vyskakovací okno s názvem „CREATE A WATCH PARTY“ s tlačítkem „START A PARTY“. Kliknutím na toto tlačítko získáte odkaz na pozvánku na párty, kterou můžete sdílet se svými přáteli."
+          "answer": "Nakonec klikněte na dříve připnutou ikonu rozšíření. Objeví se malé vyskakovací okno s názvem „CREATE A WATCH PARTY“ s tlačítkem „START A PARTY“. Aktivujte toto tlačítko, chcete-li vytvořit odkaz s pozvánkou na párty, kterou můžete sdílet s přáteli."
         },
         {
           "id": "6",
-          "question": "SDÍLEJTE RADOST",
-          "answer": "Nyní jste úspěšně vytvořili bezproblémový Netflix Watch Party. Sdílejte proto vygenerovanou adresu URL pozvánky se všemi přáteli, které chcete na večírku sledování."
+          "question": "ŠÍŘTE ŠTĚSTÍ",
+          "answer": "Nyní jste bez námahy založili Netflix Watch Party. Pokračujte ve sdílení vytvořeného odkazu na pozvánku s přáteli, které chcete zahrnout do party."
         }
       ]
     },
     "three": {
-      "heading": "JAK SE K TOMU PŘIPOJIT??",
-      "subHeading": "Je velmi jednoduché a snadné připojit se k Netflix Party. Musíte však postupovat stejně jako při vytváření party. Proto je třeba nainstalovat a připnout toto rozšíření Chrome a poté se přihlásit ke svému účtu Netflix. Kromě toho mějte na paměti, že abyste se mohli připojit ke sledování, musíte mít své individuální předplatné Netflix. Po tom všem stačí kliknout na adresu URL pozvánky, kterou váš přítel obdržel. A voilá, i přes kilometry jste dosáhli té nejlepší hodinářské party všech dob.",
+      "heading": "JAK SE K TOMU PŘIPOJIT…….?",
+      "subHeading": "Účast na Netflix Party je plynulý a přímočarý proces, který odráží kroky nastavení zahájení večírku. Začněte tím, že si nainstalujete požadované rozšíření pro Chrome a připnete si ho na panel nástrojů, poté se přihlaste ke svému účtu Netflix – předpoklad pro připojení k jakékoli hodině. Pamatujte, že vlastnictví předplatného Netflix je pro tento zážitek nezbytné. Po těchto úvodních krocích klikněte na odkaz pozvánky, který vám poskytl váš přítel. Právě tak jste připraveni ponořit se do vzrušujícího dobrodružství večírků, které vás přiblíží k přátelům z dálky.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
       "accordian": [
         {
           "id": "t1",
           "question": "NEOMEZENÉ SLEDOVÁNÍ ČLENŮ PARTY",
-          "answer": "Věděli jste, že počet lidí, kteří se mohou zúčastnit vaší party, není omezen? S tímto rozšířením <b>Netflix Party</b> můžete do své sledovací party zapojit tolik lidí, kolik chcete. Proto bez ohledu na to, kolik lidí se chce zúčastnit vaší party, můžete je dostat tak, že s nimi budete sdílet adresu URL pozvánky."
+          "answer": "Rozšíření Netflix Party nabízí neomezený seznam hostů pro vaši párty. Navíc můžete pozvat tolik účastníků, kolik chcete. Tato flexibilita zajišťuje, že nikdo nesmí chybět; sdílejte adresu URL pozvánky a každý, koho chcete zahrnout, se může bez problémů připojit ke sledování."
         },
         {
           "id": "t2",
           "question": "OVLÁDEJTE PARTY HODINEK NETFLIX",
-          "answer": "Můžete získat úplnou kontrolu nad nastavením večírku. Navíc můžete povolit plnou kontrolu ve vaší ruce otočením zeleného tlačítka „ONLY I MAVE CONTROL“ a získáním kontroly nad hlídkou. Máte tedy pravomoc nad nastavením Přehrát, Pozastavit, Vpřed a Přetočit zpět. Kromě toho mějte na paměti, že nastavení systému stále zůstává na členech sledovací skupiny. Všichni členové sledovací skupiny proto mohou stále upravovat svá nastavení zvuku, jazyka a titulků."
+          "answer": "Získejte plnou kontrolu nad hlídkou aktivací zvýraznění „ONLY I MAVE CONTROL“, které, když se změní na zelenou, uděluje vám elitní velení nad funkcemi Play, Pause, Forward a Rewind. Navzdory tomuto centralizovanému ovládání si každý účastník večírku zachovává možnost upravit svá systémová nastavení, což mu umožňuje přizpůsobit předvolby zvuku, jazyka a titulků podle svých představ."
         },
         {
           "id": "t3",
           "question": "UŽIJTE SI ŽIVÝ SKUPINOVÝ CHAT",
-          "answer": "Svou sledovací párty můžete posouvat na další úroveň chatováním prostřednictvím funkce skupinového chatu večírku. Živý chat se však objeví na postranním panelu večírku sledování. Při společném streamování můžete odesílat reakce na konkrétní scény. Proto není nic lepšího než toto, abyste se cítili více propojeni se svými blízkými. Chatujte při streamování na večírku."
+          "answer": "Zvyšte svou zábavu při sledování tím, že se zapojíte do funkce skupinového chatu na postranním panelu večírku. Tento interaktivní nástroj vám umožňuje okamžitě sdílet své myšlenky a reakce na scény, jak se odehrávají, a všechny přiblížit navzdory fyzické vzdálenosti. Je to dokonalá metoda, jak posílit pocit sounáležitosti se svými blízkými. Ponořte se do konverzací a podělte se o své reakce, zatímco si užíváte streamování, čímž přidáte do svého sledovacího večírku interaktivnější a zábavnější vrstvu."
         },
         {
           "id": "t4",
           "question": "PŘIZPŮSOBTE SI NETFLIX PÁRTY",
-          "answer": "Získáte možnost přizpůsobit svůj uživatelský profil a dát mu osobní dotek. Proto si můžete pro svůj profil vybrat zábavnou přezdívku. Kromě toho můžete také vybrat ikonu uživatele z vestavěných avatarů. Vaše přezdívka a ikona uživatele se však objeví ve skupině sledování a skupinovém chatu."
+          "answer": "Přizpůsobení uživatelského profilu je snadné a umožní vám přidat svůj jedinečný dotek. Vyberte si výstřední přezdívku a spojte ji s výrazným avatarem z nabízeného výběru. Tyto osobní doteky, vaše přezdívka a avatar, se zobrazí během sledování a skupinových chatů, čímž dodají vašim interakcím zvláštní prvek a zvýrazní je."
         },
         {
           "id": "t5",
           "question": "BEZPROBLÉMOVÁ SYNCHRONIZACE",
-          "answer": "Nezáleží na tom, kde jste vy nebo vaši blízcí. Synchronizovaně s nimi můžete streamovat Netflix. Rozšíření vytváří plynulé večírky s dokonalou synchronizací. Proto i při přeskakování nebo pozastavení zůstává synchronizace nedotčena. Můžete se tedy všichni dívat společně v reálném čase."
+          "answer": "Když použijete toto rozšíření ke streamování Netflixu, vaše poloha nebo poloha vašich přátel a rodiny se stane irelevantní. Zajišťuje bezproblémové sledování večírků, které jsou dokonale synchronizované, a udržuje tuto synchronizaci i přes pauzy a přeskakování. Každý se tak může podílet na společném pozorování postupně v reálném čase, bez ohledu na to, kde se nachází."
         },
         {
           "id": "t6",
           "question": "NEJLEPŠÍ ZÁŽITEK VIDEA HD",
-          "answer": "Jste také flámoví diváci a milovníci Netflixu? Pak byste milovali Netflix Party s fantastickou kvalitou videa. Proto je to přesně to, co vám nabízíme. Nyní můžete zažít video v HD kvalitě s vysokou rychlostí ukládání do vyrovnávací paměti u všech vašich videí. Proto už nečekejte a začněte instalovat tento bezplatný nástroj hned, abyste mohli streamovat stylově."
+          "answer": "Pokud je vaše posedlost sledováním na Netflixu a jde vám o skvělou kvalitu videa, pak je Netflix Party přesně to, co vám chybí. Jsme tu, abychom to dodali. S touto nabídkou si můžete vychutnat svá videa v ohromující kvalitě HD a vysoké rychlosti ukládání do vyrovnávací paměti. Takže už žádné čekání. Nastartujte proto svou stylovou streamovací cestu instalací tohoto bezplatného nástroje ještě dnes."
         },
         {
           "id": "t7",
           "question": "ZDARMA A CELÝ SVĚT",
-          "answer": "Nejlepší na tom je, že rozšíření je zcela zdarma a nemusíte do ničeho investovat, abyste si užili párty sledování Netflix se svými přáteli. Kromě toho je toto rozšíření dostupné po celém světě. Streamování si proto můžete užít se svými blízkými z kteréhokoli koutu světa. Ujistěte se však, že je Netflix dostupný ve všech zemích, kde se snažíte pořádat párty. Přestože všichni členové sledovací party musí být ve stejné zemi, lidé mohou stále používat službu VPN a změnit svou zemi, pokud patří do jiné."
+          "answer": "Největší výhodou je, že toto bezplatné rozšíření vám umožňuje uspořádat párty sledování Netflix se svými přáteli, aniž byste utratili desetník. Jeho globální dostupnost navíc znamená, že můžete streamovat po boku svých blízkých odkudkoli. Zajistěte, aby byly služby Netflix dostupné na všech místech, která hodláte zahrnout do svého sledování. I když je nutné, aby se všichni účastníci nacházeli ve stejné zemi, aby se mohli připojit, existuje řešení se službami VPN pro ty v různých regionech, aby si mohli upravit nastavení země a zúčastnit se."
         }
       ]
     }
@@ -94,38 +94,33 @@
     "accordian": [
       {
         "id": "f1",
-        "question": "Jak funguje rozšíření Netflix Party?",
-        "answer": "Rozšíření Netflix Party umožňuje uživatelům synchronizovat své streamy Netflix s přáteli a vytvářet tak virtuální večírek. Uživatelé mohou pořádat večírky nebo se k nim připojit a společně sledovat pořady a filmy v reálném čase."
+        "question": "Jak mohu zahájit Netflix Party?",
+        "answer": "Chcete-li zahájit vlastní Netflix Watch Party, ujistěte se, že jste přidali rozšíření Netflix Party do funkčního internetového prohlížeče, jako je Google Chrome nebo Microsoft Edge. Poté, co zůstanete u rozšíření Netflix Party pro rychlý přístup, přihlaste se ke svému účtu Netflix, vyberte si ideální film nebo seriál a spusťte přehrávání. Poté klepněte na symbol rozšíření Netflix Party a vyberte „Začít PARTY, abyste vytvořili jedinečné uvítací spojení. Sdílejte toto přivítání se svými kamarády a rozjeďte párty."
       },
       {
         "id": "f2",
-        "question": "Je rozšíření Netflix Party zdarma?",
-        "answer": "Ano, rozšíření Netflix Party je zcela zdarma ke stažení a použití. Uživatelé si mohou užívat synchronizované streamování s přáteli bez dalších nákladů."
+        "question": "Musí mít každý účastník předplatné Netflix, aby se mohl zúčastnit Netflix Party?",
+        "answer": "Každý účastník, který se chce připojit k Netflix Watch Party, musí mít aktivní předplatné Netflix. To je klíčové pro plný přístup ke streamovanému obsahu během sledování."
       },
       {
         "id": "f3",
-        "question": "Existuje nějaká omezení ohledně počtu účastníků večírku?",
-        "answer": "Ne, počet účastníků večírku sledování Netflix Party není nijak omezen. Uživatelé mohou pozvat tolik přátel, kolik chtějí, takže je ideální pro velké skupiny."
+        "question": "Mohu spravovat přehrávání na Netflix Party?",
+        "answer": "Rozhodně! Ovládací prvky přehrávání v rámci Netflix Watch Party můžete ovládat výběrem možnosti „POUZE JÁ MÁM OVLÁDÁNÍ“. Navíc vám to předá otěže k pozastavení, přehrávání, přeskočení a přetáčení, jak uznáte za vhodné. Účastníci mohou stále upravovat svá individuální nastavení, jako jsou titulky, jazyk a hlasitost."
       },
       {
         "id": "f4",
-        "question": "Mohu ovládat přehrávání během Netflix Party?",
-        "answer": "Ano, hostitelé mají možnost povolit plnou kontrolu nad nastavením přehrávání, včetně přehrávání, pauzy, vpřed a vzad. Účastníci si však stále mohou upravit svá individuální nastavení zvuku, jazyka a titulků."
+        "question": "Jaký je maximální počet hostů, které mohu pozvat na večírek Netflix?",
+        "answer": "Je úžasné, že počet návštěvníků, které můžete přivítat na večírku sledování Netflix, není omezen. Rozšiřte pozdrav mnoha společníkům a zaručte tak široký a komplexní pohled na průzkum."
       },
       {
         "id": "f5",
-        "question": "Je rozšíření Netflix Party dostupné globálně?",
-        "answer": "Ano, rozšíření Netflix Party je dostupné po celém světě. Uživatelé mohou pořádat večírky s přáteli z jakéhokoli koutu světa za předpokladu, že je Netflix dostupný v jejich příslušných zemích. Kromě toho mohou účastníci používat služby VPN, aby se připojili ke stranám hostovaným v jiných zemích."
+        "question": "Jak se hosté připojí na Netflix Party?",
+        "answer": "Zapojit se do Netflix Watch Party je jednoduché: účastníci si musí nainstalovat a připnout rozšíření Netflix Party na lištu svého prohlížeče, podobně jako hostitel. Jakmile se přihlásí do Netflixu, kliknutím na odkaz sdílené pozvánky hostitele se bez problémů přidá na večírek."
       },
       {
         "id": "f6",
-        "question": "Jak mohu zahájit skupinové sledování skupiny Netflix?",
-        "answer": "Chcete-li zahájit Netflix Group Watch Party, vyberte platformu jako Teleparty (dříve Netflix Party) nebo Scener a nainstalujte si její rozšíření prohlížeče. Po instalaci se přihlaste do Netflixu, vyberte si preferovaný obsah a spusťte párty prostřednictvím rozšíření. Sdílejte vygenerovaný odkaz s přáteli, abyste se mohli připojit. Užijte si sledování společně s integrovanými funkcemi chatu pro zábavný a interaktivní zážitek!"
-      },
-      {
-        "id": "f7",
-        "question": "Jak mohu ze své skupiny sledování skupiny Netflix vytěžit maximum?",
-        "answer": "Chcete-li ze své skupiny sledování Netflix vytěžit maximum, řiďte se těmito tipy: Vyberte si obsah předem, naplánujte večírek a sdílejte podrobnosti včas, aktivně používejte chat k diskusím a reakcím, dejte si přestávky během dlouhého sledování, přizpůsobte si ovládání přehrávání pro hladký zážitek. a požádejte o zpětnou vazbu, abyste zlepšili budoucí strany."
+        "question": "Je rozšíření Netflix Party dostupné globálně?",
+        "answer": "Rozšíření Netflix Party je navrženo pro globální použití v závislosti na dostupnosti služeb Netflix v místě účastníka. Pro ty, kteří se nacházejí v různých oblastech, může být k synchronizaci nastavení země nezbytná síť VPN, která všem umožní účastnit se večírku."
       }
     ]
   },

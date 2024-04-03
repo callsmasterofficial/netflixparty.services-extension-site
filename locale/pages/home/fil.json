@@ -6,85 +6,85 @@
   "section": {
     "first": {
       "heading": "NETFLIX AT CHILL SA MGA KAIBIGAN VIA NETFLIX PARTY.",
-      "html": "Magpaalam sa mga hindi napapanahong paraan ng streaming at tanggapin ang modernong paraan ng panonood kasama ng iyong mga kaibigan, gaano man kalayo, sa pamamagitan ng pag-install ng extension ng Netflix Party nang libre. Hinahayaan ka ng makabagong tool na ito na masiyahan sa isang malawak na hanay ng mga serye at pelikula sa Netflix na perpektong naka-synchronize sa mga kaibigan sa buong mundo. Nagho-host ka man o sasali, nananatiling naka-sync ang panonood, hindi naaapektuhan ng mga pag-pause o paglaktaw. Dagdag pa rito, magpakasawa sa mahusay na HD-kalidad na streaming at mabilis na bilis ng buffering para sa walang kapantay na karanasan sa panonood. Huwag nang mag-alinlangan pa; i-download ang extension ngayon. Bukod pa rito, tuklasin ang direktang proseso ng paglikha o paglahok sa isang pandaigdigang panonood na partido nang walang bayad.",
+      "html": "Magpaalam sa mga makalumang paraan ng streaming at salubungin ang isang bagong panahon ng panonood ng grupo gamit ang extension ng Netflix Party, na available nang walang bayad. Ang makabagong feature na ito ay nagbibigay-daan sa iyo at sa iyong mga kaibigan, saanman sila naroroon, na manood ng malawak na seleksyon ng mga palabas at pelikula ng Netflix Party sa perpektong pagkakatugma. Ikaw man ang host o sumasali lang, ang karanasan sa panonood ay mananatiling perpektong nakahanay, nang walang mga abala sa pag-pause o paglaktaw. Damhin ang streaming sa nakamamanghang kalidad ng HD at tangkilikin ang mabilis na bilis ng pag-buffer para sa isang karanasan sa panonood. Huwag nang maghintay pa; kunin ang extension ngayon. Higit pa rito, alamin kung gaano kadaling magsimula o sumali sa isang pandaigdigang panonood na partido nang libre.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/netflix-party.mp4"
     },
     "second": {
-      "heading": "Paano gamitin ang Netflix Party Extension",
-      "subHeading": "Naranasan mo na sigurong manood ng Netflix kasama ng mga tao sa iisang kwarto at sa parehong screen. Gayunpaman, hindi mo akalain na makakasama mo silang mag-stream sa kabila ng distansya sa pagitan mo? Samakatuwid, maaari ka na ngayong lumikha ng isang panonood na partido sa ilang simpleng mga hakbang kasama sila, kahit gaano pa kalayo sa pagitan mo-",
+      "heading": "Mga Alituntunin para sa Paggamit ng Netflix Party Extension",
+      "subHeading": "Maraming tao ang pamilyar sa karanasan ng pagbabahagi ng palabas sa Netflix sa iisang screen sa mga kaibigan sa iisang kwarto. Gayunpaman, sa kabila ng ilang milya ang pagitan, ang pag-iisip na mag-enjoy sa isang streaming session na magkasama ay maaaring tila isang malayong panaginip. Ngayon, ang pagtulay sa puwang na iyon ay naging isang katotohanan. Madali kang makakapag-set up ng panonood sa ilang mga pag-click lang, na tinitiyak na ang distansya ay hindi na humahadlang sa mga nakabahaging sandali sa panonood.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Netflix-Party-final-2.mp4",
       "accordian": [
         {
           "id": "1",
           "question": "I-INSTALL ANG EXTENSION",
-          "answer": "Ang unang hakbang ay i-download ang Netflix party extension <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>I-click dito</u></a> upang i-install ang libre, user-friendly na extension. Bukod dito, pakitiyak na mayroon kang browser ng Google Chrome o Microsoft Edge para i-install ito. Higit pa rito, ang extension ay tugma sa Chromebooks, macOS, Laptops, Windows, at Computers."
+          "answer": "Magsimula sa pamamagitan ng pag-install ng extension ng Netflix Party. <a href=\"https://chrome.google.com/webstore/detail/netflix-party/djpbcgbfllffgmoedmonmjbaofikcnnc\" target=\"_blank\" rel=\"noopener\"><u>Mag-click dito</u></a> upang i-download ang extension nang walang bayad, na kilala sa kadalian ng paggamit nito. Bukod pa rito, mahalagang magkaroon ng Google Chrome o Microsoft Edge bilang iyong browser para sa mga layunin ng pag-install. Walang putol na gumagana ang extension na ito sa iba't ibang device, kabilang ang mga Chromebook, macOS system, laptop, Windows PC, at iba pang mga computer."
         },
         {
           "id": "2",
           "question": "PIN ANG EXTENSION",
-          "answer": "Susunod, kailangan mong i-pin ang extension sa toolbar. Gayunpaman, kung hindi mo nakikita ang icon ng extension ng Netflix party, mag-click sa icon ng puzzle sa kanang sulok sa tuktok ng browser. Makikita mo doon ang icon ng extension, para mai-pin mo ito."
+          "answer": "Kasunod nito, kailangan mong ilakip ang extension sa iyong toolbar. Kung hindi agad makikita ang icon para sa extension ng Netflix Party, i-tap lang ang icon ng puzzle na matatagpuan sa kanang sulok sa itaas ng iyong browser. Dito, matutuklasan mo ang icon ng extension, na nagbibigay-daan sa iyong i-pin ito nang madali."
         },
         {
           "id": "3",
           "question": "MAGSIMULA NG NETFLIXING",
-          "answer": "Ngayon, buksan ang Netflix at mag-login sa iyong account. Pakitandaan na kailangan mo ang iyong indibidwal na subscription sa Netflix para sa paglikha ng isang party sa panonood. Bukod dito, kailangan ng lahat ng miyembro ng watch party ang kanilang hiwalay na mga subscription sa Netflix para makasali."
+          "answer": "Pagkatapos, mag-navigate sa Netflix at mag-sign in sa iyong account. Tandaan na dapat ay mayroon kang sariling subscription sa Netflix upang mag-host ng isang party sa panonood, at ang bawat kalahok ay dapat ding magkaroon ng kanilang sariling subscription sa Netflix upang makasali."
         },
         {
           "id": "4",
           "question": "PAGHAHANAP, Itakda, MAGLARO",
-          "answer": "Dagdag pa, maghanap para sa iyong paboritong palabas sa Netflix o isang pelikula. O maaari kang maghanap para sa anumang iba pang video na gusto mong i-enjoy kasama ng iyong mga kaibigan at i-play ito."
+          "answer": "Pagkatapos, mangyaring hanapin ang iyong paboritong serye, pelikula, o video sa Netflix na gusto mong ibigay sa iyong mga kasama at simulan itong i-play."
         },
         {
           "id": "5",
           "question": "GUMAWA NG NETFLIX WATCH PATRY",
-          "answer": "Para sa huling hakbang, mag-click sa naka-pin na icon ng extension. Magbubukas ang isang maliit na pop-up na pinangalanang \"GUMAWA NG PANOORIN NA PARTY\" gamit ang isang button na tinatawag na \"START A PARTY.\" Mag-click sa button na iyon para makakuha ng link ng imbitasyon sa party ng panonood na maaari mong ibahagi sa iyong mga kaibigan."
+          "answer": "Panghuli, mag-click sa naunang naka-pin na icon ng extension. May lalabas na maliit na popup window na may pamagat na “GUMAWA NG PANOORIN NA PARTIDO,” na magpapakita ng isang button na pinangalanang “Magsimula ng PARTY.” I-activate ang button na ito para gumawa ng link ng imbitasyon para sa iyong watch party, na handang ibahagi sa iyong mga kaibigan."
         },
         {
           "id": "6",
-          "question": "IBAHAGI ANG KALIGAYAHAN",
-          "answer": "Ngayon, matagumpay kang nakagawa ng isang walang putol na Netflix Watch Party. Samakatuwid, ibahagi ang nabuong URL ng imbitasyon sa lahat ng kaibigang gusto mo sa panonood."
+          "question": "IKALAT ANG KALIGAYAHAN",
+          "answer": "Nagtatag ka na ngayon ng Netflix Watch Party nang walang kahirap-hirap. Magpatuloy na ibahagi ang link ng imbitasyon na ginawa mo sa sinumang kaibigan na gusto mong isama sa panonood."
         }
       ]
     },
     "three": {
-      "heading": "PAANO SUMALI DITO??",
-      "subHeading": "Napakasimple at walang hirap na sumali sa Netflix Party. Gayunpaman, dapat mong sundin ang parehong pamamaraan sa pagsisimula tulad ng paggawa ng party ng panonood. Samakatuwid, kailangan mong i-install at i-pin ang chrome extension na ito at, pagkatapos nito, mag-log in sa iyong Netflix account. Bukod dito, pakitandaan na dapat ay mayroon kang indibidwal na subscription sa Netflix para makasali sa panonood. Pagkatapos ng lahat ng ito, kailangan mo lamang i-click ang URL ng imbitasyon na natanggap ng iyong kaibigan. At Voila, naabot mo na ang pinakamagandang panonood na party kailanman kahit na sa kabila ng mga milya.",
+      "heading": "PAANO SUMALI DITO…….?",
+      "subHeading": "Ang pakikilahok sa isang Netflix Party ay isang maayos at tuwirang proseso, na sumasalamin sa mga hakbang sa pag-setup ng pagsisimula ng isang watch party. Magsimula sa pamamagitan ng pag-install ng kinakailangang extension ng Chrome at pag-pin nito sa iyong toolbar, pagkatapos ay mag-log in sa iyong Netflix account—isang kinakailangan para sa pagsali sa anumang party ng panonood. Tandaan, ang pagmamay-ari ng isang subscription sa Netflix ay mahalaga para sa karanasang ito. Pagkatapos ng mga unang hakbang na ito, mag-click sa link ng imbitasyon na ibinigay ng iyong kaibigan. Kaya lang, handa ka nang sumabak sa isang kapana-panabik na pakikipagsapalaran sa party sa panonood, na naglalapit sa iyo sa mga kaibigan mula sa malayo.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Sync-Netflix-Party-in-HD-Final.mp4",
       "accordian": [
         {
           "id": "t1",
           "question": "LIMITLESS WATCH PARTY MEMBERS",
-          "answer": "Alam mo ba na walang limitasyon sa kung gaano karaming tao ang maaaring sumali sa iyong watch party? Gamit ang extension na ito ng <b>Netflix Party</b>, maaari kang magpasok ng maraming tao hangga't gusto mo sa iyong watch party. Samakatuwid, gaano man karaming tao ang gustong maging bahagi ng iyong panonood, maaari mo silang makapasok sa pamamagitan lamang ng pagbabahagi ng URL ng imbitasyon sa kanila."
+          "answer": "Nag-aalok ang extension ng Netflix Party ng walang limitasyong listahan ng bisita para sa iyong panonood na party. Bukod dito, maaari kang mag-imbita ng maraming kalahok hangga't gusto mo. Tinitiyak ng kakayahang umangkop na ito na walang sinuman ang dapat makaligtaan; ibahagi ang URL ng imbitasyon, at lahat ng gusto mong isama ay maaaring sumali sa panonood nang walang putol."
         },
         {
           "id": "t2",
           "question": "KONTROL ANG NETFLIX WATCH PARTY",
-          "answer": "Makukuha mo ang kumpletong kontrol sa mga setting ng party sa panonood. Bukod dito, maaari mong paganahin ang ganap na kontrol sa iyong kamay sa pamamagitan ng pag-green sa button na “AKO LANG ANG MAY KONTROL” at pagkuha ng kontrol sa panonood. Samakatuwid, mayroon kang awtoridad sa mga setting ng Play, Pause, Forward, at Rewind. Bilang karagdagan dito, tandaan na ang mga setting ng system ay nananatili pa rin sa mga miyembro ng watch party. Samakatuwid, lahat ng miyembro ng panonood ay maaari pa ring baguhin ang kanilang mga setting ng audio, wika, at subtitle."
+          "answer": "Kunin ang ganap na kontrol sa party ng panonood sa pamamagitan ng pag-activate sa highlight na 'AKO LANG ANG MAY KONTROL', na, kapag naging berde ito, ay nagbibigay sa iyo ng elite command sa mga kakayahan sa Play, Pause, Forward, at Rewind. Sa kabila ng sentralisadong kontrol na ito, ang bawat kalahok sa panonood ay nagpapanatili ng kakayahang ayusin ang kanilang mga setting ng system, na nagpapahintulot sa kanila na i-customize ang mga kagustuhan sa audio, wika, at subtitle ayon sa kanilang gusto."
         },
         {
           "id": "t3",
           "question": "ENJOY ANG LIVE GROUP CHAT",
-          "answer": "Maaari mong pasiglahin ang iyong panonood sa susunod na antas sa pamamagitan ng pakikipag-chat sa pamamagitan ng tampok na panggrupong chat ng panonood. Gayunpaman, lalabas ang live chat sa sidebar ng panonood na party. Maaari kang magpadala ng mga reaksyon sa mga partikular na eksena habang magkasamang nagsi-stream. Samakatuwid, walang mas mahusay kaysa dito upang makaramdam ng higit na konektado sa iyong mga mahal sa buhay. Makipag-chat habang nagsi-stream sa iyong watch party."
+          "answer": "Palakasin ang iyong kasiyahan sa panonood sa pamamagitan ng pakikipag-ugnayan sa feature na panggrupong chat sa sidebar ng panonood. Binibigyang-daan ka ng interactive na tool na ito na agad na ibahagi ang iyong mga iniisip at reaksyon sa mga eksena habang lumalabas ang mga ito, na naglalapit sa lahat sa kabila ng pisikal na distansya. Ito ay isang perpektong paraan upang mapahusay ang pakiramdam ng pagkakaisa sa iyong mga mahal sa buhay. Sumisid sa mga pag-uusap at ibahagi ang iyong mga reaksyon habang nag-e-enjoy ka sa streaming, na nagdaragdag ng mas interactive at kasiya-siyang layer sa iyong watch party."
         },
         {
           "id": "t4",
           "question": "PERSONALIZE ANG NETFLIX PARTY",
-          "answer": "Makukuha mo ang opsyong i-customize ang iyong profile ng user at bigyan ito ng personal na ugnayan. Samakatuwid, maaari kang pumili ng masayang palayaw para sa iyong profile. Bukod dito, maaari ka ring pumili ng icon ng user mula sa mga inbuilt na avatar. Gayunpaman, lalabas ang iyong nickname at icon ng user sa iyong party sa panonood at panggrupong chat."
+          "answer": "Madaling i-personalize ang iyong profile ng user, na nagbibigay-daan sa iyong idagdag ang iyong natatanging touch. Pumili ng kakaibang palayaw at itugma ito sa isang natatanging avatar mula sa ibinigay na pagpipilian. Ang mga personal touch na ito, ang iyong palayaw at avatar, ay ipapakita sa mga party sa panonood at mga panggrupong chat, na nagdaragdag ng isang espesyal na elemento sa iyong mga pakikipag-ugnayan at ginagawa silang kakaiba."
         },
         {
           "id": "t5",
           "question": "MAG-SYNC NG SEAMLESS",
-          "answer": "Hindi mahalaga kung nasaan ka o ang iyong mga mahal sa buhay. Maaari kang mag-stream ng Netflix nang naka-sync sa kanila. Lumilikha ang extension ng maayos na mga party sa panonood na may perpektong pag-sync. Samakatuwid, kahit na lumalaktaw o naka-pause, nananatiling buo ang pag-sync. Kaya lahat kayo ay makakapanood nang magkasama sa real-time."
+          "answer": "Kapag ginamit mo ang extension na ito upang mag-stream ng Netflix, ang lokasyon mo o ng iyong mga kaibigan at pamilya ay magiging walang kaugnayan. Tinitiyak nito ang tuluy-tuloy na mga party sa panonood na perpektong naka-sync, pinapanatili ang pag-synchronize na ito kahit na sa pamamagitan ng mga pag-pause at paglaktaw. Kaya, lahat ay maaaring makibahagi sa pagmamasid nang sama-sama nang progresibo sa real time, nasaan man sila."
         },
         {
           "id": "t6",
           "question": "ULTIMATE HD VIDEO EXPERIENCE",
-          "answer": "Ikaw ba ay isang binge-watcher din at isang Netflix lover? Kung gayon, magugustuhan mo ang isang Netflix Party na may kamangha-manghang kalidad ng video. Samakatuwid, iyon mismo ang inaalok namin sa iyo. Maaari mo na ngayong maranasan ang kalidad ng HD na video na may mabilis na bilis ng pag-buffer sa lahat ng iyong video. Kaya, huwag nang maghintay at simulan ang pag-install ng libreng tool na ito ngayon para makapag-stream ka nang may istilo."
+          "answer": "Kung kinahuhumalingan mo ang panonood sa Netflix at tungkol ka sa mahusay na kalidad ng video, kung gayon ang Netflix Party ang mismong nawawala sa iyo. Nandito kami para ihatid iyon. Sa alok na ito, masisiyahan ka sa iyong mga video sa nakamamanghang kalidad ng HD at mabilis na bilis ng pag-buffer. Kaya, hindi na maghintay sa paligid. Kaya, simulan ang iyong naka-istilong paglalakbay sa streaming sa pamamagitan ng pag-install ng libreng tool na ito ngayon."
         },
         {
           "id": "t7",
           "question": "LIBRE AT BUONG MUNDO",
-          "answer": "Ang pinakamagandang bahagi ay ang extension ay ganap na libre, at hindi mo kailangang mamuhunan sa anumang bagay upang masiyahan sa isang Netflix watch party kasama ang iyong mga kaibigan. Bukod doon, available ang extension na ito sa buong mundo. Samakatuwid, masisiyahan ka sa streaming kasama ang iyong mga mahal sa buhay mula sa anumang sulok ng mundo. Gayunpaman, pakitiyak na available ang Netflix sa lahat ng bansa kung saan mo sinusubukang i-host ang watch party. Bagama't ang lahat ng miyembro ng watch party ay dapat nasa iisang bansa, magagamit pa rin ng mga tao ang serbisyo ng VPN at baguhin ang kanilang bansa kung kabilang sila sa isa pa."
+          "answer": "Ang pinakamalaking kalamangan ay ang libreng extension na ito ay nagbibigay-daan sa iyo na mag-host ng isang Netflix watch party kasama ang iyong mga kaibigan nang hindi gumagastos ng isang barya. Bukod dito, ang global availability nito ay nangangahulugan na maaari kang mag-stream kasama ng mga mahal sa buhay mula sa kahit saan. Tiyaking naa-access ang mga serbisyo ng Netflix sa lahat ng lokasyong balak mong isama sa iyong panonood. Bagama't kinakailangan para sa lahat ng kalahok na nasa iisang bansa para makasali, mayroong isang solusyon sa mga serbisyo ng VPN para sa mga nasa iba't ibang rehiyon upang ayusin ang kanilang mga setting ng bansa at makilahok."
         }
       ]
     }
@@ -94,38 +94,33 @@
     "accordian": [
       {
         "id": "f1",
-        "question": "Paano gumagana ang extension ng Netflix Party?",
-        "answer": "Ang extension ng Netflix Party ay nagpapahintulot sa mga user na i-synchronize ang kanilang mga Netflix stream sa mga kaibigan, na lumilikha ng isang virtual na panonood na party. Ang mga user ay maaaring mag-host o sumali sa mga party at manood ng mga palabas at pelikula nang magkasama sa real-time."
+        "question": "Paano Ako Magpasimula ng isang Netflix Party?",
+        "answer": "Upang magsimula ng sarili mong Netflix Watch Party, tiyaking naidagdag mo ang extension ng Netflix Party sa isang mabubuhay na internet browser, gaya ng Google Chrome o Microsoft Edge. Kasunod ng pananatili sa extension ng Netflix Party para sa mabilis na pag-access, mag-sign in sa iyong Netflix account, piliin ang iyong perpektong pelikula o serye, at pindutin ang play. Pagkatapos, i-tap ang simbolo ng extension ng Netflix Party at piliin ang 'Simulan ang ISANG PARTIDO para makagawa ng kakaibang koneksyon sa pagtanggap. Ibahagi ang pagbating ito sa iyong mga kaibigan para simulan ang party."
       },
       {
         "id": "f2",
-        "question": "Libre bang gamitin ang extension ng Netflix Party?",
-        "answer": "Oo, ang extension ng Netflix Party ay ganap na libre upang i-download at gamitin. Masisiyahan ang mga user sa naka-synchronize na streaming sa mga kaibigan nang walang anumang karagdagang gastos."
+        "question": "Dapat bang May Subscription sa Netflix ang bawat Dadalo upang Makilahok sa isang Netflix Party?",
+        "answer": "Sa katunayan, ang bawat kalahok na nagnanais na sumali sa isang Netflix Watch Party ay dapat magkaroon ng aktibong subscription sa Netflix. Ito ay mahalaga para sa ganap na pag-access sa streaming na nilalaman sa panahon ng panonood."
       },
       {
         "id": "f3",
-        "question": "Mayroon bang anumang mga paghihigpit sa bilang ng mga kalahok sa isang watch party?",
-        "answer": "Hindi, walang limitasyon sa bilang ng mga kalahok sa isang Netflix Party watch party. Maaaring mag-imbita ang mga user ng maraming kaibigan hangga't gusto nila, na ginagawa itong perpekto para sa malalaking grupo."
+        "question": "Magagawa ko bang Pamahalaan ang Playback sa isang Netflix Party?",
+        "answer": "tiyak! Maaari mong pamahalaan ang mga kontrol sa pag-playback sa loob ng isang Netflix Watch Party sa pamamagitan ng pagpili sa opsyong 'MAY KONTROL LANG AKO'. Higit pa rito, ibibigay nito sa iyo ang reins sa I-pause, Play, Skip, at Rewind kung sa tingin mo ay angkop. Maaari pa ring baguhin ng mga kalahok ang kanilang mga indibidwal na setting, tulad ng mga subtitle, wika, at volume."
       },
       {
         "id": "f4",
-        "question": "Maaari ko bang kontrolin ang pag-playback sa panahon ng isang Netflix Party?",
-        "answer": "Oo, may opsyon ang mga host na paganahin ang ganap na kontrol sa mga setting ng playback, kabilang ang play, pause, forward, at rewind. Gayunpaman, maaari pa ring isaayos ng mga kalahok ang kanilang mga indibidwal na setting ng audio, wika, at subtitle."
+        "question": "Ano ang Pinakamataas na Bilang ng mga Panauhin na Maari kong Imbitahan sa isang Netflix Party?",
+        "answer": "Kahanga-hanga, walang limitasyon sa bilang ng mga bisita na maaari mong tanggapin sa iyong Netflix Watch Party. Ipalaganap ang pagbati sa maraming kasama, na ginagarantiyahan ang isang malawak na paparating at komprehensibong pananaw sa survey."
       },
       {
         "id": "f5",
-        "question": "Available ba sa buong mundo ang extension ng Netflix Party?",
-        "answer": "Oo, available sa buong mundo ang extension ng Netflix Party. Ang mga user ay maaaring mag-host ng mga party sa panonood kasama ng mga kaibigan mula sa anumang sulok ng mundo, kung ang Netflix ay maa-access sa kani-kanilang mga bansa. Bilang karagdagan, ang mga kalahok ay maaaring gumamit ng mga serbisyo ng VPN upang sumali sa mga partido na naka-host sa ibang mga bansa."
+        "question": "Paano sumali ang mga bisita sa isang Netflix Party?",
+        "answer": "Ang pagsali sa isang Netflix Watch Party ay diretso: kailangang i-install at i-pin ng mga kalahok ang extension ng Netflix Party sa kanilang browser toolbar, katulad ng host. Kapag naka-log in na sila sa Netflix, ang pag-click sa nakabahaging link ng imbitasyon ng host ay walang putol na nagdaragdag sa kanila sa panonood."
       },
       {
         "id": "f6",
-        "question": "Paano ako magsisimula ng Netflix Group Watch Party?",
-        "answer": "Upang magsimula ng Netflix Group Watch Party, pumili ng platform tulad ng Teleparty (dating Netflix Party) o Scener at i-install ang extension ng browser nito. Pagkatapos ng pag-install, mag-log in sa Netflix, piliin ang iyong gustong content, at ilunsad ang party sa pamamagitan ng extension. Ibahagi ang nabuong link sa mga kaibigan para makasali. Mag-enjoy sa panonood kasama ng pinagsama-samang mga feature ng chat para sa isang masaya, interactive na karanasan!"
-      },
-      {
-        "id": "f7",
-        "question": "Paano ko masusulit ang aking Netflix Group Watch Party?",
-        "answer": "Upang masulit ang iyong Netflix Group Watch Party, sundin ang mga tip na ito: Piliin muna ang iyong content, planuhin ang party at magbahagi ng mga detalye nang maaga, aktibong gumamit ng chat para sa mga talakayan at reaksyon, magpahinga sa mahabang panonood, i-customize ang mga kontrol sa pag-playback para sa isang maayos na karanasan , at humingi ng feedback pagkatapos upang mapabuti ang mga partido sa hinaharap."
+        "question": "Naa-access ba sa buong mundo ang Netflix Party Extension?",
+        "answer": "Ang extension ng Netflix Party ay idinisenyo para sa pandaigdigang paggamit, depende sa pagkakaroon ng mga serbisyo ng Netflix sa lokasyon ng kalahok. Para sa mga nasa iba't ibang rehiyon, maaaring kailanganin ang isang VPN upang i-synchronize ang mga setting ng bansa, na nagbibigay-daan sa lahat na makilahok sa panonood."
       }
     ]
   },
