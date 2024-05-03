@@ -17,7 +17,5 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
             cd /var/www/multiSite/netflixparty.services
-            sudo npm cache clean --force
-            sudo npm ci
             sudo npm run build
             sudo pm2 restart 34
