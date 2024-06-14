@@ -18,4 +18,4 @@ jobs:
           script: |
             cd /var/www/multiSite/netflixparty.services
             sudo npm run build
-            sudo pm2 restart 34
+            sudo pm2 restart 32
