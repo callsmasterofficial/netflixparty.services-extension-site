@@ -5,9 +5,9 @@ export default {
   siteId: '62a8664792c68b0d2f1e40a8',
   extLink: {
     chrome:
-      'https://chromewebstore.google.com/detail/teleparty/mcnbfjjgfmgcbljkoaaadoddokbmnlln',
-    firefox: 'https://addons.mozilla.org/addon/netflix-party-firefox/',
-    edge: 'https://microsoftedge.microsoft.com/addons/detail/okcfdfojiahgjgabmheemffikfagmgcb',
+      'https://chromewebstore.google.com/detail/cpliknnmgllhifnomnldjhcambhpdino',
+    firefox: '',
+    edge: 'https://chromewebstore.google.com/detail/cpliknnmgllhifnomnldjhcambhpdino',
   },
   logo: '/logo.png',
   gtagId: '210083555-15',
