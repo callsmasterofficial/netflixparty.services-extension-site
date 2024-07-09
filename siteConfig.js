@@ -7,7 +7,7 @@ export default {
     chrome:
       'https://chromewebstore.google.com/detail/cpliknnmgllhifnomnldjhcambhpdino',
     firefox: '',
-    edge: 'https://chromewebstore.google.com/detail/cpliknnmgllhifnomnldjhcambhpdino',
+    edge: 'https://microsoftedge.microsoft.com/addons/detail/okcfdfojiahgjgabmheemffikfagmgcb',
   },
   logo: '/logo.png',
   gtagId: '210083555-15',
